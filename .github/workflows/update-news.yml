@@ -1,0 +1,39 @@
+name: Update sustainability news
+
+# Times are UTC. GitHub cron does NOT observe daylight saving.
+#   11:00 UTC = 06:00 EST (winter) / 07:00 EDT (summer)
+#   23:00 UTC = 18:00 EST (winter) / 19:00 EDT (summer)
+# So the feed lands at your 6am/6pm in winter and drifts +1h in summer.
+# Note: GitHub's scheduler is best-effort and can run several minutes late
+# under load — don't be surprised by a 6:09 timestamp.
+on:
+  schedule:
+    - cron: "0 11 * * *"
+    - cron: "0 23 * * *"
+  workflow_dispatch: {}   # adds a "Run workflow" button for manual/test runs
+
+permissions:
+  contents: write         # lets the job commit data.json back to the repo
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch the latest news
+        run: python fetch_news.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          git diff --staged --quiet || git commit -m "Update news: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
