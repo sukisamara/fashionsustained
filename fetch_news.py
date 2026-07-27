@@ -185,11 +185,13 @@ RETENTION_DAYS = 90
 MAX_PER_REGION = 45
 REQUEST_TIMEOUT = 30
 REQUEST_DELAY = 0.5
-USER_AGENT = "Mozilla/5.0 (compatible; TheLoop-Dashboard/1.0)"
+USER_AGENT = "Mozilla/5.0 (compatible; FashionSustained-Dashboard/1.0)"
 
 ENABLE_ENRICHMENT = True
-ENRICH_PER_REGION = 14
 ENRICH_TIMEOUT = 8
+ENRICH_MAX_TOTAL = 120   # cap enrichment fetches per run so the job stays quick;
+                         # images persist in the archive, so later runs only
+                         # enrich genuinely new stories.
 
 MEDIA_NS = "{http://search.yahoo.com/mrss/}"
 CONTENT_NS = "{http://purl.org/rss/1.0/modules/content/}"
@@ -307,16 +309,48 @@ def _first(res, html):
     return ""
 
 
+def fetch_resolved(url, cap=None, timeout=REQUEST_TIMEOUT):
+    """Fetch a URL following redirects; return (final_url, body_bytes)."""
+    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+    with urllib.request.urlopen(req, timeout=timeout) as resp:
+        return resp.geturl(), (resp.read(cap) if cap else resp.read())
+
+
+# Any real publisher link inside a Google News interstitial page.
+_GN_HREF = re.compile(r'<a[^>]+href=["\'](https?://(?!news\.google\.com)[^"\']+)', re.I)
+
+
 def enrich(s):
+    """Pull the article's main image (og:image) + description.
+
+    Google News links are redirects, so we resolve them to the real publisher
+    page first — then read og:image from there and point the card straight at
+    the publisher (nicer than a google.com link)."""
     url = s.get("url", "")
-    if not url or "news.google.com" in url:
+    if not url:
         return
     if s.get("image") and s.get("snippet"):
         return
+    was_gnews = "news.google.com" in url
     try:
-        html = fetch(url, cap=120000, timeout=ENRICH_TIMEOUT).decode("utf-8", "replace")
+        final, body = fetch_resolved(url, cap=200000, timeout=ENRICH_TIMEOUT)
+        html = body.decode("utf-8", "replace")
     except Exception:
         return
+    # If Google served an interstitial instead of redirecting, dig out the link.
+    if "news.google.com" in final:
+        m = _GN_HREF.search(html)
+        if not m:
+            return
+        try:
+            final, body = fetch_resolved(m.group(1), cap=200000, timeout=ENRICH_TIMEOUT)
+            html = body.decode("utf-8", "replace")
+        except Exception:
+            return
+    if "news.google.com" in final:      # still stuck on google — give up
+        return
+    if was_gnews:                       # repoint the card at the real publisher
+        s["url"] = final
     if not s.get("image"):
         img = _first(_OG_IMG, html)
         if img.startswith("http"):
@@ -445,13 +479,21 @@ def main():
         sys.exit(1)
 
     if ENABLE_ENRICHMENT:
+        budget = ENRICH_MAX_TOTAL
         for r in regions_out:
-            for s in r["articles"][:ENRICH_PER_REGION]:
-                if not (s.get("image") and s.get("snippet")):
+            for s in r["articles"]:
+                if budget <= 0:
+                    break
+                if not s.get("image"):          # prioritise a photo on every card
                     enrich(s)
+                    budget -= 1
                     time.sleep(0.25)
+            if budget <= 0:
+                break
         for r in regions_out:
             r["articles"].sort(key=lambda s: (0 if s.get("image") else 1))
+        print(f"  · enrichment used {ENRICH_MAX_TOTAL - budget} fetches "
+              f"(budget {ENRICH_MAX_TOTAL})")
 
     counts = {i: 0 for i in INDUSTRY_ORDER}
     for r in regions_out:

@@ -36,7 +36,7 @@
     display: flex; justify-content: space-between; align-items: flex-end;
     gap: 20px; flex-wrap: wrap;
   }
-  .logo { height: 132px; width: auto; display: block; }
+  .logo { height: 152px; width: auto; display: block; }
   .stamp {
     font-family: var(--sans); font-size: 12px; text-align: right;
     text-transform: uppercase; letter-spacing: 0.14em; color: var(--mint);
@@ -44,12 +44,34 @@
   }
   .stamp strong { display: block; font-weight: 700; font-size: 13px; margin-bottom: 2px; }
   .stamp span { opacity: 0.72; }
-  .tagline {
-    font-family: var(--sans); font-weight: 500; font-size: 12px;
-    letter-spacing: 0.18em; text-transform: uppercase; color: var(--mint);
-    opacity: 0.82; margin-top: 20px;
+
+  /* Fact pills — the "how it works" spec, as tags rather than a paragraph */
+  .factstrip {
+    display: flex; flex-wrap: wrap; gap: 8px; margin-top: 22px;
   }
-  .rule { height: 2px; background: var(--mint); margin-top: 14px; }
+  .fact {
+    font-family: var(--sans); font-size: 11px; font-weight: 600;
+    letter-spacing: 0.07em; text-transform: uppercase; color: var(--mint);
+    border: 1px solid var(--mint); border-radius: 100px; padding: 5px 13px;
+    white-space: nowrap;
+  }
+  .fact b { font-weight: 700; }
+  /* Source credits — softer filled chips */
+  .sources-line {
+    display: flex; align-items: center; gap: 7px; flex-wrap: wrap; margin-top: 12px;
+  }
+  .sources-lbl {
+    font-family: var(--sans); font-size: 10px; font-weight: 700;
+    letter-spacing: 0.18em; text-transform: uppercase; color: var(--mint);
+    opacity: 0.6; margin-right: 2px;
+  }
+  .source-chip {
+    font-family: var(--sans); font-size: 11px; font-weight: 500;
+    letter-spacing: 0.02em; color: var(--mint);
+    background: var(--line-2); border-radius: 100px; padding: 4px 11px;
+  }
+  .source-chip.more { background: none; opacity: 0.65; padding-left: 2px; }
+  .rule { height: 2px; background: var(--mint); margin-top: 20px; }
 
   /* --- Navigation ------------------------------------------------------- */
   .nav {
@@ -187,7 +209,7 @@
   @media (max-width: 860px) { .grid { grid-template-columns: repeat(2, 1fr); } }
   @media (max-width: 560px) {
     .wrap { padding: 0 20px; }
-    .logo { height: 96px; }
+    .logo { height: 112px; }
     .grid { grid-template-columns: 1fr; }
     .stamp { text-align: left; }
   }
@@ -201,7 +223,22 @@
         <img class="logo" src="logo.png" alt="Fashion Sustained">
         <div class="stamp"><strong id="edition">—</strong><span id="updated">loading…</span></div>
       </div>
-      <div class="tagline">Sustainability intelligence · Fashion · Beauty · Fragrance</div>
+      <div class="factstrip">
+        <span class="fact">↻&nbsp; Twice daily</span>
+        <span class="fact">200-term sector filter</span>
+        <span class="fact">De-duped · sorted by region</span>
+        <span class="fact">Rolling 90-day archive</span>
+      </div>
+      <div class="sources-line">
+        <span class="sources-lbl">Sources</span>
+        <span class="source-chip">Business of Fashion</span>
+        <span class="source-chip">Vogue Business</span>
+        <span class="source-chip">Sourcing Journal</span>
+        <span class="source-chip">Ecotextile News</span>
+        <span class="source-chip">BeautyMatter</span>
+        <span class="source-chip">Google News editions</span>
+        <span class="source-chip more">&amp; more</span>
+      </div>
       <div class="rule"></div>
     </header>
 
@@ -215,14 +252,9 @@
     <main id="feed"><div class="status">Loading the latest briefing…</div></main>
 
     <footer>
-      Compiled twice daily from a curated set of trade publications —
-      Business of Fashion, Vogue Business, Sourcing Journal, Ecotextile News,
-      BeautyMatter and more — plus Google News regional editions, across
-      fashion, beauty &amp; fragrance sustainability. Filtered and tagged by
-      sector against a 200-term keyword set; de-duplicated and sorted by region.
-      Global collects the cross-border stories. A rolling 90-day archive.
-      Headlines link to their original publishers.<br>
-      Built by <a href="https://github.com/sukisamara">Suki Samara</a>.
+      Global collects the cross-border stories. Headlines link to their original
+      publishers.<br>
+      Built by Suki Samara.
     </footer>
   </div>
 
