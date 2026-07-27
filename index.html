@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fashion Sustained — Sustainability intelligence for fashion, beauty &amp; fragrance</title>
+<link rel="icon" type="image/png" href="logo.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<!-- Fraunces (display, with SOFT+WONK for the hand-drawn feel) + Inter (clean UI/body) -->
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght,SOFT,WONK@0,9..144,400..700,0..100,0..1;1,9..144,400..600,0..100,0..1&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --forest:   #203409;   /* deep forest — background */
+    --forest-d: #2C4A12;   /* subtle lift on hover */
+    --mint:     #E4F4D7;   /* headlines, accents, rules, active fills, primary text */
+    --mint-dim: #C6E3B2;   /* dimmer mint — fallback-tile stripe */
+    --on-mint:  #203409;   /* text sitting on mint fills / tiles (reads forest) */
+    --line:     rgba(228, 244, 215, 0.22);
+    --line-2:   rgba(228, 244, 215, 0.10);
+    --serif: "Fraunces", Georgia, serif;          /* display */
+    --sans:  "Inter", system-ui, sans-serif;      /* body / UI */
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: var(--forest); color: var(--mint);
+    font-family: var(--sans); line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+  }
+  a { color: inherit; }
+  .wrap { max-width: 1200px; margin: 0 auto; padding: 0 30px; }
+
+  /* --- Masthead --------------------------------------------------------- */
+  .masthead { padding: 34px 0 0; }
+  .masthead-top {
+    display: flex; justify-content: space-between; align-items: flex-end;
+    gap: 20px; flex-wrap: wrap;
+  }
+  .logo { height: 132px; width: auto; display: block; }
+  .stamp {
+    font-family: var(--sans); font-size: 12px; text-align: right;
+    text-transform: uppercase; letter-spacing: 0.14em; color: var(--mint);
+    padding-bottom: 6px;
+  }
+  .stamp strong { display: block; font-weight: 700; font-size: 13px; margin-bottom: 2px; }
+  .stamp span { opacity: 0.72; }
+  .tagline {
+    font-family: var(--sans); font-weight: 500; font-size: 12px;
+    letter-spacing: 0.18em; text-transform: uppercase; color: var(--mint);
+    opacity: 0.82; margin-top: 20px;
+  }
+  .rule { height: 2px; background: var(--mint); margin-top: 14px; }
+
+  /* --- Navigation ------------------------------------------------------- */
+  .nav {
+    display: flex; justify-content: space-between; align-items: center;
+    gap: 16px; flex-wrap: wrap; padding: 16px 0;
+  }
+  .regions { display: flex; gap: 4px; flex-wrap: wrap; }
+  .region-tab {
+    font-family: var(--sans); font-weight: 600; font-size: 13px;
+    letter-spacing: 0.08em; text-transform: uppercase;
+    background: none; border: none; color: var(--mint);
+    padding: 6px 14px; cursor: pointer; border-radius: 100px;
+    transition: all 0.15s ease;
+  }
+  .region-tab:hover { background: var(--forest-d); }
+  .region-tab[aria-pressed="true"] {
+    background: var(--mint); color: var(--on-mint);
+  }
+  .search {
+    font-family: var(--sans); font-size: 13px; color: var(--mint);
+    background: transparent; border: none; border-bottom: 1.5px solid var(--mint);
+    padding: 6px 4px; width: 180px;
+  }
+  .search:focus { outline: none; border-bottom-width: 2px; }
+  .search::placeholder { color: rgba(228,244,215,0.5); }
+
+  .sectors {
+    display: flex; align-items: center; gap: 4px; flex-wrap: wrap;
+    padding: 2px 0 20px;
+  }
+  .sectors .lbl {
+    font-size: 10px; font-weight: 600; letter-spacing: 0.18em;
+    text-transform: uppercase; color: var(--mint); opacity: 0.7;
+    margin-right: 8px;
+  }
+  .sector-tab {
+    font-family: var(--sans); font-weight: 500; font-size: 11px;
+    letter-spacing: 0.06em; text-transform: uppercase;
+    background: none; border: 1px solid transparent; color: var(--mint);
+    padding: 4px 10px; border-radius: 100px; cursor: pointer;
+    transition: all 0.15s ease;
+  }
+  .sector-tab:hover { border-color: var(--line); }
+  .sector-tab[aria-pressed="true"] {
+    border-color: var(--mint); font-weight: 600;
+  }
+
+  /* --- Region sections -------------------------------------------------- */
+  .region-block { margin-top: 40px; }
+  .region-head {
+    display: flex; align-items: baseline; gap: 14px; flex-wrap: wrap;
+    padding-bottom: 14px; border-bottom: 2px solid var(--mint); margin-bottom: 26px;
+  }
+  .region-title {
+    font-family: var(--serif); font-weight: 600; color: var(--mint);
+    font-size: clamp(28px, 4vw, 42px); letter-spacing: -0.015em; line-height: 1;
+    font-variation-settings: "opsz" 72, "SOFT" 55, "WONK" 1;
+  }
+  .region-sub {
+    font-family: var(--sans); font-size: 12px; font-weight: 500;
+    text-transform: uppercase; letter-spacing: 0.12em; opacity: 0.7;
+  }
+  .region-num {
+    margin-left: auto; font-family: var(--sans); font-weight: 600;
+    font-size: 13px; color: var(--mint); letter-spacing: 0.04em; opacity: 0.85;
+  }
+
+  .grid {
+    display: grid; grid-template-columns: repeat(3, 1fr); gap: 30px 26px;
+  }
+  .card { display: flex; flex-direction: column; text-decoration: none; }
+  .thumb {
+    position: relative; aspect-ratio: 3 / 2; overflow: hidden;
+    border: 1.5px solid var(--mint); margin-bottom: 14px;
+  }
+  .thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .thumb-fb {
+    position: absolute; inset: 0; display: flex; align-items: center;
+    justify-content: center; padding: 18px; text-align: center;
+    background:
+      repeating-linear-gradient(135deg, var(--mint) 0 14px, var(--mint-dim) 14px 28px);
+  }
+  .thumb-fb span {
+    font-family: var(--serif); font-weight: 600; font-style: italic;
+    color: var(--on-mint); font-size: 22px; line-height: 1.1;
+    letter-spacing: -0.01em;
+    font-variation-settings: "opsz" 40, "SOFT" 60, "WONK" 1;
+  }
+  .card-eyebrow {
+    font-family: var(--sans); font-weight: 700; font-size: 10px;
+    letter-spacing: 0.16em; text-transform: uppercase; color: var(--mint);
+    opacity: 0.85; margin-bottom: 7px;
+  }
+  .card-title {
+    font-family: var(--serif); font-weight: 500; color: var(--mint);
+    font-size: 22px; line-height: 1.16; letter-spacing: -0.005em;
+    margin-bottom: 9px; transition: opacity 0.15s ease;
+    font-variation-settings: "opsz" 30, "SOFT" 40, "WONK" 0;
+  }
+  .card:hover .card-title { opacity: 0.72; text-decoration: underline;
+    text-decoration-thickness: 1.5px; text-underline-offset: 3px; }
+  .card-snippet {
+    font-family: var(--sans); font-size: 14px; line-height: 1.45;
+    color: var(--mint); opacity: 0.9; margin-bottom: 12px;
+  }
+  .card-meta {
+    margin-top: auto; font-family: var(--sans); font-size: 11px;
+    font-weight: 500; letter-spacing: 0.04em; text-transform: uppercase;
+    color: var(--mint); display: flex; gap: 7px; align-items: center;
+  }
+  .card-meta .src { font-weight: 700; }
+  .card-meta .sep { opacity: 0.5; }
+  .card-meta span:not(.src):not(.sep) { opacity: 0.72; }
+  .fresh { opacity: 1 !important; font-weight: 700; }
+
+  /* --- Feature (Global highlights) row ---------------------------------- */
+  .region-block.feature .card-title { font-size: 27px;
+    font-variation-settings: "opsz" 48, "SOFT" 45, "WONK" 0; }
+  .region-block.feature .thumb { aspect-ratio: 16 / 10; }
+  .region-block.feature .thumb-fb span { font-size: 28px; }
+
+  /* --- States / footer -------------------------------------------------- */
+  .status, .empty {
+    font-family: var(--sans); font-size: 14px; color: var(--mint);
+    opacity: 0.85; padding: 60px 0; text-align: center;
+  }
+  footer {
+    margin-top: 64px; padding: 26px 0 48px; border-top: 2px solid var(--mint);
+    font-family: var(--sans); font-size: 11px; line-height: 1.8;
+    letter-spacing: 0.02em; color: var(--mint); opacity: 0.8;
+  }
+  footer a { color: var(--mint); font-weight: 600; text-decoration: underline;
+    text-underline-offset: 2px; }
+
+  @media (max-width: 860px) { .grid { grid-template-columns: repeat(2, 1fr); } }
+  @media (max-width: 560px) {
+    .wrap { padding: 0 20px; }
+    .logo { height: 96px; }
+    .grid { grid-template-columns: 1fr; }
+    .stamp { text-align: left; }
+  }
+  @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <header class="masthead">
+      <div class="masthead-top">
+        <img class="logo" src="logo.png" alt="Fashion Sustained">
+        <div class="stamp"><strong id="edition">—</strong><span id="updated">loading…</span></div>
+      </div>
+      <div class="tagline">Sustainability intelligence · Fashion · Beauty · Fragrance</div>
+      <div class="rule"></div>
+    </header>
+
+    <nav class="nav">
+      <div class="regions" id="regions"></div>
+      <input class="search" id="search" type="search"
+             placeholder="filter headlines…" aria-label="Filter headlines">
+    </nav>
+    <div class="sectors" id="sectors"><span class="lbl">Sector</span></div>
+
+    <main id="feed"><div class="status">Loading the latest briefing…</div></main>
+
+    <footer>
+      Compiled twice daily from a curated set of trade publications —
+      Business of Fashion, Vogue Business, Sourcing Journal, Ecotextile News,
+      BeautyMatter and more — plus Google News regional editions, across
+      fashion, beauty &amp; fragrance sustainability. Filtered and tagged by
+      sector against a 200-term keyword set; de-duplicated and sorted by region.
+      Global collects the cross-border stories. A rolling 90-day archive.
+      Headlines link to their original publishers.<br>
+      Built by <a href="https://github.com/sukisamara">Suki Samara</a>.
+    </footer>
+  </div>
+
+<script>
+  const state = { data: null, region: "All", sector: "All", query: "" };
+
+  const REGION_SUB = {
+    "Global": "Cross-border & industry-wide",
+    "NAM": "North America",
+    "LATAM": "Latin America",
+    "EMEA": "Europe · Middle East · Africa",
+    "APAC": "Asia-Pacific",
+  };
+
+  const esc = s => (s || "").replace(/[&<>"']/g, c =>
+    ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;" }[c]));
+
+  function relTime(iso) {
+    if (!iso) return "";
+    const mins = Math.round((Date.now() - new Date(iso)) / 60000);
+    if (mins < 1) return "just now";
+    if (mins < 60) return mins + "m ago";
+    const h = Math.round(mins / 60);
+    if (h < 24) return h + "h ago";
+    return Math.round(h / 24) + "d ago";
+  }
+  const isFresh = iso => iso && (Date.now() - new Date(iso)) < 6*3600*1000;
+  const fmtUpdated = iso => iso ? new Date(iso).toLocaleString([],
+    { day:"2-digit", month:"short", hour:"2-digit", minute:"2-digit" }) : "";
+
+  function cardHTML(a) {
+    const t = relTime(a.published);
+    const thumb = a.image
+      ? `<div class="thumb"><img src="${esc(a.image)}" alt="" loading="lazy"
+           onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+           <div class="thumb-fb" style="display:none"><span>${esc(a.source)}</span></div></div>`
+      : `<div class="thumb"><div class="thumb-fb"><span>${esc(a.source)}</span></div></div>`;
+    return `<a class="card" href="${esc(a.url)}" target="_blank" rel="noopener">
+      ${thumb}
+      ${a.industry ? `<div class="card-eyebrow">${esc(a.industry)}</div>` : ""}
+      <div class="card-title">${esc(a.title)}</div>
+      ${a.snippet ? `<div class="card-snippet">${esc(a.snippet)}</div>` : ""}
+      <div class="card-meta">
+        <span class="src">${esc(a.source || "Unknown")}</span>
+        ${t ? `<span class="sep">·</span><span class="${isFresh(a.published)?"fresh":""}">${t}</span>` : ""}
+      </div>
+    </a>`;
+  }
+
+  function matches(a) {
+    if (state.sector !== "All" && a.industry !== state.sector) return false;
+    if (!state.query) return true;
+    const q = state.query.toLowerCase();
+    return (a.title + " " + (a.snippet||"") + " " + (a.source||"")).toLowerCase().includes(q);
+  }
+
+  function render() {
+    const feed = document.getElementById("feed");
+    const regions = state.data.regions.filter(r =>
+      state.region === "All" || r.name === state.region);
+    let html = "", shown = 0;
+    for (const r of regions) {
+      const arts = r.articles.filter(matches);
+      if (!arts.length) continue;
+      shown += arts.length;
+      const feat = r.name === "Global" ? " feature" : "";
+      html += `<section class="region-block${feat}">
+        <div class="region-head">
+          <span class="region-title">${esc(r.name)}</span>
+          <span class="region-sub">${esc(REGION_SUB[r.name] || "")}</span>
+          <span class="region-num">${arts.length} ${arts.length===1?"story":"stories"}</span>
+        </div>
+        <div class="grid">${arts.map(cardHTML).join("")}</div>
+      </section>`;
+    }
+    feed.innerHTML = shown ? html
+      : `<div class="empty">No headlines match your filters.</div>`;
+  }
+
+  function buildRegions() {
+    const el = document.getElementById("regions");
+    const names = ["All", ...state.data.regions.filter(r=>r.articles.length).map(r=>r.name)];
+    el.innerHTML = names.map(n =>
+      `<button class="region-tab" data-r="${esc(n)}" aria-pressed="${n===state.region}">${esc(n)}</button>`).join("");
+    el.querySelectorAll(".region-tab").forEach(b => b.onclick = () => {
+      state.region = b.dataset.r;
+      el.querySelectorAll(".region-tab").forEach(x=>x.setAttribute("aria-pressed", x===b));
+      render();
+    });
+  }
+
+  function buildSectors() {
+    const el = document.getElementById("sectors");
+    const inds = (state.data.industries || []).map(i => i.name);
+    if (!inds.length) { el.style.display = "none"; return; }
+    const names = ["All", ...inds];
+    el.innerHTML = `<span class="lbl">Sector</span>` + names.map(n =>
+      `<button class="sector-tab" data-s="${esc(n)}" aria-pressed="${n===state.sector}">${esc(n)}</button>`).join("");
+    el.querySelectorAll(".sector-tab").forEach(b => b.onclick = () => {
+      state.sector = b.dataset.s;
+      el.querySelectorAll(".sector-tab").forEach(x=>x.setAttribute("aria-pressed", x===b));
+      render();
+    });
+  }
+
+  async function load() {
+    try {
+      const res = await fetch("data.json?_=" + Date.now());
+      if (!res.ok) throw new Error(res.status);
+      state.data = await res.json();
+      document.getElementById("edition").textContent = state.data.edition || "Briefing";
+      document.getElementById("updated").textContent = "Updated " + fmtUpdated(state.data.updated_at);
+      buildRegions(); buildSectors(); render();
+    } catch (e) {
+      document.getElementById("feed").innerHTML =
+        `<div class="status">Couldn't load the briefing. The next scheduled update will refresh it.</div>`;
+    }
+  }
+
+  document.getElementById("search").addEventListener("input", e => {
+    state.query = e.target.value.trim(); render();
+  });
+  load();
+</script>
+</body>
+</html>

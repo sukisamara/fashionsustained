@@ -1,0 +1,280 @@
+{
+  "updated_at": "2026-07-27T11:59:30.100698+00:00",
+  "edition": "Evening edition",
+  "total": 23,
+  "sources": 19,
+  "industries": [
+    {
+      "name": "Fashion",
+      "count": 9
+    },
+    {
+      "name": "Beauty",
+      "count": 6
+    },
+    {
+      "name": "Fragrance",
+      "count": 5
+    },
+    {
+      "name": "Regulation",
+      "count": 3
+    }
+  ],
+  "regions": [
+    {
+      "name": "Global",
+      "count": 10,
+      "articles": [
+        {
+          "title": "The state of circular textiles and fashion in 2026",
+          "source": "Circular Fashion News",
+          "url": "https://circularfashionnews.substack.com/p/the-state-of-circular-textiles-and",
+          "published": "2026-07-24T09:00:00+00:00",
+          "region": "Global",
+          "industry": "Fashion",
+          "snippet": "An industry overview finds textile-to-textile recycling scaling commercially, even as reuse and next-gen materials still fight for funding.",
+          "image": ""
+        },
+        {
+          "title": "A global franchise will open its first textile recycling facility next year",
+          "source": "Sourcing Journal",
+          "url": "https://wwd.com/sourcing-journal/sustainability/qatar-recycling-powerhouse-used-textile-suhail-1239076634/",
+          "published": "2026-07-21T09:00:00+00:00",
+          "region": "Global",
+          "industry": "Fashion",
+          "snippet": "Recycling Powerhouse plans a global network of plants to industrialise and standardise textile-to-textile recycling, opening its first in Qatar.",
+          "image": ""
+        },
+        {
+          "title": "Ten next-gen ingredients redefining sustainable perfumery",
+          "source": "Le Parfum Magazine",
+          "url": "https://www.leparfummagazine.com/2026/02/05/the-future-of-fragrance-10-next-gen-ingredients-redefining-perfumery/",
+          "published": "2026-07-12T09:00:00+00:00",
+          "region": "Global",
+          "industry": "Fragrance",
+          "snippet": "From upcycled olive pulp to biotech patchouli, ten next-gen materials are rewriting what sustainable perfumery can smell like.",
+          "image": ""
+        },
+        {
+          "title": "The beauty packaging trends set to define 2026",
+          "source": "BeautyMatter",
+          "url": "https://beautymatter.com/articles/the-beauty-packaging-trends-set-to-define-2026",
+          "published": "2026-07-09T09:00:00+00:00",
+          "region": "Global",
+          "industry": "Beauty",
+          "snippet": "2026's beauty packaging leans into mono-materials, refills and connected labels as sustainability becomes a baseline expectation.",
+          "image": ""
+        },
+        {
+          "title": "Niche perfumery leans into upcycled botanicals and lab-grown naturals",
+          "source": "Annalisa's Accents",
+          "url": "https://annalisasaccents.com/beauty-fragrance/top-5-niche-fragrance-trends-for-2026/",
+          "published": "2026-07-07T09:00:00+00:00",
+          "region": "Global",
+          "industry": "Fragrance",
+          "snippet": "Luxury perfumery reframes exclusivity around upcycled botanicals and lab-grown naturals rather than rarity alone.",
+          "image": ""
+        },
+        {
+          "title": "Textile-to-textile recycling at scale: why brands must collaborate",
+          "source": "Sourcing Journal",
+          "url": "https://wwd.com/sourcing-journal/sustainability/textile-to-textile-recycling-at-scale-brands-must-collaborate-1238943715/",
+          "published": "2026-07-06T09:00:00+00:00",
+          "region": "Global",
+          "industry": "Fashion",
+          "snippet": "Industry leaders argue fibre-to-fibre recycling is at an innovation moment, but only cross-supply-chain collaboration will bring costs down enough to scale.",
+          "image": ""
+        },
+        {
+          "title": "Zero-waste beauty grows up: a chemist's reality check",
+          "source": "Cosmetics & Toiletries",
+          "url": "https://www.cosmeticsandtoiletries.com/regulations/eco-sustainable/article/22961837/biotech-in-beauty-zero-waste-beauty-is-growing-up",
+          "published": "2026-07-03T09:00:00+00:00",
+          "region": "Global",
+          "industry": "Beauty",
+          "snippet": "A chemist's-eye view argues zero-waste beauty only works when refills are seamless, hygienic and built for real consumer behaviour.",
+          "image": ""
+        },
+        {
+          "title": "The Fashion Pact and Fashion for Good launch a Circular Fibre Collective",
+          "source": "Sourcing Journal",
+          "url": "https://wwd.com/sourcing-journal/sustainability/the-fashion-pact-fashion-for-good-team-cfc-1238926147/",
+          "published": "2026-07-02T09:00:00+00:00",
+          "region": "Global",
+          "industry": "Fashion",
+          "snippet": "A cross-industry initiative aims to accelerate adoption of recycled and next-gen fibres, with input from the Ellen MacArthur Foundation.",
+          "image": ""
+        },
+        {
+          "title": "Sustainable fragrance packaging launches surge 80%",
+          "source": "Mintel",
+          "url": "https://www.mintel.com/insights/packaging/the-future-of-beauty-packaging/",
+          "published": "2026-06-30T09:00:00+00:00",
+          "region": "Global",
+          "industry": "Beauty",
+          "snippet": "US refill growth stays modest, but sustainable fragrance packaging launches jump 80% as scent leads the category.",
+          "image": ""
+        },
+        {
+          "title": "A holistic vision for a sustainable fragrance industry",
+          "source": "RSC Sustainability",
+          "url": "https://pubs.rsc.org/en/content/articlehtml/2026/su/d5su00680e",
+          "published": "2026-06-24T09:00:00+00:00",
+          "region": "Global",
+          "industry": "Fragrance",
+          "snippet": "A research review maps how fragrance houses chase renewable carbon, biodegradability and green chemistry across their ingredient palettes.",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "name": "NAM",
+      "count": 4,
+      "articles": [
+        {
+          "title": "Circ launches first denim collection with H&M using recycled fibres",
+          "source": "Circ",
+          "url": "https://circ.earth/",
+          "published": "2026-07-20T09:00:00+00:00",
+          "region": "NAM",
+          "industry": "Fashion",
+          "snippet": "Circ debuts its first denim line with H&M, turning polycotton waste back into wearable fibre at commercial scale.",
+          "image": ""
+        },
+        {
+          "title": "AAFA challenges California's textile EPR administrator pick",
+          "source": "Sourcing Journal",
+          "url": "https://sourcingjournal.com/sustainability/sustainability-news/aafa-challenges-california-textile-epr-pick-sb707-1234818811/",
+          "published": "2026-07-15T09:00:00+00:00",
+          "region": "NAM",
+          "industry": "Regulation",
+          "snippet": "A trade group petitions the court over who runs California's first textile extended-producer-responsibility scheme under SB 707.",
+          "image": ""
+        },
+        {
+          "title": "Aveda becomes first prestige brand to commercialise AeroFlexx refills",
+          "source": "Estée Lauder Companies",
+          "url": "https://www.elcompanies.com/en/news-and-media/newsroom/press-releases/2026/02-26-2026",
+          "published": "2026-07-04T09:00:00+00:00",
+          "region": "NAM",
+          "industry": "Beauty",
+          "snippet": "Aveda rolls out AeroFlexx's curbside-recyclable refill packaging globally, a first for the prestige beauty category.",
+          "image": ""
+        },
+        {
+          "title": "Biotech fragrances move from novelty to sustainable standard",
+          "source": "California Fresh Scent",
+          "url": "https://californiafreshscent.com/biotech-fragrances-2026-sustainable-innovation/",
+          "published": "2026-06-22T09:00:00+00:00",
+          "region": "NAM",
+          "industry": "Fragrance",
+          "snippet": "Lab-cultured aroma molecules give perfumers consistent, high-purity naturals without the environmental strain of extraction.",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "name": "EMEA",
+      "count": 5,
+      "articles": [
+        {
+          "title": "Refill systems take centre stage at London Packaging Week",
+          "source": "Sustainable Packaging News",
+          "url": "https://spnews.com/packaging-waste-challenge/",
+          "published": "2026-07-23T09:00:00+00:00",
+          "region": "EMEA",
+          "industry": "Beauty",
+          "snippet": "Refillable cosmetics move from niche to baseline, as brands tackle the hygiene, cost and perceived-value hurdles that slow adoption.",
+          "image": ""
+        },
+        {
+          "title": "EU's ban on destroying unsold clothing takes effect",
+          "source": "Go Circulaire",
+          "url": "https://journal.gocirculaire.com/eu-textile-waste-ban-set-to-reshape-sustainable-fashion-as-unsold-clothing-destruction-outlawed-from-july-2026/",
+          "published": "2026-07-19T09:00:00+00:00",
+          "region": "EMEA",
+          "industry": "Regulation",
+          "snippet": "New Ecodesign rules make it illegal for large brands to destroy unsold clothing and footwear across the EU, putting overproduction in the spotlight.",
+          "image": ""
+        },
+        {
+          "title": "Textile Recycling Awards honour six circular-economy innovators",
+          "source": "Global Textile Times",
+          "url": "https://www.globaltextiletimes.com/sustainability/innovations-reshaping-the-global-materials-and-textile-sector/",
+          "published": "2026-07-06T09:00:00+00:00",
+          "region": "EMEA",
+          "industry": "Fashion",
+          "snippet": "Brussels' inaugural awards spotlight waterless fibre separation and enzyme-based nylon recovery from blended textile waste.",
+          "image": ""
+        },
+        {
+          "title": "Givaudan and Mane push biotech and upcycled molecules into perfumery",
+          "source": "Scento",
+          "url": "https://www.scento.com/blog/biotech-innovations-fragrance-production",
+          "published": "2026-06-26T09:00:00+00:00",
+          "region": "EMEA",
+          "industry": "Fragrance",
+          "snippet": "Fermentation and upcycled feedstocks let perfumers recreate rare naturals like sandalwood without harvesting a single tree.",
+          "image": ""
+        },
+        {
+          "title": "Amcor previews refillable beauty formats for Paris Packaging Week",
+          "source": "Amcor",
+          "url": "https://www.amcor.com/insights/blogs/beauty-packaging-trends",
+          "published": "2026-06-18T09:00:00+00:00",
+          "region": "EMEA",
+          "industry": "Beauty",
+          "snippet": "Refillable sticks, pouches and mono-material airless bottles headline Amcor's sustainable beauty line-up for 2026.",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "name": "APAC",
+      "count": 4,
+      "articles": [
+        {
+          "title": "India's textile-to-textile recycling cluster signals a shift to scale",
+          "source": "Business of Fashion",
+          "url": "https://www.businessoffashion.com/articles/sustainability/fashion-climate-reckoning-just-starting-extreme-heat-workers-textile-recycling-india-flooding-future-supply-chain-risks-2026/",
+          "published": "2026-07-15T09:00:00+00:00",
+          "region": "APAC",
+          "industry": "Fashion",
+          "snippet": "As climate volatility hits sourcing hubs, a collaborative recycling cluster in India moves the industry from scattered pilots toward real scale.",
+          "image": ""
+        },
+        {
+          "title": "Fashion for Good and Arvind open Future Forward Factories India",
+          "source": "Coherent Market Insights",
+          "url": "https://www.coherentmarketinsights.com/industry-reports/global-sustainable-fashion-market",
+          "published": "2026-07-10T09:00:00+00:00",
+          "region": "APAC",
+          "industry": "Fashion",
+          "snippet": "A blueprint factory targets a 93% cut in emissions for Tier-2 suppliers, aiming to model scalable sustainable manufacturing.",
+          "image": ""
+        },
+        {
+          "title": "Why 2026 is the year sustainable fashion gets serious in Southeast Asia",
+          "source": "The Green Collective SG",
+          "url": "https://www.thegreencollective.sg/blogs/industry-news/why-2026-will-be-the-year-sustainable-fashion-finally-gets-serious",
+          "published": "2026-07-01T09:00:00+00:00",
+          "region": "APAC",
+          "industry": "Fashion",
+          "snippet": "Across Southeast Asia's fast-growing cities, sustainability shifts from a niche concern to a mainstream shopper expectation.",
+          "image": ""
+        },
+        {
+          "title": "How climate change is reshaping fashion supply chains across Asia",
+          "source": "The Green Collective SG",
+          "url": "https://www.thegreencollective.sg/blogs/industry-news/how-climate-change-will-shape-fashion-supply-chains-in-2026",
+          "published": "2026-06-24T09:00:00+00:00",
+          "region": "APAC",
+          "industry": "Regulation",
+          "snippet": "Flooding and heatwaves across South and Southeast Asia are pushing brands to nearshore and diversify sourcing away from single hubs.",
+          "image": ""
+        }
+      ]
+    }
+  ]
+}
