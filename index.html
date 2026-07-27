@@ -285,13 +285,34 @@
   const fmtUpdated = iso => iso ? new Date(iso).toLocaleString([],
     { day:"2-digit", month:"short", hour:"2-digit", minute:"2-digit" }) : "";
 
+  // Local nature photos used when an article has no retrievable image.
+  // Picked by a stable hash of the URL so a card keeps the same photo
+  // across filtering, rather than reshuffling on every render.
+  const FALLBACK_IMAGES = [
+    "images/nature-01.jpg", "images/nature-02.jpg", "images/nature-03.jpg",
+    "images/nature-04.jpg", "images/nature-05.jpg", "images/nature-06.jpg",
+    "images/nature-07.jpg", "images/nature-08.jpg", "images/nature-09.jpg",
+    "images/nature-10.jpg", "images/nature-11.jpg", "images/nature-12.jpg",
+    "images/nature-13.jpg", "images/nature-14.jpg", "images/nature-15.jpg",
+    "images/nature-16.jpg", "images/nature-17.jpg", "images/nature-18.jpg",
+    "images/nature-19.jpg", "images/nature-20.jpg", "images/nature-21.jpg",
+    "images/nature-22.jpg", "images/nature-23.jpg", "images/nature-24.jpg",
+    "images/nature-25.jpg",
+  ];
+  function fallbackImage(a) {
+    const s = a.url || a.title || "";
+    let h = 0;
+    for (let i = 0; i < s.length; i++) h = (h * 31 + s.charCodeAt(i)) | 0;
+    return FALLBACK_IMAGES[Math.abs(h) % FALLBACK_IMAGES.length];
+  }
+
   function cardHTML(a) {
     const t = relTime(a.published);
-    const thumb = a.image
-      ? `<div class="thumb"><img src="${esc(a.image)}" alt="" loading="lazy"
-           onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
-           <div class="thumb-fb" style="display:none"><span>${esc(a.source)}</span></div></div>`
-      : `<div class="thumb"><div class="thumb-fb"><span>${esc(a.source)}</span></div></div>`;
+    const fb = fallbackImage(a);
+    const src = a.image || fb;
+    // If a real article image fails to load, swap in the nature fallback.
+    const thumb = `<div class="thumb"><img src="${esc(src)}" alt="" loading="lazy"
+         onerror="this.onerror=null;this.src='${esc(fb)}';"></div>`;
     return `<a class="card" href="${esc(a.url)}" target="_blank" rel="noopener">
       ${thumb}
       ${a.industry ? `<div class="card-eyebrow">${esc(a.industry)}</div>` : ""}

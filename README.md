@@ -69,6 +69,18 @@ Then open `index.html` in a browser (or serve the folder with
 - **Fallback tiles:** cards without an image get a striped mint tile carrying the
   source name, so the grid stays even.
 
+## Imagery
+
+Cards show the article's own image (`og:image`) where one can be retrieved.
+Where it can't, the card falls back to a nature photo from `images/`, chosen by
+a stable hash of the article URL. Fallback photos are from Unsplash: Noah
+Buscher, kazuend, Aaron Burden, Shane Rounce, Gabriel Jimenez, Philipp, Claudio
+Testa, Goutham Krishna, Łukasz Szmigiel, melanfolia, Sebastian Boring, Florian
+van Duyn, Hendrik Cornelissen, Joao Vitor Marcilio, Kasturi Laxmi Mohit,
+American Public Power Association, Markus Spiske, Jeswin Thomas, Gaf Clickz, Wen
+Qiao, Tenzin Wangchuk, Daria Trofimova, Belinda Fewings, Jason Hu and Roman
+Synkevych.
+
 ---
 
-Built by [Suki Samara](https://github.com/sukisamara).
+Built by Suki Samara.
