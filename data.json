@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T17:31:20.621166+00:00",
+  "updated_at": "2026-07-27T18:02:07.585679+00:00",
   "edition": "Evening edition",
   "total": 38,
   "sources": 27,
@@ -27,16 +27,6 @@
       "count": 22,
       "articles": [
         {
-          "title": "Discover the Key Insights from the Organic Cotton Summit in Istanbul, Türkiye",
-          "source": "Textile Exchange",
-          "url": "https://textileexchange.org/discover-the-key-insights-from-the-organic-cotton-summit-in-istanbul-turkiye/",
-          "published": "2026-06-10T13:45:43+00:00",
-          "image": "https://textileexchange.org/app/uploads/2026/06/6K5A9492-630x474.jpg",
-          "snippet": "Hosted by the Organic Cotton Accelerator and Textile Exchange, the Organic Cotton Summit brought voices from across the organic cotton ecosystem and beyond to Istanbul from June 2–4, 2026. Growing cotton […]\nThe post Dis…",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
           "title": "The beauty packaging trends set to define 2026",
           "source": "BeautyMatter",
           "url": "https://beautymatter.com/articles/the-beauty-packaging-trends-set-to-define-2026",
@@ -55,6 +45,16 @@
           "industry": "Beauty",
           "snippet": "US refill growth stays modest, but sustainable fragrance packaging launches jump 80% as scent leads the category.",
           "image": "https://www.mintel.com/app/uploads/2026/01/feature3-1024x347.jpg"
+        },
+        {
+          "title": "Discover the Key Insights from the Organic Cotton Summit in Istanbul, Türkiye",
+          "source": "Textile Exchange",
+          "url": "https://textileexchange.org/discover-the-key-insights-from-the-organic-cotton-summit-in-istanbul-turkiye/",
+          "published": "2026-06-10T13:45:43+00:00",
+          "image": "https://textileexchange.org/app/uploads/2026/06/6K5A9492-630x474.jpg",
+          "snippet": "Hosted by the Organic Cotton Accelerator and Textile Exchange, the Organic Cotton Summit brought voices from across the organic cotton ecosystem and beyond to Istanbul from June 2–4, 2026. Growing cotton […]\nThe post Dis…",
+          "region": "Global",
+          "industry": "Fashion"
         },
         {
           "title": "The state of circular textiles and fashion in 2026",
