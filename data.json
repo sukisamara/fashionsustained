@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-28T23:49:00.775520+00:00",
-  "edition": "Evening edition",
-  "total": 38,
+  "updated_at": "2026-07-29T13:05:50.423918+00:00",
+  "edition": "Morning edition",
+  "total": 39,
   "sources": 27,
   "industries": [
     {
       "name": "Fashion",
-      "count": 21
+      "count": 22
     },
     {
       "name": "Beauty",
@@ -24,7 +24,7 @@
   "regions": [
     {
       "name": "Global",
-      "count": 22,
+      "count": 23,
       "articles": [
         {
           "title": "The beauty packaging trends set to define 2026",
@@ -53,6 +53,16 @@
           "published": "2026-06-10T13:45:43+00:00",
           "image": "https://textileexchange.org/app/uploads/2026/06/6K5A9492-630x474.jpg",
           "snippet": "Hosted by the Organic Cotton Accelerator and Textile Exchange, the Organic Cotton Summit brought voices from across the organic cotton ecosystem and beyond to Istanbul from June 2–4, 2026. Growing cotton […]\nThe post Dis…",
+          "region": "Global",
+          "industry": "Fashion"
+        },
+        {
+          "title": "Remade backs new textile recycling push",
+          "source": "Ecotextile News",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX0I0UUlqaUprR0MxTUJaMG9LeEdZY252WUR3d3JCSDFxWGlGVnpYSHRGbjhWY0FoVmNXUmJWdXFJaTF6eFZ0N1RrSWppNnZ0TmdxWTdNU25HazE2TjlGYzd5djN4Z0QtRk1XOFk4dkZnRE8tRjBsLXRQTUtpZkJ5dng5Z3RqTWVUd2lGeTVGdGF1d0lzc1FWaHVhcm5nQnEyLVkxaXZDWlBIb3pPVUZUWUpB?oc=5",
+          "published": "2026-07-29T11:39:58+00:00",
+          "image": "",
+          "snippet": "",
           "region": "Global",
           "industry": "Fashion"
         },
