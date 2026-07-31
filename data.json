@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-30T23:52:49.599003+00:00",
-  "edition": "Evening edition",
-  "total": 39,
-  "sources": 27,
+  "updated_at": "2026-07-31T13:01:43.539729+00:00",
+  "edition": "Morning edition",
+  "total": 40,
+  "sources": 28,
   "industries": [
     {
       "name": "Fashion",
-      "count": 22
+      "count": 23
     },
     {
       "name": "Beauty",
@@ -260,7 +260,7 @@
     },
     {
       "name": "NAM",
-      "count": 7,
+      "count": 8,
       "articles": [
         {
           "title": "Circ launches first denim collection with H&M using recycled fibres",
@@ -287,6 +287,16 @@
           "source": "The Guardian",
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQkdpaXNxOGs5bXg0dTk3TlB2bEt0RGFCUW03TkpUTmxIVG8zZVhaNGdMSmtFVHplcV9WN1dFNk1rWmhjTzFyZG9haVlqSjNpSmhQMkYxU3ZRN3QxZEZYZ3dNTUxsTnJmWld5R1c3d1JjNUJuM0d4ZG43QVJqU051VjhQdjlmaUwyQVlJRnZQRjhEbEZ3bnVvZkVraXA5MjVYNDJmU1k0TExnU1dObTVZTG4xSTlIRENTRmxqMUJrVTNIUDZGeHhUNVdYYURGYXl2TjdYcDgxRGlaazVv?oc=5",
           "published": "2026-07-24T06:00:00+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "NAM",
+          "industry": "Fashion"
+        },
+        {
+          "title": "Resale fashion market to hit $448B by 2029, led by Gen Z trends",
+          "source": "MSN",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRFF0azN0TlRMNU1RbVNfcVVhVjFnN1g4bkdlckVkYnVtRUFEZ1gzY1FvanVESUpDN1E1N0trWmd5MEJWNWo4RUY0c0RjSi11akJQUktjVGRDcjlITG1RWW1qdTdrWFNLX2xhREdITW9HTi02YnFQWWRTcGFUb1ZNUWVFUEVydUNQTXdaTHdoVnIwazc4bEdad2JtZ0ViRVRFOEpVbGdwU3g2a1BMdVJ6UQ?oc=5",
+          "published": "2026-07-20T22:43:47+00:00",
           "image": "",
           "snippet": "",
           "region": "NAM",
