@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-01T23:46:17.471262+00:00",
-  "edition": "Evening edition",
-  "total": 40,
+  "updated_at": "2026-08-02T12:08:36.649125+00:00",
+  "edition": "Morning edition",
+  "total": 42,
   "sources": 28,
   "industries": [
     {
       "name": "Fashion",
-      "count": 23
+      "count": 24
     },
     {
       "name": "Beauty",
@@ -18,13 +18,13 @@
     },
     {
       "name": "Regulation",
-      "count": 4
+      "count": 5
     }
   ],
   "regions": [
     {
       "name": "Global",
-      "count": 23,
+      "count": 25,
       "articles": [
         {
           "title": "The beauty packaging trends set to define 2026",
@@ -67,6 +67,16 @@
           "industry": "Fashion"
         },
         {
+          "title": "Indian hubs turn textile waste to resource",
+          "source": "Ecotextile News",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUzZiV2xwOWJ1Tk9OLTU5ZWVGNGlISTZhZ216NVRIUDhHV1hhTFgwYktVdHNLZ1AxX1htV1d1akV2Q3ZKM3FYRU5RelR4YWRJcGYyNkZoZ09WWFdDZFlmalg5S3BpdlM3QUF6ak15WlZOaTM1enhNR2VFNklQTkE0YjhzTHg1Z292aEYxTlpJTHN4dUhTUDNfSGJRMW5OWFFtWGt1cUhCcENTS1NGS0NVTHU5Y0hSUQ?oc=5",
+          "published": "2026-07-27T08:47:21+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
+        {
           "title": "The state of circular textiles and fashion in 2026",
           "source": "Circular Fashion News",
           "url": "https://circularfashionnews.substack.com/p/the-state-of-circular-textiles-and",
@@ -75,6 +85,16 @@
           "industry": "Fashion",
           "snippet": "An industry overview finds textile-to-textile recycling scaling commercially, even as reuse and next-gen materials still fight for funding.",
           "image": ""
+        },
+        {
+          "title": "Latin America eyeing California textile EPR",
+          "source": "Ecotextile News",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYWVGT3RHV0czbmdnUXFuSW1TbEp0bzhFUm1ZRGFyQlItU1lRNWVSNklDTmRpYkhDQXRZVkdNT2lhT2dIaDNiN2xVY0lUQ3RrOVhTSFdPVFNMeFo3ZVJ5TlRlUG9PODg2Tkp6QUt3cEJtUVBTamtOYmcyLS10c0tCZGxKWlcyTjVyMVF5VWVXRUp6akJ0Q09zbktCNk1ldjZ3ZUhMeA?oc=5",
+          "published": "2026-07-23T16:44:55+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Regulation"
         },
         {
           "title": "California textile EPR faces court test",
