@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-03T13:45:06.170184+00:00",
-  "edition": "Morning edition",
-  "total": 43,
+  "updated_at": "2026-08-03T23:58:45.560991+00:00",
+  "edition": "Evening edition",
+  "total": 44,
   "sources": 28,
   "industries": [
     {
       "name": "Fashion",
-      "count": 25
+      "count": 26
     },
     {
       "name": "Beauty",
@@ -24,7 +24,7 @@
   "regions": [
     {
       "name": "Global",
-      "count": 26,
+      "count": 27,
       "articles": [
         {
           "title": "The beauty packaging trends set to define 2026",
@@ -55,6 +55,16 @@
           "snippet": "Hosted by the Organic Cotton Accelerator and Textile Exchange, the Organic Cotton Summit brought voices from across the organic cotton ecosystem and beyond to Istanbul from June 2–4, 2026. Growing cotton […]\nThe post Dis…",
           "region": "Global",
           "industry": "Fashion"
+        },
+        {
+          "title": "Zero-waste beauty grows up: a chemist's reality check",
+          "source": "Cosmetics & Toiletries",
+          "url": "https://www.cosmeticsandtoiletries.com/regulations/eco-sustainable/article/22961837/biotech-in-beauty-zero-waste-beauty-is-growing-up",
+          "published": "2026-07-03T09:00:00+00:00",
+          "region": "Global",
+          "industry": "Beauty",
+          "snippet": "A chemist's-eye view argues zero-waste beauty only works when refills are seamless, hygienic and built for real consumer behaviour.",
+          "image": "https://img.cosmeticsandtoiletries.com/mindful/allured/workspaces/default/uploads/2026/03/adobestock-391206179.WaaSiUgXDI.jpg?auto=format%2Ccompress&h=630&q=70&w=1200"
         },
         {
           "title": "Remade backs new textile recycling push",
@@ -95,6 +105,16 @@
           "snippet": "",
           "region": "Global",
           "industry": "Regulation"
+        },
+        {
+          "title": "Magnetic filter targets textile wastewater",
+          "source": "Ecotextile News",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVlNXLWxNcmFfazBzSmdWdVgtVDVuS0I0OHcxZVRVQUs3aS1lVHpZTVI0Xzg1b3JPdHNvV0ljMFotdDJZQ2FVbV82SDZlWnB1Q2MzSmRtMktQMV9wTHpVQ29rUExHbkk4cmg2X3lhR2VlaTZXcV9EZi1VZTI3UXllTmdnZWNoOUpQUFNGY3FNelNaYmpxMHNSOUhCWWVkQTFNaWpsLXM1ekJOaUliMHViZnRMRVhjUQ?oc=5",
+          "published": "2026-07-23T09:32:30+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
         },
         {
           "title": "California textile EPR faces court test",
@@ -165,16 +185,6 @@
           "snippet": "",
           "region": "Global",
           "industry": "Fashion"
-        },
-        {
-          "title": "Zero-waste beauty grows up: a chemist's reality check",
-          "source": "Cosmetics & Toiletries",
-          "url": "https://www.cosmeticsandtoiletries.com/regulations/eco-sustainable/article/22961837/biotech-in-beauty-zero-waste-beauty-is-growing-up",
-          "published": "2026-07-03T09:00:00+00:00",
-          "region": "Global",
-          "industry": "Beauty",
-          "snippet": "A chemist's-eye view argues zero-waste beauty only works when refills are seamless, hygienic and built for real consumer behaviour.",
-          "image": ""
         },
         {
           "title": "AI startup launches fashion resale system",
