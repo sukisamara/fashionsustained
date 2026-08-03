@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-02T23:48:09.185182+00:00",
-  "edition": "Evening edition",
-  "total": 42,
+  "updated_at": "2026-08-03T13:45:06.170184+00:00",
+  "edition": "Morning edition",
+  "total": 43,
   "sources": 28,
   "industries": [
     {
       "name": "Fashion",
-      "count": 24
+      "count": 25
     },
     {
       "name": "Beauty",
@@ -24,7 +24,7 @@
   "regions": [
     {
       "name": "Global",
-      "count": 25,
+      "count": 26,
       "articles": [
         {
           "title": "The beauty packaging trends set to define 2026",
@@ -175,6 +175,16 @@
           "industry": "Beauty",
           "snippet": "A chemist's-eye view argues zero-waste beauty only works when refills are seamless, hygienic and built for real consumer behaviour.",
           "image": ""
+        },
+        {
+          "title": "AI startup launches fashion resale system",
+          "source": "Ecotextile News",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWmRFdXg0U0hEbFM1V1hlRXlFM1hFNmw0Zk9UdDZoZ1BBbXRwa1U3M1BORzlqUXliT3FTOXRpYTNKV0pfWmNFclhTNElFUi1NMGZVMWNzSXNTSGVtY3hwRndJMVFwZDFqSXRkVUM2OFkzZDhua0dJX0daSXM0ZUh2VmxUVkMzbE40TEs4VHBUYUtvNlRaREJnYWpKVWx6V1YwZXlrMEk1bGxGaE1fZ0Q4eXh4ekk?oc=5",
+          "published": "2026-07-03T07:00:00+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
         },
         {
           "title": "The Fashion Pact and Fashion for Good launch a Circular Fibre Collective",
