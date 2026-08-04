@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-04T13:06:28.165435+00:00",
-  "edition": "Morning edition",
+  "updated_at": "2026-08-04T23:53:08.856614+00:00",
+  "edition": "Evening edition",
   "total": 44,
   "sources": 28,
   "industries": [
@@ -26,6 +26,16 @@
       "name": "Global",
       "count": 27,
       "articles": [
+        {
+          "title": "Ten next-gen ingredients redefining sustainable perfumery",
+          "source": "Le Parfum Magazine",
+          "url": "https://www.leparfummagazine.com/2026/02/05/the-future-of-fragrance-10-next-gen-ingredients-redefining-perfumery/",
+          "published": "2026-07-12T09:00:00+00:00",
+          "region": "Global",
+          "industry": "Fragrance",
+          "snippet": "From upcycled olive pulp to biotech patchouli, ten next-gen materials are rewriting what sustainable perfumery can smell like.",
+          "image": "https://mlctfqvennij.i.optimole.com/w:auto/h:auto/q:mauto/f:best/id:58d08a7440a267d7667283fef3e97a5c/https://www.leparfummagazine.com/THE-FUTURE-OF-FRAGRANCE-10-NEXT-GEN-INGREDIENTS-REDEFINING-PERFUMERY.jpg"
+        },
         {
           "title": "The beauty packaging trends set to define 2026",
           "source": "BeautyMatter",
@@ -65,16 +75,6 @@
           "snippet": "Hosted by the Organic Cotton Accelerator and Textile Exchange, the Organic Cotton Summit brought voices from across the organic cotton ecosystem and beyond to Istanbul from June 2–4, 2026. Growing cotton […]\nThe post Dis…",
           "region": "Global",
           "industry": "Fashion"
-        },
-        {
-          "title": "Ten next-gen ingredients redefining sustainable perfumery",
-          "source": "Le Parfum Magazine",
-          "url": "https://www.leparfummagazine.com/2026/02/05/the-future-of-fragrance-10-next-gen-ingredients-redefining-perfumery/",
-          "published": "2026-07-12T09:00:00+00:00",
-          "region": "Global",
-          "industry": "Fragrance",
-          "snippet": "From upcycled olive pulp to biotech patchouli, ten next-gen materials are rewriting what sustainable perfumery can smell like.",
-          "image": "https://mlctfqvennij.i.optimole.com/w:auto/h:auto/q:mauto/f:best/id:58d08a7440a267d7667283fef3e97a5c/https://www.leparfummagazine.com/THE-FUTURE-OF-FRAGRANCE-10-NEXT-GEN-INGREDIENTS-REDEFINING-PERFUMERY.jpg"
         },
         {
           "title": "Remade backs new textile recycling push",
