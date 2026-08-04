@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-03T23:58:45.560991+00:00",
-  "edition": "Evening edition",
+  "updated_at": "2026-08-04T13:06:28.165435+00:00",
+  "edition": "Morning edition",
   "total": 44,
   "sources": 28,
   "industries": [
@@ -37,6 +37,16 @@
           "image": "https://beautymatter.com/uploads/2026/02/seo/z3WrbwuPkDLai6HZyOvfkQlhfI4mFe0QF3z7hXkf.jpg"
         },
         {
+          "title": "Zero-waste beauty grows up: a chemist's reality check",
+          "source": "Cosmetics & Toiletries",
+          "url": "https://www.cosmeticsandtoiletries.com/regulations/eco-sustainable/article/22961837/biotech-in-beauty-zero-waste-beauty-is-growing-up",
+          "published": "2026-07-03T09:00:00+00:00",
+          "region": "Global",
+          "industry": "Beauty",
+          "snippet": "A chemist's-eye view argues zero-waste beauty only works when refills are seamless, hygienic and built for real consumer behaviour.",
+          "image": "https://img.cosmeticsandtoiletries.com/mindful/allured/workspaces/default/uploads/2026/03/adobestock-391206179.WaaSiUgXDI.jpg?auto=format%2Ccompress&h=630&q=70&w=1200"
+        },
+        {
           "title": "Sustainable fragrance packaging launches surge 80%",
           "source": "Mintel",
           "url": "https://www.mintel.com/insights/packaging/the-future-of-beauty-packaging/",
@@ -57,14 +67,14 @@
           "industry": "Fashion"
         },
         {
-          "title": "Zero-waste beauty grows up: a chemist's reality check",
-          "source": "Cosmetics & Toiletries",
-          "url": "https://www.cosmeticsandtoiletries.com/regulations/eco-sustainable/article/22961837/biotech-in-beauty-zero-waste-beauty-is-growing-up",
-          "published": "2026-07-03T09:00:00+00:00",
+          "title": "Ten next-gen ingredients redefining sustainable perfumery",
+          "source": "Le Parfum Magazine",
+          "url": "https://www.leparfummagazine.com/2026/02/05/the-future-of-fragrance-10-next-gen-ingredients-redefining-perfumery/",
+          "published": "2026-07-12T09:00:00+00:00",
           "region": "Global",
-          "industry": "Beauty",
-          "snippet": "A chemist's-eye view argues zero-waste beauty only works when refills are seamless, hygienic and built for real consumer behaviour.",
-          "image": "https://img.cosmeticsandtoiletries.com/mindful/allured/workspaces/default/uploads/2026/03/adobestock-391206179.WaaSiUgXDI.jpg?auto=format%2Ccompress&h=630&q=70&w=1200"
+          "industry": "Fragrance",
+          "snippet": "From upcycled olive pulp to biotech patchouli, ten next-gen materials are rewriting what sustainable perfumery can smell like.",
+          "image": "https://mlctfqvennij.i.optimole.com/w:auto/h:auto/q:mauto/f:best/id:58d08a7440a267d7667283fef3e97a5c/https://www.leparfummagazine.com/THE-FUTURE-OF-FRAGRANCE-10-NEXT-GEN-INGREDIENTS-REDEFINING-PERFUMERY.jpg"
         },
         {
           "title": "Remade backs new textile recycling push",
@@ -145,16 +155,6 @@
           "snippet": "",
           "region": "Global",
           "industry": "Fashion"
-        },
-        {
-          "title": "Ten next-gen ingredients redefining sustainable perfumery",
-          "source": "Le Parfum Magazine",
-          "url": "https://www.leparfummagazine.com/2026/02/05/the-future-of-fragrance-10-next-gen-ingredients-redefining-perfumery/",
-          "published": "2026-07-12T09:00:00+00:00",
-          "region": "Global",
-          "industry": "Fragrance",
-          "snippet": "From upcycled olive pulp to biotech patchouli, ten next-gen materials are rewriting what sustainable perfumery can smell like.",
-          "image": ""
         },
         {
           "title": "Niche perfumery leans into upcycled botanicals and lab-grown naturals",
