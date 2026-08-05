@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-04T23:53:08.856614+00:00",
-  "edition": "Evening edition",
-  "total": 44,
+  "updated_at": "2026-08-05T12:59:54.987357+00:00",
+  "edition": "Morning edition",
+  "total": 43,
   "sources": 28,
   "industries": [
     {
       "name": "Fashion",
-      "count": 26
+      "count": 24
     },
     {
       "name": "Beauty",
@@ -18,13 +18,13 @@
     },
     {
       "name": "Regulation",
-      "count": 5
+      "count": 6
     }
   ],
   "regions": [
     {
       "name": "Global",
-      "count": 27,
+      "count": 26,
       "articles": [
         {
           "title": "Ten next-gen ingredients redefining sustainable perfumery",
@@ -75,6 +75,16 @@
           "snippet": "Hosted by the Organic Cotton Accelerator and Textile Exchange, the Organic Cotton Summit brought voices from across the organic cotton ecosystem and beyond to Istanbul from June 2–4, 2026. Growing cotton […]\nThe post Dis…",
           "region": "Global",
           "industry": "Fashion"
+        },
+        {
+          "title": "Cosmetic refill packaging: How to choose the right system in the PPWR era",
+          "source": "cosmeticsbusiness.com",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSjN4MUZuYXViOEhYVUZsUkpxaGxuS1ZNZkxBTzZLd25FSXRONFRLaWRleHg5MUdPSGdCUmg0RE0ydjNNNDlac2g1OHdQY1llU0RFMndsSWV6MVNJOEJfQWlsREs1bERMZzk1OXdwNThialpMN29NMy1yaDQ5UldCdjA5OWwxZw?oc=5",
+          "published": "2026-08-05T10:33:11+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Regulation"
         },
         {
           "title": "Remade backs new textile recycling push",
@@ -271,26 +281,6 @@
           "source": "Ecotextile News",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMVRWNFJIcFIwa0JhcFl3SzFNampkQ202M2tQVlRzd25Sei12ak1Udll4OVpTT3ZFNWF2M21YT0gxZjl5TEtxRjQ1V241dFlreFJ4STN2SmhNXy04am9UQjZqMEJjbnF1SE95alJsVFFqN1F5SUVoSk9SdFRjX3pteGhDRlNweTRZNUdVSFhKZHEyWVpwMEsxZE15RmVWclJnTXUzNHI2NWNMdw?oc=5",
           "published": "2026-06-11T07:00:00+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "Sustainable Fashion’s New Marketing Angle Is All About Wellness",
-          "source": "The Business of Fashion",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZFhVXzhrVVluUTl4anVxZGNNbXRFRndpTjdIdG1PbjJEQ1EtWTdFVW1vQmQzOXFsVm1VYlJvVk1wQ09PbVlsNThUVmtFTFcyQ2xINndUeEliV0x4dlNMNVY2MWo5ekhnQ2paTnNwZXlVLTNqYnZCMnNVVDZjRktod0RuZzdzbXowbTZJMGRFUU04UVQ2R2VGWUNfc3NIRWd1ZXRTaVNUbXphX0hSU19ybA?oc=5",
-          "published": "2026-05-07T07:00:00+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "GFA blueprint to fix EU textile recycling",
-          "source": "Ecotextile News",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUGhDQlVzQ09iQ2dKQ1oyVGdxMjRYVU9wZFRsMmNUZjJfc195N0lIbEdreGJ4OFppd1B3ZVcwLVRtTFBieU1SSS1HV1FMZkpqd0lONDkzbUVjajlRdkljU0I0Tm5PbHFOSzJGQ09JdENnSXAtSS1tLUEzMDNaOE5WVGlXU1VhZUpQN0hCY2hibzBKN2NIQ1ZIN0g3UGxvR0ZDUEE?oc=5",
-          "published": "2026-05-07T07:00:00+00:00",
           "image": "",
           "snippet": "",
           "region": "Global",
