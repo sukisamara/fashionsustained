@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-05T23:45:41.638767+00:00",
-  "edition": "Evening edition",
-  "total": 43,
+  "updated_at": "2026-08-06T13:00:58.873371+00:00",
+  "edition": "Morning edition",
+  "total": 44,
   "sources": 28,
   "industries": [
     {
@@ -18,13 +18,13 @@
     },
     {
       "name": "Regulation",
-      "count": 6
+      "count": 7
     }
   ],
   "regions": [
     {
       "name": "Global",
-      "count": 26,
+      "count": 27,
       "articles": [
         {
           "title": "Ten next-gen ingredients redefining sustainable perfumery",
@@ -225,6 +225,16 @@
           "snippet": "",
           "region": "Global",
           "industry": "Fashion"
+        },
+        {
+          "title": "ZDHC steps up PFAS crackdown",
+          "source": "Ecotextile News",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOT1ZjNUUtSGFTbFROS3ZONlY5S2tmWExGakdVWXZ6S3J6ek9rUzVuTHZVLXNwVzNaOTVmMXFWQWZvc25LMkpuclgwUW5oQ3hNOGw5RnFVQldtUTlXT0N3OV9KVXk2Y0JkSVhyUkFTbk5LbC1tcWtXT3J2WnhsOEtUUUx6R3ZZbFI4RXg5TDFSQ1FVLWd6?oc=5",
+          "published": "2026-06-26T10:45:18+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Regulation"
         },
         {
           "title": "A holistic vision for a sustainable fragrance industry",
