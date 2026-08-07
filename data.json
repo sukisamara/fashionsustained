@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-07T11:51:05.189787+00:00",
-  "edition": "Morning edition",
-  "total": 44,
+  "updated_at": "2026-08-07T23:23:24.091149+00:00",
+  "edition": "Evening edition",
+  "total": 45,
   "sources": 28,
   "industries": [
     {
       "name": "Fashion",
-      "count": 24
+      "count": 25
     },
     {
       "name": "Beauty",
@@ -24,7 +24,7 @@
   "regions": [
     {
       "name": "Global",
-      "count": 27,
+      "count": 28,
       "articles": [
         {
           "title": "Ten next-gen ingredients redefining sustainable perfumery",
@@ -291,6 +291,16 @@
           "source": "Ecotextile News",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMVRWNFJIcFIwa0JhcFl3SzFNampkQ202M2tQVlRzd25Sei12ak1Udll4OVpTT3ZFNWF2M21YT0gxZjl5TEtxRjQ1V241dFlreFJ4STN2SmhNXy04am9UQjZqMEJjbnF1SE95alJsVFFqN1F5SUVoSk9SdFRjX3pteGhDRlNweTRZNUdVSFhKZHEyWVpwMEsxZE15RmVWclJnTXUzNHI2NWNMdw?oc=5",
           "published": "2026-06-11T07:00:00+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
+        {
+          "title": "Recover launches recycled cotton yarns",
+          "source": "Ecotextile News",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR0hVclJ1Zm5mWEg1blBMUTgwVDBfQVBMcllOMXZicjhxWVJDbVdpYWFUMEF3eWVxQnB0MUhXSktyc1NDY1RxTlZfVXJiREpnOGt6NXByOHNzWW42Vy01MUlqV2F1d2VjMTRnTFgwNVplNmVuRVBtTU10X0ZwQzF6RmtSTkI2VkpOUnJZMUV3ZVVpUzFPcmZFNHAzRTJBUQ?oc=5",
+          "published": "2026-06-09T07:00:00+00:00",
           "image": "",
           "snippet": "",
           "region": "Global",
