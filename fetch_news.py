@@ -11,8 +11,9 @@ Sourcing model (v4):
     sustainability query to keep the regional dashboard (NAM/LATAM/EMEA/APAC)
     populated with wider coverage.
 
-Everything is filtered and classified against a 200-term keyword set (50 per
-sector: Fashion / Beauty / Fragrance / Regulation).
+Everything is filtered and classified against a ~280-term keyword set spanning many
+facets of sustainability across four sectors: Fashion / Beauty / Fragrance /
+Regulation.
 
 Images: taken from the RSS item (media:content / thumbnail / enclosure) when
 present, otherwise fetched from the article's own og:image. Cards with no image
@@ -39,82 +40,115 @@ from html import unescape
 from xml.etree import ElementTree
 
 # ============================================================================
-# KEYWORDS — 50 per sector. Used to (a) filter feeds to on-topic stories and
+# KEYWORDS — ~280 terms across four sectors, spanning materials, circularity,
+# resale/repair, water, chemicals, carbon, labour, biodiversity and policy. Used
+# to (a) filter feeds to on-topic stories and
 # (b) classify each story into a sector.
 # ============================================================================
 
 SECTOR_KEYWORDS = {
     "Fashion": [
+        # framing
         "sustainable fashion", "circular fashion", "fashion circularity",
         "slow fashion", "ethical fashion", "eco fashion", "fashion sustainability",
+        "responsible fashion", "conscious fashion",
+        # recycling & circularity
         "textile recycling", "textile-to-textile recycling", "fiber-to-fiber recycling",
-        "textile waste", "garment recycling", "clothing recycling", "deadstock fabric",
-        "upcycled fashion", "upcycling clothing", "secondhand clothing", "resale fashion",
-        "fashion resale", "rental fashion", "clothing rental", "pre-loved fashion",
-        "thrifting", "recommerce", "recycled polyester", "recycled cotton",
-        "organic cotton", "regenerative cotton", "regenerative agriculture fashion",
-        "recycled wool", "hemp fabric", "sustainable linen", "next-gen materials",
-        "mycelium leather", "vegan leather", "plant-based leather", "lab-grown leather",
-        "biodegradable textiles", "bio-based materials", "closed-loop fashion",
-        "zero-waste fashion", "fashion take-back", "garment durability",
-        "clothing repair", "fashion overproduction", "fast fashion waste",
-        "microplastics textiles", "waterless dyeing", "natural dyes", "low-impact dyeing",
+        "fibre recycling", "chemical recycling textiles", "mechanical recycling textiles",
+        "textile waste", "garment recycling", "clothing recycling", "closed-loop fashion",
+        "zero-waste fashion", "deadstock fabric", "deadstock fashion",
+        "upcycled fashion", "upcycling clothing",
+        # materials
+        "recycled polyester", "recycled cotton", "recycled nylon", "recycled wool",
+        "recycled cashmere", "recycled denim", "ECONYL", "organic cotton",
+        "regenerative cotton", "regenerative agriculture fashion", "better cotton",
+        "traceable cotton", "hemp fabric", "sustainable linen", "sustainable viscose",
+        "responsible viscose", "FSC viscose", "lyocell", "TENCEL",
+        "next-gen materials", "mycelium leather", "vegan leather", "plant-based leather",
+        "lab-grown leather", "leather alternative", "biodegradable textiles",
+        "bio-based materials", "bio-based nylon", "responsible wool", "responsible down",
+        # business models
+        "secondhand clothing", "resale fashion", "fashion resale", "clothing resale",
+        "resale platform", "rental fashion", "clothing rental", "fashion rental",
+        "pre-loved fashion", "thrifting", "recommerce", "subscription fashion",
+        "fashion take-back", "take-back scheme", "clothing repair", "garment durability",
+        "reworked garments",
+        # impacts: water, chemicals, carbon, microfibres, biodiversity
+        "fashion overproduction", "fast fashion waste", "microplastics textiles",
+        "microfibre pollution", "microfiber shedding", "waterless dyeing",
+        "natural dyes", "low-impact dyeing", "textile wastewater", "water footprint fashion",
+        "fashion carbon footprint", "fashion emissions", "fashion decarbonisation",
+        "net-zero fashion", "low-carbon fashion", "nature positive fashion",
+        "biodiversity fashion", "deforestation-free fashion",
+        # social & transparency
+        "garment workers", "fashion labour", "living wage fashion", "fair wages fashion",
+        "fashion transparency", "material traceability", "responsible sourcing apparel",
+        "denim sustainability", "sustainable denim",
     ],
     "Beauty": [
         "sustainable beauty", "clean beauty", "green beauty", "blue beauty",
         "refillable beauty", "beauty refills", "refillable packaging",
-        "refill station beauty", "waterless beauty", "solid cosmetics",
-        "plastic-free beauty", "plastic-free packaging", "recyclable beauty packaging",
-        "mono-material packaging", "PCR packaging beauty", "post-consumer recycled beauty",
-        "aluminium beauty packaging", "glass beauty packaging", "biodegradable beauty",
-        "compostable beauty packaging", "beauty packaging waste", "zero-waste beauty",
-        "cruelty-free beauty", "vegan beauty", "sustainable skincare", "sustainable makeup",
-        "sustainable haircare", "clean ingredients", "biotech beauty",
+        "refill station beauty", "refill pouch beauty", "waterless beauty",
+        "solid cosmetics", "solid shampoo", "plastic-free beauty", "plastic-free packaging",
+        "recyclable beauty packaging", "mono-material packaging", "PCR packaging beauty",
+        "post-consumer recycled beauty", "aluminium beauty packaging", "glass beauty packaging",
+        "biodegradable beauty", "biodegradable formula", "compostable beauty packaging",
+        "beauty packaging waste", "zero-waste beauty", "cruelty-free beauty", "vegan beauty",
+        "sustainable skincare", "sustainable makeup", "sustainable haircare",
+        "clean ingredients", "green cosmetic chemistry", "biotech beauty",
         "lab-grown beauty ingredients", "upcycled beauty ingredients", "carbon neutral beauty",
-        "beauty sustainability", "ethical beauty", "responsibly sourced mica",
-        "palm oil free beauty", "microbead free", "reef-safe sunscreen",
-        "sustainable deodorant", "refillable lipstick", "beauty recycling program",
-        "connected packaging beauty", "beauty EPR", "cosmetic packaging sustainability",
-        "waterless shampoo", "concentrated beauty formulas", "clean fragrance",
-        "sustainable cosmetics", "beauty circular economy", "sustainable personal care",
+        "beauty carbon footprint", "beauty sustainability", "ethical beauty",
+        "responsibly sourced mica", "sustainable beauty sourcing", "traceable beauty ingredients",
+        "regenerative beauty ingredients", "palm oil free beauty", "microbead free",
+        "microplastics cosmetics", "reef-safe sunscreen", "sustainable deodorant",
+        "refillable lipstick", "beauty recycling program", "connected packaging beauty",
+        "beauty EPR", "cosmetic packaging sustainability", "waterless shampoo",
+        "concentrated beauty formulas", "clean fragrance", "sustainable cosmetics",
+        "beauty circular economy", "sustainable personal care", "beauty water stewardship",
     ],
     "Fragrance": [
         "sustainable fragrance", "sustainable perfume", "eco-friendly perfume",
         "natural perfume", "green fragrance", "refillable perfume", "refillable fragrance",
-        "perfume refill", "upcycled fragrance ingredients", "upcycled perfume",
-        "green chemistry fragrance", "green chemistry perfume", "biotech fragrance",
-        "biotech perfume ingredients", "lab-grown fragrance", "fermentation fragrance",
-        "precision fermentation scent", "biodegradable fragrance", "renewable carbon fragrance",
+        "perfume refill", "refillable perfume bottle", "upcycled fragrance ingredients",
+        "upcycled perfume", "green chemistry fragrance", "green chemistry perfume",
+        "green fragrance chemistry", "biotech fragrance", "biotech perfume ingredients",
+        "lab-grown fragrance", "fermentation fragrance", "precision fermentation scent",
+        "biodegradable fragrance", "renewable carbon fragrance", "renewable ethanol perfume",
         "responsibly sourced sandalwood", "sustainable sandalwood", "sustainable vanilla",
-        "sustainable patchouli", "sustainable vetiver", "ethical oud",
+        "sustainable patchouli", "sustainable vetiver", "sustainable jasmine",
+        "sustainable rose", "ethical oud", "ethical benzoin", "fair trade fragrance",
         "ethical sourcing perfume", "natural isolates", "captive molecules",
-        "carbon neutral fragrance", "IFRA sustainability", "Givaudan sustainability",
-        "Firmenich sustainability", "dsm-firmenich sustainability", "IFF sustainability",
-        "Symrise sustainability", "sustainable perfumery", "perfume packaging sustainability",
-        "refillable perfume bottle", "waterless perfume", "fragrance supply chain",
+        "carbon neutral fragrance", "fragrance carbon footprint", "IFRA sustainability",
+        "Givaudan sustainability", "Firmenich sustainability", "dsm-firmenich sustainability",
+        "IFF sustainability", "Symrise sustainability", "sustainable perfumery",
+        "perfume packaging sustainability", "waterless perfume", "fragrance supply chain",
         "regenerative fragrance ingredients", "CO2 extraction perfume",
         "supercritical extraction fragrance", "essential oil sustainability",
-        "botanical sourcing perfume", "fragrance biodiversity", "scent sustainability",
-        "eco perfume packaging", "clean perfume", "conscious fragrance",
+        "botanical sourcing perfume", "traceable naturals perfume", "fragrance biodiversity",
+        "scent sustainability", "eco perfume packaging", "clean perfume", "conscious fragrance",
     ],
     "Regulation": [
         "fashion greenwashing", "beauty greenwashing", "greenwashing claims",
-        "anti-greenwashing", "Green Claims Directive", "EU green claims",
-        "EPR textiles", "extended producer responsibility textiles", "textile EPR",
+        "anti-greenwashing", "greenwashing ruling", "greenwashing fine", "ASA greenwashing",
+        "Green Claims Directive", "EU green claims", "EPR textiles",
+        "extended producer responsibility textiles", "textile EPR", "eco-modulation",
         "digital product passport", "DPP textiles", "Ecodesign for Sustainable Products",
-        "ESPR", "EU textile strategy", "unsold goods destruction ban",
+        "ESPR", "EU Ecodesign", "EU textile strategy", "unsold goods destruction ban",
         "waste framework directive", "packaging waste regulation", "PPWR",
-        "PFAS apparel", "PFAS ban textiles", "forever chemicals clothing",
+        "mandatory recycled content", "recycled content mandate", "repairability index",
+        "repair bonus", "PFAS apparel", "PFAS ban textiles", "forever chemicals clothing",
         "CSRD fashion", "CSDDD", "corporate sustainability due diligence",
         "supply chain transparency", "supply chain traceability", "forced labour fashion",
-        "forced labour cotton", "living wage garment", "garment worker rights",
-        "deforestation-free fashion", "EUDR", "science-based targets fashion",
-        "net zero fashion", "carbon disclosure fashion", "Scope 3 emissions fashion",
-        "textile labelling rules", "recycled content mandate", "AGEC law",
-        "California textile EPR", "SB707", "New York Fashion Act",
-        "microplastics regulation", "chemical management textiles", "ZDHC",
-        "Higg Index", "ESG fashion", "sustainability reporting fashion",
-        "import ban fast fashion", "circular economy regulation",
+        "forced labour cotton", "UFLPA", "Uyghur Forced Labor", "German Supply Chain Act",
+        "living wage garment", "garment worker rights", "deforestation-free fashion",
+        "EUDR", "science-based targets fashion", "net zero fashion",
+        "carbon disclosure fashion", "Scope 3 emissions fashion", "climate disclosure law",
+        "carbon border adjustment", "CBAM textiles", "textile labelling rules",
+        "AGEC law", "France anti-waste law", "California textile EPR", "SB707",
+        "New York Fashion Act", "microplastics regulation", "microfibre filter law",
+        "chemical management textiles", "ZDHC", "Higg Index", "ESG fashion",
+        "sustainability reporting fashion", "import ban fast fashion",
+        "circular economy regulation", "product environmental footprint",
     ],
 }
 
@@ -128,11 +162,14 @@ for _sector, _kws in SECTOR_KEYWORDS.items():
 
 # Compact query used for site:/edition searches (keeps URLs a sane length).
 BROAD_TERMS = [
-    "sustainable fashion", "circular fashion", "textile recycling",
-    "resale", "vegan leather", "sustainable beauty", "clean beauty",
-    "refillable packaging", "sustainable fragrance", "sustainable perfume",
-    "greenwashing", "extended producer responsibility", "digital product passport",
-    "recycled polyester", "secondhand",
+    "sustainable fashion", "circular fashion", "textile recycling", "textile waste",
+    "resale", "secondhand", "clothing rental", "clothing repair", "deadstock",
+    "overproduction", "vegan leather", "recycled polyester", "recycled nylon",
+    "regenerative cotton", "denim sustainability", "microfibre", "waterless dyeing",
+    "garment workers", "living wage fashion", "fashion supply chain", "fashion emissions",
+    "fashion transparency", "greenwashing", "PFAS clothing", "extended producer responsibility",
+    "digital product passport", "sustainable beauty", "clean beauty", "refillable packaging",
+    "sustainable fragrance", "sustainable perfume",
 ]
 
 
@@ -166,6 +203,14 @@ CURATED_SOURCES = [
     {"name": "Cosmetics Business", "domain": "cosmeticsbusiness.com", "feed": None, "region": "Global"},
     {"name": "Premium Beauty News", "domain": "premiumbeautynews.com", "feed": None, "region": "Global"},
     {"name": "Cosmetics Design", "domain": "cosmeticsdesign.com", "feed": None, "region": "Global"},
+    # Broader fashion-sustainability desks & watchdogs:
+    {"name": "Just Style", "domain": "just-style.com", "feed": None, "region": "Global"},
+    {"name": "Apparel Insider", "domain": "apparelinsider.com", "feed": None, "region": "Global"},
+    {"name": "Good On You", "domain": "goodonyou.eco", "feed": None, "region": "Global"},
+    {"name": "Remake", "domain": "remake.world", "feed": None, "region": "Global"},
+    {"name": "Fashion for Good", "domain": "fashionforgood.com", "feed": None, "region": "Global"},
+    {"name": "Sustainable Brands", "domain": "sustainablebrands.com", "feed": None, "region": "Global"},
+    {"name": "WWD", "domain": "wwd.com", "feed": None, "region": "Global"},
 ]
 
 # Google News editions -> macro-region, for regional breadth.
@@ -180,7 +225,7 @@ EDITIONS = [
 
 REGION_ORDER = ["Global", "NAM", "LATAM", "EMEA", "APAC"]
 
-TIME_WINDOW = "when:14d"        # feeds/queries lookback (archive retains 90d)
+TIME_WINDOW = "when:21d"        # feeds/queries lookback (archive retains 90d)
 RETENTION_DAYS = 90
 MAX_PER_REGION = 45
 REQUEST_TIMEOUT = 30
@@ -468,8 +513,7 @@ def main():
     regions_out, total = [], 0
     for region in REGION_ORDER:
         items = sorted(buckets[region], key=lambda s: s["published"], reverse=True)
-        items = items[:MAX_PER_REGION]
-        items.sort(key=lambda s: (0 if s.get("image") else 1))  # imaged cards first
+        items = items[:MAX_PER_REGION]        # already newest-first from the sort above
         if items:
             regions_out.append({"name": region, "count": len(items), "articles": items})
             total += len(items)
@@ -491,7 +535,7 @@ def main():
             if budget <= 0:
                 break
         for r in regions_out:
-            r["articles"].sort(key=lambda s: (0 if s.get("image") else 1))
+            r["articles"].sort(key=lambda s: s.get("published") or "", reverse=True)
         print(f"  · enrichment used {ENRICH_MAX_TOTAL - budget} fetches "
               f"(budget {ENRICH_MAX_TOTAL})")
 

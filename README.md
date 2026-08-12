@@ -19,7 +19,7 @@ twice a day and the page reads it on load.
      feeds, with a Google News `site:` fallback if a feed is dead;
    - Google News regional editions (US, UK, India and others) for wider regional
      breadth.
-2. Every story is filtered and classified against a **200-term keyword set**
+2. Every story is filtered and classified against a **~280-term keyword set**
    (50 terms each for Fashion, Beauty, Fragrance and Regulation), tagged with a
    region (Global / NAM / EMEA / APAC), and de-duplicated by title.
 3. Results are written to **`data.json`** as a **rolling 90-day archive** — each

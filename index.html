@@ -225,7 +225,7 @@
       </div>
       <div class="factstrip">
         <span class="fact">↻&nbsp; Twice daily</span>
-        <span class="fact">200-term sector filter</span>
+        <span class="fact">280-term sector filter</span>
         <span class="fact">De-duped · sorted by region</span>
         <span class="fact">Rolling 90-day archive</span>
       </div>
@@ -338,7 +338,8 @@
       state.region === "All" || r.name === state.region);
     let html = "", shown = 0;
     for (const r of regions) {
-      const arts = r.articles.filter(matches);
+      const arts = r.articles.filter(matches)
+        .sort((a, b) => new Date(b.published || 0) - new Date(a.published || 0));
       if (!arts.length) continue;
       shown += arts.length;
       const feat = r.name === "Global" ? " feature" : "";
