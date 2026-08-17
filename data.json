@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-17T11:32:17.683422+00:00",
-  "edition": "Morning edition",
+  "updated_at": "2026-08-17T23:12:12.502711+00:00",
+  "edition": "Evening edition",
   "total": 62,
-  "sources": 33,
+  "sources": 32,
   "industries": [
     {
       "name": "Fashion",
@@ -427,6 +427,16 @@
           "industry": "Fashion"
         },
         {
+          "title": "18 More Sustainable Fashion and Beauty Brands From Japan to Know About",
+          "source": "Good On You",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kOVlqaU9GTHRqWU15cV91dUgyQ0JHVGNTYzRQZWRQNWxKUllXUWc1RnUydWFGWDFZZTBPdVhHMDZreWZXRGs4R3NxRkJyZVJ3amdxVnFadjV1SHlNSDFfdXZsOUhVUXpB?oc=5",
+          "published": "2026-06-22T07:00:00+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
+        {
           "title": "L’Oréal Expands #JoinTheRefillMovement to Make Refillable Beauty Mainstream",
           "source": "BeautyMatter",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU0czWTFiSktlOXc5QWQtRERMTGFQYzJ0QU1oSlV1MzRHR2pGUjdobjJlVUJhcE4yeWs2b25MNnJ1VkxHaURlb3NmMTZlemJ4dV9HMnN0V0pvLXFOaWdEcU1BYTAwYVlLekRYcXBObWRxS2R3QnZOY2xSV05zYVFXa29YSDZZUGdDVnRHRHVoRVl3MkpfbkpIcTVMZ0NYSEIzaVROWDVfTXM?oc=5",
@@ -463,16 +473,6 @@
           "published": "2026-06-11T07:00:00+00:00",
           "image": "",
           "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "Discover the Key Insights from the Organic Cotton Summit in Istanbul, Türkiye",
-          "source": "Textile Exchange",
-          "url": "https://textileexchange.org/discover-the-key-insights-from-the-organic-cotton-summit-in-istanbul-turkiye/",
-          "published": "2026-06-10T13:45:43+00:00",
-          "image": "https://textileexchange.org/app/uploads/2026/06/6K5A9492-630x474.jpg",
-          "snippet": "Hosted by the Organic Cotton Accelerator and Textile Exchange, the Organic Cotton Summit brought voices from across the organic cotton ecosystem and beyond to Istanbul from June 2–4, 2026. Growing cotton […]\nThe post Dis…",
           "region": "Global",
           "industry": "Fashion"
         }
