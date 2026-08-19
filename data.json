@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-19T11:31:58.554499+00:00",
-  "edition": "Morning edition",
+  "updated_at": "2026-08-19T23:13:06.921315+00:00",
+  "edition": "Evening edition",
   "total": 61,
   "sources": 31,
   "industries": [
@@ -26,6 +26,16 @@
       "name": "Global",
       "count": 45,
       "articles": [
+        {
+          "title": "Circular fashion brand puts waste centre stage",
+          "source": "Ecotextile News",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeXhoQWtPVEFGVU1CbE1KX0pjM19JOVlMTVQtUWFuQ2d3TXV5NkppSm5FZGdISzRPUVRZUFNTNkZIdFlZZU5WeDg1d0R3Y3BrVFdUak9XN2RPNUhDN3FZeE9CdGducVN5bWlQUUdxLVJwcGNLSDhVZzlTVDgtWGNXaXZ3Q21vTUZDcWU5TkFucWt5a3Z3bHlOY1hn?oc=5",
+          "published": "2026-08-19T17:36:51+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
         {
           "title": "When lyocell’s success closes its factories",
           "source": "Ecotextile News",
@@ -461,16 +471,6 @@
           "source": "Fashion for Good",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORnlid1VQV2UtV05OQXR5czRkYTNyUTJteTRTUldCTE9hMWlnN0R1S1VGNTRoRmFLYmRMUTVFcTBUY1VZeVJMU3FEUnRRX3E2Mi13a3ZtNlVya0FEeFNSRW9yalViRmNZZzYyc1E4dzc0MGVYQWdaMVNNSkpVYXA1bUtYTm5xQzJpQkhYazN6MEJWcllQcmRNbnR5eUs4Mk01RVJEdHpQWDhoSUQ0UGZneDR3?oc=5",
           "published": "2026-06-11T17:24:51+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "Morocco textile recycling trials flag potential",
-          "source": "Ecotextile News",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMVRWNFJIcFIwa0JhcFl3SzFNampkQ202M2tQVlRzd25Sei12ak1Udll4OVpTT3ZFNWF2M21YT0gxZjl5TEtxRjQ1V241dFlreFJ4STN2SmhNXy04am9UQjZqMEJjbnF1SE95alJsVFFqN1F5SUVoSk9SdFRjX3pteGhDRlNweTRZNUdVSFhKZHEyWVpwMEsxZE15RmVWclJnTXUzNHI2NWNMdw?oc=5",
-          "published": "2026-06-11T07:00:00+00:00",
           "image": "",
           "snippet": "",
           "region": "Global",
