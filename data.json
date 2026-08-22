@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-08-22T11:26:49.264509+00:00",
-  "edition": "Morning edition",
+  "updated_at": "2026-08-22T23:10:00.144535+00:00",
+  "edition": "Evening edition",
   "total": 61,
-  "sources": 30,
+  "sources": 29,
   "industries": [
     {
       "name": "Fashion",
-      "count": 41
+      "count": 43
     },
     {
       "name": "Beauty",
-      "count": 8
+      "count": 6
     },
     {
       "name": "Fragrance",
@@ -157,6 +157,16 @@
           "industry": "Regulation"
         },
         {
+          "title": "Is ‘durability’ the key to more sustainable fashion?",
+          "source": "Just Style",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQVRoOXkyUUJVRTRvS1RBbjJUdEN4cWh0aldaS01GRTR3MWFJWXlTNENqQnMwUHZJUWdUVjBNUmhfZElaWnNlR0sxbDJ6bmlXeTd2MmZLTUUwU3dnYTVaek11dG1CMTlOUzdLTWgzbUdaa2lLYzVWdWhzNERvaVlzcUVZZmZHYTgyLVd6QUFsdw?oc=5",
+          "published": "2026-07-23T10:08:43+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
+        {
           "title": "Magnetic filter targets textile wastewater",
           "source": "Ecotextile News",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVlNXLWxNcmFfazBzSmdWdVgtVDVuS0I0OHcxZVRVQUs3aS1lVHpZTVI0Xzg1b3JPdHNvV0ljMFotdDJZQ2FVbV82SDZlWnB1Q2MzSmRtMktQMV9wTHpVQ29rUExHbkk4cmg2X3lhR2VlaTZXcV9EZi1VZTI3UXllTmdnZWNoOUpQUFNGY3FNelNaYmpxMHNSOUhCWWVkQTFNaWpsLXM1ekJOaUliMHViZnRMRVhjUQ?oc=5",
@@ -277,6 +287,16 @@
           "industry": "Fashion"
         },
         {
+          "title": "Is Textile-to-Textile Recycling the Answer to Fashion's Waste Issue?",
+          "source": "Good On You",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSVBwd0c0UVoxTlZXMjBDVXZnc3dwUW5DNTJTTEg2c2I1OGZ4MUtIUXIta0FKUlAyWVdCV3h6azk4UnlVSEZ2ZFN0ZFR0NEpGQTJJYUx2d09WNjByYmxCOGRKU01VMWRqc2VhbENzWVg2Vk5SNXY4dG9ucEUtcXFGMk9XU1hON0hHWV9DSjZ2U0x3aVlOclE?oc=5",
+          "published": "2026-07-07T07:00:00+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
+        {
           "title": "Textile-to-textile recycling at scale: why brands must collaborate",
           "source": "Sourcing Journal",
           "url": "https://wwd.com/sourcing-journal/sustainability/textile-to-textile-recycling-at-scale-brands-must-collaborate-1238943715/",
@@ -387,6 +407,16 @@
           "industry": "Fashion"
         },
         {
+          "title": "UKFT challenges new textile waste rules",
+          "source": "Ecotextile News",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdkE1RXJxcVJaZ085ZDVMQmNFSUozREptZ05odUF2NWNfa05ka3dmMXZQc2hBbVZ4TWFIR1RkUWR3TVVLZjgxX01sVmF6X0l0SnFQaDQxbXpwX05pN2FCTmhFeE1iaXVab0R3Z2NXUlhORTVPVVl0S0tBdHgya1JQVXNOak9FRHIyQXNlNDJtMzZ6UzRGSG5LVVA2TVFCWjA?oc=5",
+          "published": "2026-06-30T07:00:00+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
+        {
           "title": "ZDHC steps up PFAS crackdown",
           "source": "Ecotextile News",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOT1ZjNUUtSGFTbFROS3ZONlY5S2tmWExGakdVWXZ6S3J6ek9rUzVuTHZVLXNwVzNaOTVmMXFWQWZvc25LMkpuclgwUW5oQ3hNOGw5RnFVQldtUTlXT0N3OV9KVXk2Y0JkSVhyUkFTbk5LbC1tcWtXT3J2WnhsOEtUUUx6R3ZZbFI4RXg5TDFSQ1FVLWd6?oc=5",
@@ -445,36 +475,6 @@
           "snippet": "",
           "region": "Global",
           "industry": "Fashion"
-        },
-        {
-          "title": "18 More Sustainable Fashion and Beauty Brands From Japan to Know About",
-          "source": "Good On You",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kOVlqaU9GTHRqWU15cV91dUgyQ0JHVGNTYzRQZWRQNWxKUllXUWc1RnUydWFGWDFZZTBPdVhHMDZreWZXRGs4R3NxRkJyZVJ3amdxVnFadjV1SHlNSDFfdXZsOUhVUXpB?oc=5",
-          "published": "2026-06-22T07:00:00+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "L’Oréal Expands #JoinTheRefillMovement to Make Refillable Beauty Mainstream",
-          "source": "BeautyMatter",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU0czWTFiSktlOXc5QWQtRERMTGFQYzJ0QU1oSlV1MzRHR2pGUjdobjJlVUJhcE4yeWs2b25MNnJ1VkxHaURlb3NmMTZlemJ4dV9HMnN0V0pvLXFOaWdEcU1BYTAwYVlLekRYcXBObWRxS2R3QnZOY2xSV05zYVFXa29YSDZZUGdDVnRHRHVoRVl3MkpfbkpIcTVMZ0NYSEIzaVROWDVfTXM?oc=5",
-          "published": "2026-06-17T07:00:00+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Beauty"
-        },
-        {
-          "title": "One-stop shop for clean beauty ingredients sourcing the best from around the world with ACTIVON",
-          "source": "Cosmetics Business",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd2NqWjcwNC16V0l1SWxHMWJjXzFYRERZc1dyaXExQ2Y0RTdsaHp3azljXzl5OGc2cXRQckFxTm8tQkhNRjBWODdESTlRX2wxRm4wbnJFYWZSYnlqbzJGQnpMYnJJVTR6RVFQellZLUdJanJwZWVOS0J5MVZEX0wtZ0lacG9uMVJJ?oc=5",
-          "published": "2026-06-15T07:00:00+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Beauty"
         }
       ]
     },
