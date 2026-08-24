@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-24T11:35:30.892577+00:00",
-  "edition": "Morning edition",
+  "updated_at": "2026-08-24T23:13:23.663208+00:00",
+  "edition": "Evening edition",
   "total": 61,
   "sources": 29,
   "industries": [
@@ -26,6 +26,16 @@
       "name": "Global",
       "count": 45,
       "articles": [
+        {
+          "title": "ReFiber tackles India’s textile waste with nationwide recovery drive",
+          "source": "Just Style",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9fSjJpZ0pJTnBzenFuT05rVVM5UVFBRXA2bzdHMGV0amlEdzVTeE9WMnlxOW8yejdWNWczNDRfUkduQzNMMFFWa0VnSVpYNTRoWW9VWlZWN1pTLV9nMnV6MWF4ckdkUHJ5LThiNzJZd3dDMVhrQlZKdHd5TQ?oc=5",
+          "published": "2026-08-24T10:33:42+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
         {
           "title": "Circular fashion brand puts waste centre stage",
           "source": "Ecotextile News",
@@ -461,16 +471,6 @@
           "source": "Ecotextile News",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRGhEWDY3M1htV3lmN2JZNFlYcDdYZTBGV19RcEV2N0hIRDhlSXJYaG4wU3FyR1N5MzNIZFZJSll4aGN5UWFJVmExOUJxSXdDOGdNUk41WkhhZnhZUHpXek9nYXhDSER1QTd2R1dlUHQ3OVRTQTdEOXRqQkNUVmFoVWZvV09JVXlGV013SzZJanRoRm9mN3gydWpNZUhTNjR2dTZNR1BkUEtGUmI2eVFnTmdkdC12V1lJYXZOdzdDbUYzWXdTTnc?oc=5",
           "published": "2026-06-24T07:00:00+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "Pact backs Plan B polyester textile recycling",
-          "source": "Ecotextile News",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWVBVWlFBalQwZnBUYzhkTGt5QWgzQVZzUFNQY0ZzdlQydjFVU0xMRUJTaWQtMU93QkhwMEdnUUo5MW5zOE5uS1IyMzRuLU1ocW9YOXRoQ0IxRXpqQWhkaXMweTU3bjk5a3QzaDY2dl9hRXg1Z3FoWDNGUVZPTGkzeDdMZUZjTmxhQmR5WnYzVElTdDlZOWVTbEtwcm90eWVCeEtsSDc4aVg?oc=5",
-          "published": "2026-06-23T07:00:00+00:00",
           "image": "",
           "snippet": "",
           "region": "Global",
