@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-25T11:34:46.237990+00:00",
-  "edition": "Morning edition",
+  "updated_at": "2026-08-25T23:15:51.258926+00:00",
+  "edition": "Evening edition",
   "total": 61,
   "sources": 29,
   "industries": [
     {
       "name": "Fashion",
-      "count": 43
+      "count": 45
     },
     {
       "name": "Beauty",
@@ -14,11 +14,11 @@
     },
     {
       "name": "Fragrance",
-      "count": 5
+      "count": 4
     },
     {
       "name": "Regulation",
-      "count": 7
+      "count": 6
     }
   ],
   "regions": [
@@ -27,10 +27,30 @@
       "count": 45,
       "articles": [
         {
+          "title": "Study raises carbon questions for chemical textile recycling",
+          "source": "Apparel Insider",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DcUh3ejlhamt3QXkyQm5vRjU0bkxUSGNwVTJXT1ZkQUtET21HVTNGVlpWRnRjVHhrSUVXVS1pVFYxMG50LTY2SGFXdw?oc=5",
+          "published": "2026-08-25T16:01:31+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
+        {
           "title": "ReFiber tackles India’s textile waste with nationwide recovery drive",
           "source": "Just Style",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9fSjJpZ0pJTnBzenFuT05rVVM5UVFBRXA2bzdHMGV0amlEdzVTeE9WMnlxOW8yejdWNWczNDRfUkduQzNMMFFWa0VnSVpYNTRoWW9VWlZWN1pTLV9nMnV6MWF4ckdkUHJ5LThiNzJZd3dDMVhrQlZKdHd5TQ?oc=5",
           "published": "2026-08-24T10:33:42+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
+        {
+          "title": "More Sustainable Fashion Brand Offers This August 2026",
+          "source": "Good On You",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ONHRRZ0RqSUlnd0p6d0t1cThGUnJ1M19Vb1R6eWJKOVR0TGlPQ080M1Yybld4RmtZS1V6N0RoNkZmSVFNS2JEdFN3MktYdHBO?oc=5",
+          "published": "2026-08-20T07:00:00+00:00",
           "image": "",
           "snippet": "",
           "region": "Global",
@@ -100,6 +120,16 @@
           "title": "Op-Ed: Doubling Down on Circular Fashion Requires More Than Regulation",
           "source": "WWD",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOXVhb09GdjVNQ0pMMGcySmY4ZDEwR1dhVlNZNGFpNVQ4QjJ3ZW9rdzFKOEsxbk5sYXJYd0lCTGxxNUlsVDZPLVUxMXJTNUVIdUJBX1AxMzRxWDFfZjRZcV9qa2ZBcmtKanpfVl9VeWVwV3V3bkpiNU1Yd0p2R2l2aUZCZVlzQk1VckdNTkJIbVIwTDlIMV9xQ1FaREppaEN1T3RzQllPY0tPb09odFgxWllneWxOQzVZWmsxcWRpcEthWGZ1N210LXRsVm4?oc=5",
+          "published": "2026-08-03T07:00:00+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
+        {
+          "title": "10 Things to Know in Sustainable Fashion This August",
+          "source": "Good On You",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE00Z1hXTkpQN1RwSUh2YzZfRy0tZHJSZFBfbERmYV9HM1FoQXItRU1fWkd3Ym1UTXpWZFBZd1JLeDM4ejVFSXJEM2h6RG5xRVdYRXBsLW9BUjF3SmxQYnZfWFNBc2tNZWpVYWJn?oc=5",
           "published": "2026-08-03T07:00:00+00:00",
           "image": "",
           "snippet": "",
@@ -231,6 +261,16 @@
           "source": "Ecotextile News",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTVJCY216cjZEVTBXQ0syTl9qcThIOVhkZUVUOUhqVmdhUzg0ZlVZTXlKdjdqbWNBV0Y0dDdkUXBJanp3R3J1WDRBbkZ1UDRIVnN5UF9GeUZuTmpoZ2xjeGhZbHFRcXJkVGx0UHlhYk5XaUduTWxRYUtjWFVZc2hzM1QwUUd5V0lWaUduclRweVR2OHdIRFJ4ektVbndNRW0yWUE?oc=5",
           "published": "2026-07-17T17:04:29+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
+        {
+          "title": "46 More Sustainable Fashion and Beauty Brands From the UK",
+          "source": "Good On You",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZUE5VzR6Q3gtX0h0bFdJLXprRGVZWEhWS0F5c1htdzFJbW84emtDSzFuR3Z0MjdxYk85UmxWZXBqOVp0WmpOOVRjWk9nY0tLQWNiZ1B1aDJGSnVRMk1XbE9yeVlIZ3hMTm50VHgwQ2NQRGpEOHpEdGhmTEN4SVZ5QQ?oc=5",
+          "published": "2026-07-15T07:00:00+00:00",
           "image": "",
           "snippet": "",
           "region": "Global",
@@ -377,6 +417,16 @@
           "industry": "Fashion"
         },
         {
+          "title": "What to Know in Sustainable Fashion and Beauty This July",
+          "source": "Good On You",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43NWZUclp5QjRTVVBaYTg3aHkwU2FQaTdVR1kzeGZwRFZWT0ZJNEJUYmRha0pLSmxSeVZBZGRHU0hfc1NCSTduWGd0ZE9TbXVDQkZvbUVvYVRTQ3M2NnVMQWZMRDMzaUlWMGZ1RC1vWDl2ZEkxLWtF?oc=5",
+          "published": "2026-07-02T07:00:00+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
+        {
           "title": "Paul Smith Joins King Charles III’s Sustainable Fashion Task Force",
           "source": "WWD",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT1h0cm9NcnhVcmEyczEtU2hzN0hQS3E0dEFGV3A4eTJsNGRueUZ6c0M5c3g1alFJY2ZRcjV5U2ltX0NEY0RVSXlvbXlQaTFLS0FsdTNXUGpqdEIxSlNJU190b3FqX1VVR0w1MHVkWVcxUERYcXFMSjlPMkR1QUxSeEI4cDJyT2tTeVNnV0VvQjM1WGpBMDBLYzd0MWd0WXRaVGMwWFZMVU83VXdMUm1abC1YOWNKUQ?oc=5",
@@ -421,56 +471,6 @@
           "source": "Ecotextile News",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdkE1RXJxcVJaZ085ZDVMQmNFSUozREptZ05odUF2NWNfa05ka3dmMXZQc2hBbVZ4TWFIR1RkUWR3TVVLZjgxX01sVmF6X0l0SnFQaDQxbXpwX05pN2FCTmhFeE1iaXVab0R3Z2NXUlhORTVPVVl0S0tBdHgya1JQVXNOak9FRHIyQXNlNDJtMzZ6UzRGSG5LVVA2TVFCWjA?oc=5",
           "published": "2026-06-30T07:00:00+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "ZDHC steps up PFAS crackdown",
-          "source": "Ecotextile News",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOT1ZjNUUtSGFTbFROS3ZONlY5S2tmWExGakdVWXZ6S3J6ek9rUzVuTHZVLXNwVzNaOTVmMXFWQWZvc25LMkpuclgwUW5oQ3hNOGw5RnFVQldtUTlXT0N3OV9KVXk2Y0JkSVhyUkFTbk5LbC1tcWtXT3J2WnhsOEtUUUx6R3ZZbFI4RXg5TDFSQ1FVLWd6?oc=5",
-          "published": "2026-06-26T10:45:18+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Regulation"
-        },
-        {
-          "title": "EU fraud office blocks textile waste dumping",
-          "source": "Ecotextile News",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSWNZLW1EanJzcnhEODNVbjh1Ti00U0FJZzJDMUdvTm45c3lNZk1SWG9QSVF4UTJZMjZlSFk0Mi1wOXFpY1h0bHBOTDVLUm1WVU12ZzduSG43LTYwRGNPcUpwZTExLWhTQV8xeEl5Umc4a1B5MmNxVGZDVXlQa0dDVVBhRmVBLVNPUHpxYkJZVDdfRUZIYjFtTXpEY2hlVFlaanNFcGlB?oc=5",
-          "published": "2026-06-26T07:00:00+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "EU Watchdog Finds ‘Large-Scale Trafficking of Textile Waste’",
-          "source": "WWD",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUGNXalE2bWt6bzF3eThEZjh4cUIyazVRMXBzendDQmdDaENPOFZqcTRScGd1LWRMMjhETHpuSkVid29ncmNuY3VIMldET1IzUzdZUjFsa1R5VHA4VGZBLUo3NS1VS0NhZDhoRFl3dFpaUWdnenJWWmZFNllzTkk3RXlBSkxxREdIUG9lMmdBTFpfeTl4YWZOTndfQ21wR1ZNMDZJRVVtNS1xQQ?oc=5",
-          "published": "2026-06-26T07:00:00+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "A holistic vision for a sustainable fragrance industry",
-          "source": "RSC Sustainability",
-          "url": "https://pubs.rsc.org/en/content/articlehtml/2026/su/d5su00680e",
-          "published": "2026-06-24T09:00:00+00:00",
-          "region": "Global",
-          "industry": "Fragrance",
-          "snippet": "A research review maps how fragrance houses chase renewable carbon, biodegradability and green chemistry across their ingredient palettes.",
-          "image": ""
-        },
-        {
-          "title": "Albany and Cyclezyme advance textile recycling project",
-          "source": "Ecotextile News",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRGhEWDY3M1htV3lmN2JZNFlYcDdYZTBGV19RcEV2N0hIRDhlSXJYaG4wU3FyR1N5MzNIZFZJSll4aGN5UWFJVmExOUJxSXdDOGdNUk41WkhhZnhZUHpXek9nYXhDSER1QTd2R1dlUHQ3OVRTQTdEOXRqQkNUVmFoVWZvV09JVXlGV013SzZJanRoRm9mN3gydWpNZUhTNjR2dTZNR1BkUEtGUmI2eVFnTmdkdC12V1lJYXZOdzdDbUYzWXdTTnc?oc=5",
-          "published": "2026-06-24T07:00:00+00:00",
           "image": "",
           "snippet": "",
           "region": "Global",
