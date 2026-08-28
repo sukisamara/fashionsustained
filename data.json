@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-28T06:25:34.412367+00:00",
-  "edition": "Morning edition",
+  "updated_at": "2026-08-28T21:21:14.111534+00:00",
+  "edition": "Evening edition",
   "total": 61,
   "sources": 29,
   "industries": [
@@ -26,6 +26,16 @@
       "name": "Global",
       "count": 45,
       "articles": [
+        {
+          "title": "Textile Recycling Needs Billions. Investors Want Guarantees.",
+          "source": "WWD",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaExxTXNodUc2R2NrQUxLVzA5S2xFVGZNZl9IcnlldTFCOGRISnFwNVU3Rmh3Nm5WS3h2WmNiZDUweW1zWmVodTVJZGlGNHRqbDBLWFk5cXFsbDBYOUFoMjY2eG9KRkRkYzdWVURnTDMzUU1UMXdMSkxxZ1VfNDVWZFBENFRhNEYxLXhWMTYwMFI0SHNrMktPV2NIR2Y?oc=5",
+          "published": "2026-08-28T18:37:39+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
         {
           "title": "Study raises carbon questions for chemical textile recycling",
           "source": "Apparel Insider",
@@ -465,16 +475,6 @@
           "industry": "Beauty",
           "snippet": "US refill growth stays modest, but sustainable fragrance packaging launches jump 80% as scent leads the category.",
           "image": "https://www.mintel.com/app/uploads/2026/01/feature3-1024x347.jpg"
-        },
-        {
-          "title": "Chemical textile recycling’s reality check",
-          "source": "Ecotextile News",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY255Vm9tcVhWWkpReW91OXYzZkxSd1JLWkM5Yzg4TkdiNGZ1bDIxRjdwOXBJVlZhdVlHX2VkSzdPY0NqclE3VVlLSGRmVjNBczVmUFl0OW54WEw5ZEtQWjNQYkpvQi1oY3RqMlVmemttMW9tWDY4SGV3UEJFYUVEQzNiaC1sYldMQmFRQUk1encyWnZIeVJlODVlVkFWdw?oc=5",
-          "published": "2026-06-30T07:00:00+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
         }
       ]
     },
