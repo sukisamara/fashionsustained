@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-08-31T00:58:56.783879+00:00",
-  "edition": "Morning edition",
+  "updated_at": "2026-08-31T17:58:34.793578+00:00",
+  "edition": "Evening edition",
   "total": 61,
-  "sources": 29,
+  "sources": 28,
   "industries": [
     {
       "name": "Fashion",
-      "count": 45
+      "count": 46
     },
     {
       "name": "Beauty",
-      "count": 6
+      "count": 5
     },
     {
       "name": "Fragrance",
@@ -26,6 +26,16 @@
       "name": "Global",
       "count": 45,
       "articles": [
+        {
+          "title": "Report warns of German textile recycling crisis",
+          "source": "Ecotextile News",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS3hybXNIZjNLYVZjdU9YQ0U5OV9JMF9Id1lFTjlGdlk3OHk3bWZ6UFNmdW1Dby1abmc1S01mWUo2RGxqMHpZOGREWUs0VVFiQXVySldla01OOFRaSFd1V2UxMGtKN0xiOEpXOUhKaW5rRTdwMGtaS1haN2xkMllEOVRMWWpLM0t2a1lUOHNHYTh6TXhkdnBINm9JUXVNWFA2S2pVVlR3U3VTZw?oc=5",
+          "published": "2026-08-31T09:57:58+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
         {
           "title": "Textile Recycling Needs Billions. Investors Want Guarantees.",
           "source": "WWD",
@@ -465,16 +475,6 @@
           "snippet": "",
           "region": "Global",
           "industry": "Fashion"
-        },
-        {
-          "title": "Sustainable fragrance packaging launches surge 80%",
-          "source": "Mintel",
-          "url": "https://www.mintel.com/insights/packaging/the-future-of-beauty-packaging/",
-          "published": "2026-06-30T09:00:00+00:00",
-          "region": "Global",
-          "industry": "Beauty",
-          "snippet": "US refill growth stays modest, but sustainable fragrance packaging launches jump 80% as scent leads the category.",
-          "image": "https://www.mintel.com/app/uploads/2026/01/feature3-1024x347.jpg"
         }
       ]
     },
