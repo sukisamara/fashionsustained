@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-02T00:38:49.636217+00:00",
-  "edition": "Morning edition",
+  "updated_at": "2026-09-02T15:02:56.779013+00:00",
+  "edition": "Evening edition",
   "total": 61,
-  "sources": 28,
+  "sources": 27,
   "industries": [
     {
       "name": "Fashion",
@@ -26,6 +26,16 @@
       "name": "Global",
       "count": 45,
       "articles": [
+        {
+          "title": "Can Uzbekistan turn textile waste into a competitive edge?",
+          "source": "Just Style",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeFkzUHMzbDRvR0t2NUlnWUtRcGhnYUNtZ3V4VVVmN2thcl96QzlMekNzT0RGdUFCWGE3bjdBZmJYTUF1czNLaE1PVGxrVXdfdXhBWnZ5TGNLNUZWMTEyRDZMWFJvVDFFN1ZIMUhsQnJ0TG9JYXFlWFl0M0wza1pFUEFVU09iR0Z1azF5WFpzbC1oYl9tRXBQZkR3?oc=5",
+          "published": "2026-09-02T10:52:54+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
         {
           "title": "Reuse rates plunge as German textile waste mounts",
           "source": "Apparel Insider",
@@ -460,16 +470,6 @@
           "title": "OLAF, Turkish customs intercept illegal textile waste from Italy",
           "source": "Just Style",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJcGE5d3JVR0tFeVB4X0g5ZnduZkxtbDdiSUhlcHBabkFhcHptVTNtdzlwVm1TT2xzdWw3MVRiWFNCWDR2MDZMOWY0b29WTlhjT2pja0J0OEtRazBWREN1bU1Hclg0dVdvSkc3a1kzWlhrbEFPYmc?oc=5",
-          "published": "2026-07-02T07:00:00+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "Circular Fashion Isn’t Cheap: What a Small Swimwear Brand Learned About the Real Cost of Sustainability",
-          "source": "Sustainable Brands",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORUg2VGVzM3FZQlhpVnVjTGc0dVNjVjloRVNVaGMyVTlwZW1BRXdwQkxzeHgtcmg4b3pBZHA2SjhmRjZrMHdkWmdVUGViYmF3M25rQjQtRlQ2b25pVkRpSHhfSXN4NWhUeGJiOHV6aVlUR01SenFtTkZyQUh6SDk4LUNIQlJvdEV0R3lwRHdyZGMwM05wLWM5cEoteks2cUZmR19WX0I2V1dUcm40WFhNaXJVY2M3b25PTFMyWGdKLVR2YVhnOUgwYzNYX3hYR0UxMUE?oc=5",
           "published": "2026-07-02T07:00:00+00:00",
           "image": "",
           "snippet": "",
