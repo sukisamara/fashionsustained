@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-01T15:27:14.026837+00:00",
-  "edition": "Evening edition",
+  "updated_at": "2026-09-02T00:38:49.636217+00:00",
+  "edition": "Morning edition",
   "total": 61,
   "sources": 28,
   "industries": [
@@ -26,6 +26,16 @@
       "name": "Global",
       "count": 45,
       "articles": [
+        {
+          "title": "Reuse rates plunge as German textile waste mounts",
+          "source": "Apparel Insider",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMllYejN2S1lKWkFDUi0zRGxncFVkeEdXaWtIR1ZtNnl6RjVvMWNVZGg0RG1kVjZqM1ZsRGtPN1lFZlhUZWJsZmZOcjVDMUstMURaM1Y5c3FaYmtkWFRNMWhWd0wtaks3TE5KQ3V2RXA4cnh1TmNmZmVnVXluVzZZRE1Ncw?oc=5",
+          "published": "2026-09-01T15:47:30+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
         {
           "title": "Report warns of German textile recycling crisis",
           "source": "Ecotextile News",
@@ -460,16 +470,6 @@
           "title": "Circular Fashion Isn’t Cheap: What a Small Swimwear Brand Learned About the Real Cost of Sustainability",
           "source": "Sustainable Brands",
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORUg2VGVzM3FZQlhpVnVjTGc0dVNjVjloRVNVaGMyVTlwZW1BRXdwQkxzeHgtcmg4b3pBZHA2SjhmRjZrMHdkWmdVUGViYmF3M25rQjQtRlQ2b25pVkRpSHhfSXN4NWhUeGJiOHV6aVlUR01SenFtTkZyQUh6SDk4LUNIQlJvdEV0R3lwRHdyZGMwM05wLWM5cEoteks2cUZmR19WX0I2V1dUcm40WFhNaXJVY2M3b25PTFMyWGdKLVR2YVhnOUgwYzNYX3hYR0UxMUE?oc=5",
-          "published": "2026-07-02T07:00:00+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "What to Know in Sustainable Fashion and Beauty This July",
-          "source": "Good On You",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43NWZUclp5QjRTVVBaYTg3aHkwU2FQaTdVR1kzeGZwRFZWT0ZJNEJUYmRha0pLSmxSeVZBZGRHU0hfc1NCSTduWGd0ZE9TbXVDQkZvbUVvYVRTQ3M2NnVMQWZMRDMzaUlWMGZ1RC1vWDl2ZEkxLWtF?oc=5",
           "published": "2026-07-02T07:00:00+00:00",
           "image": "",
           "snippet": "",
