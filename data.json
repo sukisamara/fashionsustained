@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-02T15:02:56.779013+00:00",
-  "edition": "Evening edition",
+  "updated_at": "2026-09-03T00:48:34.326570+00:00",
+  "edition": "Morning edition",
   "total": 61,
   "sources": 27,
   "industries": [
     {
       "name": "Fashion",
-      "count": 46
+      "count": 45
     },
     {
       "name": "Beauty",
@@ -18,7 +18,7 @@
     },
     {
       "name": "Regulation",
-      "count": 6
+      "count": 7
     }
   ],
   "regions": [
@@ -26,6 +26,16 @@
       "name": "Global",
       "count": 45,
       "articles": [
+        {
+          "title": "Put a date on it: making textile EPR work in practice",
+          "source": "Apparel Insider",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOalNvZk9PS0VHejZnTVRyMVRQN2hzMjlnY28xcWwySEZEWjBuS1QyNHUzem4xb0Z0NlpSdzg1b1FIQVFjcGFSYXFRRUZwM0lob3FLRlh2ek02bjRqX3VwZE1HREthYVY1eG9Qb0RQT3lGZHpBenJuMlhyQ1VzelBPbkZkXzkta28?oc=5",
+          "published": "2026-09-02T15:44:41+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Regulation"
+        },
         {
           "title": "Can Uzbekistan turn textile waste into a competitive edge?",
           "source": "Just Style",
@@ -465,16 +475,6 @@
           "industry": "Fashion",
           "snippet": "A cross-industry initiative aims to accelerate adoption of recycled and next-gen fibres, with input from the Ellen MacArthur Foundation.",
           "image": ""
-        },
-        {
-          "title": "OLAF, Turkish customs intercept illegal textile waste from Italy",
-          "source": "Just Style",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJcGE5d3JVR0tFeVB4X0g5ZnduZkxtbDdiSUhlcHBabkFhcHptVTNtdzlwVm1TT2xzdWw3MVRiWFNCWDR2MDZMOWY0b29WTlhjT2pja0J0OEtRazBWREN1bU1Hclg0dVdvSkc3a1kzWlhrbEFPYmc?oc=5",
-          "published": "2026-07-02T07:00:00+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
         }
       ]
     },
