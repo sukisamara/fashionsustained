@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T14:56:55.606547+00:00",
+  "updated_at": "2026-09-04T00:30:47.684223+00:00",
   "edition": "Morning edition",
   "total": 61,
   "sources": 27,
@@ -26,6 +26,26 @@
       "name": "Global",
       "count": 45,
       "articles": [
+        {
+          "title": "US backs enzymatic PET textile recycling project",
+          "source": "Ecotextile News",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcDh0dUowYTZPbWFjc003bVFMLU14bk96T1JnSTlLR0ZhYVlSRGxtZnBEeUx2UUR3XzdScV9wYl83dU5ZaHhSR0JScW9USVFqa0liWFdZYmNYc0hJYUk2T211VkdDR3JKRnc2WTgyZXpENnQxWDFNa2xLYkhBaXpPU3BJci04MTJLSGVwZTZuVFFEMm5OdEZmNzJiVEYybk1NUllQWGpvc05lbWtGdXNlN3MtWmR0ajJlOW9JNDln?oc=5",
+          "published": "2026-09-03T19:25:56+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
+        {
+          "title": "Circular fashion progress remains uneven, report",
+          "source": "Ecotextile News",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTlNPM19CQkNweWRoMG9BN2dTQjBZeGNhalJvaDExR0Vrb0Z1U21QbTVESlB3cURJWkdrR2pWYkxuUUdVa3JpVW05NFFjb3BMdXk2NWdvR3JtWWdPSjRVdDM3WGxuLWlYd1RvY0dZMnZTQW9MMFVNcGdXUVpGU2ktUXltQXN5c1BaM2FjbF9hOE54c05hdEhBc29iSFd2TWZTdHBwOXRB?oc=5",
+          "published": "2026-09-03T11:27:23+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
         {
           "title": "Put a date on it: making textile EPR work in practice",
           "source": "Apparel Insider",
@@ -455,26 +475,6 @@
           "industry": "Beauty",
           "snippet": "A chemist's-eye view argues zero-waste beauty only works when refills are seamless, hygienic and built for real consumer behaviour.",
           "image": "https://img.cosmeticsandtoiletries.com/mindful/allured/workspaces/default/uploads/2026/03/adobestock-391206179.WaaSiUgXDI.jpg?auto=format%2Ccompress&h=630&q=70&w=1200"
-        },
-        {
-          "title": "AI startup launches fashion resale system",
-          "source": "Ecotextile News",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWmRFdXg0U0hEbFM1V1hlRXlFM1hFNmw0Zk9UdDZoZ1BBbXRwa1U3M1BORzlqUXliT3FTOXRpYTNKV0pfWmNFclhTNElFUi1NMGZVMWNzSXNTSGVtY3hwRndJMVFwZDFqSXRkVUM2OFkzZDhua0dJX0daSXM0ZUh2VmxUVkMzbE40TEs4VHBUYUtvNlRaREJnYWpKVWx6V1YwZXlrMEk1bGxGaE1fZ0Q4eXh4ekk?oc=5",
-          "published": "2026-07-03T07:00:00+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "The Fashion Pact and Fashion for Good launch a Circular Fibre Collective",
-          "source": "Sourcing Journal",
-          "url": "https://wwd.com/sourcing-journal/sustainability/the-fashion-pact-fashion-for-good-team-cfc-1238926147/",
-          "published": "2026-07-02T09:00:00+00:00",
-          "region": "Global",
-          "industry": "Fashion",
-          "snippet": "A cross-industry initiative aims to accelerate adoption of recycled and next-gen fibres, with input from the Ellen MacArthur Foundation.",
-          "image": ""
         }
       ]
     },
