@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-09-08T00:47:39.655207+00:00",
-  "edition": "Morning edition",
+  "updated_at": "2026-09-08T15:02:22.586236+00:00",
+  "edition": "Evening edition",
   "total": 61,
-  "sources": 27,
+  "sources": 26,
   "industries": [
     {
       "name": "Fashion",
-      "count": 45
+      "count": 46
     },
     {
       "name": "Beauty",
-      "count": 5
+      "count": 4
     },
     {
       "name": "Fragrance",
@@ -26,6 +26,16 @@
       "name": "Global",
       "count": 45,
       "articles": [
+        {
+          "title": "Zalando opts for Re&Up recycled cotton fibres",
+          "source": "Ecotextile News",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRjhQUUcyd2lyUy1RQWZMM3F4eF9JbElqcFlxc0lEV2tqbmR1OTRkcVRlZ1lrbmNKNHVNcnI3d3NkWEtRMXNaT3hZYmZtSVZzaUZJSjY1enQtUWNDLWpfSU5wMnhndHhfLXVPdDRjN2ZObW9QdXFDcEdLbk1TaWlPbFZaLWVWZWY0NTRiVTI0cVRnb001UWM3R2EwRFR2TmV0dWI0QWNtNERJUQ?oc=5",
+          "published": "2026-09-08T11:35:20+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
         {
           "title": "US backs enzymatic PET textile recycling project",
           "source": "Ecotextile News",
@@ -465,16 +475,6 @@
           "snippet": "",
           "region": "Global",
           "industry": "Fashion"
-        },
-        {
-          "title": "Zero-waste beauty grows up: a chemist's reality check",
-          "source": "Cosmetics & Toiletries",
-          "url": "https://www.cosmeticsandtoiletries.com/regulations/eco-sustainable/article/22961837/biotech-in-beauty-zero-waste-beauty-is-growing-up",
-          "published": "2026-07-03T09:00:00+00:00",
-          "region": "Global",
-          "industry": "Beauty",
-          "snippet": "A chemist's-eye view argues zero-waste beauty only works when refills are seamless, hygienic and built for real consumer behaviour.",
-          "image": "https://img.cosmeticsandtoiletries.com/mindful/allured/workspaces/default/uploads/2026/03/adobestock-391206179.WaaSiUgXDI.jpg?auto=format%2Ccompress&h=630&q=70&w=1200"
         }
       ]
     },
