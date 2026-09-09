@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-08T15:02:22.586236+00:00",
-  "edition": "Evening edition",
+  "updated_at": "2026-09-09T00:48:25.241323+00:00",
+  "edition": "Morning edition",
   "total": 61,
-  "sources": 26,
+  "sources": 25,
   "industries": [
     {
       "name": "Fashion",
@@ -26,6 +26,16 @@
       "name": "Global",
       "count": 45,
       "articles": [
+        {
+          "title": "Taiwanese Consortium Announces New Recycling Tech For Textile Waste",
+          "source": "WWD",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaUwxSlJiMTlsOE05YnUtNF9pSmMzWUpDSERrdnVFNTMxQ2p5aEdDdzF1UG5PTmYyakQ0TVFvMFVybmJKUi1WQ2RFWnRhbHFfNXFRZjV1dTYxbXM2eGt4VzN5UGJOdGhpbTg0UGE2YVViUHc0REhTd2VtUWlBWHJMNUJNcXVaZHdJR0xVNWRfd3pFNVFiTlc0?oc=5",
+          "published": "2026-09-08T21:03:25+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
         {
           "title": "Zalando opts for Re&Up recycled cotton fibres",
           "source": "Ecotextile News",
@@ -465,16 +475,6 @@
           "industry": "Fashion",
           "snippet": "Industry leaders argue fibre-to-fibre recycling is at an innovation moment, but only cross-supply-chain collaboration will bring costs down enough to scale.",
           "image": ""
-        },
-        {
-          "title": "Ep 223: EV batteries, bio-based materials, and the jobs nobody talks about | Circular Snapshots",
-          "source": "Ellen MacArthur Foundation",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNb1dyQ3RiN3F4dDAzcGgzZGl0MWYtZnBUYkYzdjE1Z2ljbUtVRklCQXR4Y1h3R1RuR0plLVZHeGRqNk4wdnhXVVJyaDdaN2lHdlRQWFNJQ2dSb1FqSTFBLUlXdVBBcmUtWXJyYkJ2bFgtcU02WUFyNUhiQm1pRXVtOWJRZHc5eGw1TzVGcEVWd1YwOTc0c3ExcFFMUW1SN011UUlDVVFDY1JFbDB5X0gxazE2S0dLMG1LUEx6bUIwU2lFZEwxSXNFVGRWRHdrT1JNV2pRVVdkLXNfRnc?oc=5",
-          "published": "2026-07-04T07:00:00+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
         }
       ]
     },
