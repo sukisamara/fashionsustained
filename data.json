@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T00:42:28.355430+00:00",
+  "updated_at": "2026-09-10T14:57:24.629421+00:00",
   "edition": "Morning edition",
   "total": 61,
   "sources": 25,
@@ -26,6 +26,26 @@
       "name": "Global",
       "count": 45,
       "articles": [
+        {
+          "title": "Six Things to Know in Sustainable Fashion This September",
+          "source": "Good On You",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wZXA3WDFySVp2dHBWTlA0TVR3US0tM3lEVFRiajJIVVlPaS1fZ3ViRTlfS1ptdW9Gc1R5V2U3SVBybXZIYjB6Y2hKSWI1amlsYVE4ODdXaHFuZDQ4VjY3V1ZiR3VjX25yWlk0M2R3Yw?oc=5",
+          "published": "2026-09-10T14:37:25+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
+        {
+          "title": "Textile recycling sector faces scaling barriers",
+          "source": "Ecotextile News",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaDEyT2FzZDhYV2NnWEQ0NWJXeGk4bUZzazVreVhLeHlRZkQ0cTFUeGxVVHJWQTBYQzFrWU0xemxBT0p1Z1d0MXdMQjg2amRpNlVIUEdTVVlWNzNlNC1iNzRfMlRNNk5QcmU5cERtQVFPSmhNVGNHWEpqUks1UG1Pd2VtMzctcUl6QXNqMEk3RHprNUw2Qll1dExEZ0twS2hyMUpjcjJ0SmplTFk?oc=5",
+          "published": "2026-09-10T10:37:10+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
         {
           "title": "Taiwanese Consortium Announces New Recycling Tech For Textile Waste",
           "source": "WWD",
@@ -455,26 +475,6 @@
           "snippet": "",
           "region": "Global",
           "industry": "Fashion"
-        },
-        {
-          "title": "Is Textile-to-Textile Recycling the Answer to Fashion's Waste Issue?",
-          "source": "Good On You",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSVBwd0c0UVoxTlZXMjBDVXZnc3dwUW5DNTJTTEg2c2I1OGZ4MUtIUXIta0FKUlAyWVdCV3h6azk4UnlVSEZ2ZFN0ZFR0NEpGQTJJYUx2d09WNjByYmxCOGRKU01VMWRqc2VhbENzWVg2Vk5SNXY4dG9ucEUtcXFGMk9XU1hON0hHWV9DSjZ2U0x3aVlOclE?oc=5",
-          "published": "2026-07-07T07:00:00+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "Textile-to-textile recycling at scale: why brands must collaborate",
-          "source": "Sourcing Journal",
-          "url": "https://wwd.com/sourcing-journal/sustainability/textile-to-textile-recycling-at-scale-brands-must-collaborate-1238943715/",
-          "published": "2026-07-06T09:00:00+00:00",
-          "region": "Global",
-          "industry": "Fashion",
-          "snippet": "Industry leaders argue fibre-to-fibre recycling is at an innovation moment, but only cross-supply-chain collaboration will bring costs down enough to scale.",
-          "image": ""
         }
       ]
     },
