@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-11T00:39:05.987363+00:00",
+  "updated_at": "2026-09-11T14:57:42.686390+00:00",
   "edition": "Morning edition",
-  "total": 61,
-  "sources": 25,
+  "total": 60,
+  "sources": 23,
   "industries": [
     {
       "name": "Fashion",
@@ -14,7 +14,7 @@
     },
     {
       "name": "Fragrance",
-      "count": 4
+      "count": 3
     },
     {
       "name": "Regulation",
@@ -26,6 +26,16 @@
       "name": "Global",
       "count": 45,
       "articles": [
+        {
+          "title": "Cotton textile waste can be turned into biogas, study finds",
+          "source": "Apparel Insider",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNkJSbnVmNTN6OTFISEZLRFBsUGk2VGlUcE42WW5aTHE4NEFCVjlacl9HWnA5M1pzTkNPUmZFR1JMTlhDR3YtbHZFUTlWbGZQeXB0YjV4R0dhM09iSGcxRXpqM3pObDMzUmphZ0x2dHlkT3V3UmcxdGROTTVjTUZsZmUyVVdvRE1UYmVEQmFsSQ?oc=5",
+          "published": "2026-09-11T09:17:53+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
         {
           "title": "6 Things to Know in Sustainable Fashion This September",
           "source": "Good On You",
@@ -465,22 +475,12 @@
           "industry": "Beauty",
           "snippet": "2026's beauty packaging leans into mono-materials, refills and connected labels as sustainability becomes a baseline expectation.",
           "image": "https://beautymatter.com/uploads/2026/02/seo/z3WrbwuPkDLai6HZyOvfkQlhfI4mFe0QF3z7hXkf.jpg"
-        },
-        {
-          "title": "Niche perfumery leans into upcycled botanicals and lab-grown naturals",
-          "source": "Annalisa's Accents",
-          "url": "https://annalisasaccents.com/beauty-fragrance/top-5-niche-fragrance-trends-for-2026/",
-          "published": "2026-07-07T09:00:00+00:00",
-          "region": "Global",
-          "industry": "Fragrance",
-          "snippet": "Luxury perfumery reframes exclusivity around upcycled botanicals and lab-grown naturals rather than rarity alone.",
-          "image": ""
         }
       ]
     },
     {
       "name": "NAM",
-      "count": 7,
+      "count": 6,
       "articles": [
         {
           "title": "Are multi-way clothes the answer to sustainable fashion - or just another excuse to buy more stuff?",
@@ -541,16 +541,6 @@
           "industry": "Fragrance",
           "snippet": "Lab-cultured aroma molecules give perfumers consistent, high-purity naturals without the environmental strain of extraction.",
           "image": ""
-        },
-        {
-          "title": "Everlane Sold to Shein: Why Sustainable Fashion’s Problem Runs Deeper Than Transparency",
-          "source": "the-ethos.co",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSjF4Z3NJVGd2RkM3VUZwajJWdXk1bTlfRExMWVZXaFdDdDlKeG10VzA3ejlJaUI0b0pPdlIzNDh3QVlhTWdYUUlrbUd2RTJKaUVlR2RkSUtVNlBaSkZMYTJGTmpESGNvcUdRVndYU3dKczBiUUdGUDlnbEtXUkFmQnBzLTFQYXNCd3RZQU5Nd3UxX25RYnQxVUhlSlY0cF9kV0pVMXdR?oc=5",
-          "published": "2026-06-13T07:00:00+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "NAM",
-          "industry": "Fashion"
         }
       ]
     },
