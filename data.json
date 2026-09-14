@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-14T00:31:35.387070+00:00",
-  "edition": "Morning edition",
-  "total": 60,
-  "sources": 23,
+  "updated_at": "2026-09-14T16:55:10.958612+00:00",
+  "edition": "Evening edition",
+  "total": 61,
+  "sources": 24,
   "industries": [
     {
       "name": "Fashion",
-      "count": 46
+      "count": 47
     },
     {
       "name": "Beauty",
@@ -480,8 +480,18 @@
     },
     {
       "name": "NAM",
-      "count": 6,
+      "count": 7,
       "articles": [
+        {
+          "title": "Hemp and textile recycling: Dell’Orco e Villani in the circular supply chain",
+          "source": "Lampoon Magazine",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYlVPRjBtLVhLWWtmNmNlSllLLURDYzJVMUF5YmtlbllTR29Yb09VYUU4Tk9pbDhWRF9BbzBIRzdUTE5HVFFVYXVhZWJ0UWFqU1dGaGgxZ25UcjQ5X1FCMlNKdHFhYzROdllHWXNLOWhMMUltdzlQX0h3LUVicDk4Vnp4dlFnMnJNWHlWcU9ySkxHVDduYm1McjItVXM3eENhRGc?oc=5",
+          "published": "2026-09-14T15:51:14+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "NAM",
+          "industry": "Fashion"
+        },
         {
           "title": "Are multi-way clothes the answer to sustainable fashion - or just another excuse to buy more stuff?",
           "source": "The Guardian",
