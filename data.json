@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-16T00:52:56.976968+00:00",
-  "edition": "Morning edition",
-  "total": 61,
-  "sources": 24,
+  "updated_at": "2026-09-16T15:23:33.346380+00:00",
+  "edition": "Evening edition",
+  "total": 60,
+  "sources": 23,
   "industries": [
     {
       "name": "Fashion",
@@ -10,7 +10,7 @@
     },
     {
       "name": "Beauty",
-      "count": 4
+      "count": 3
     },
     {
       "name": "Fragrance",
@@ -556,7 +556,7 @@
     },
     {
       "name": "EMEA",
-      "count": 5,
+      "count": 4,
       "articles": [
         {
           "title": "Refill systems take centre stage at London Packaging Week",
@@ -597,16 +597,6 @@
           "industry": "Fragrance",
           "snippet": "Fermentation and upcycled feedstocks let perfumers recreate rare naturals like sandalwood without harvesting a single tree.",
           "image": "https://assets.seobotai.com/cdn-cgi/image/quality=75,w=1536,h=1024/scento.com/69c1d5921b352ff267cbc34e-1774321862539.jpg"
-        },
-        {
-          "title": "Amcor previews refillable beauty formats for Paris Packaging Week",
-          "source": "Amcor",
-          "url": "https://www.amcor.com/insights/blogs/beauty-packaging-trends",
-          "published": "2026-06-18T09:00:00+00:00",
-          "region": "EMEA",
-          "industry": "Beauty",
-          "snippet": "Refillable sticks, pouches and mono-material airless bottles headline Amcor's sustainable beauty line-up for 2026.",
-          "image": "https://images.ctfassets.net/f7tuyt85vtoa/64AvkRuITO37Oc7b5XAqbg/6cbb225e2c29a67a928b256e02ca0552/Untitled_design__8_.jpg"
         }
       ]
     },
