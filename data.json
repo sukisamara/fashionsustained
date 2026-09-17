@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-09-17T00:57:26.646939+00:00",
-  "edition": "Morning edition",
+  "updated_at": "2026-09-17T15:30:21.067880+00:00",
+  "edition": "Evening edition",
   "total": 60,
-  "sources": 23,
+  "sources": 22,
   "industries": [
     {
       "name": "Fashion",
-      "count": 47
+      "count": 48
     },
     {
       "name": "Beauty",
-      "count": 3
+      "count": 2
     },
     {
       "name": "Fragrance",
@@ -26,6 +26,16 @@
       "name": "Global",
       "count": 45,
       "articles": [
+        {
+          "title": "Texhibition exposes textile recycling’s funding gap",
+          "source": "Ecotextile News",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQkRoTDNHMHZlVzVaTVVDTHppendXd3V4ZTR5RGdvN21lOWI5djVSLTk2cjB2YjFiOVA4WW50Q21MTW54TC11Tk02VHVlVEdkY2lPcVVXak9VWjBieWthZFcxZ3NxWTE4cUZjX0M5X1BZUTFpNEFCSWRrUXpwTzRJR1M0TllDUVBhbkJ3WFdyamI1SmVhYzJrWjZudnFtdll2d015bGI3ck1Odw?oc=5",
+          "published": "2026-09-17T11:26:51+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
         {
           "title": "Cotton textile waste can be turned into biogas, study finds",
           "source": "Apparel Insider",
@@ -465,16 +475,6 @@
           "snippet": "",
           "region": "Global",
           "industry": "Fashion"
-        },
-        {
-          "title": "The beauty packaging trends set to define 2026",
-          "source": "BeautyMatter",
-          "url": "https://beautymatter.com/articles/the-beauty-packaging-trends-set-to-define-2026",
-          "published": "2026-07-09T09:00:00+00:00",
-          "region": "Global",
-          "industry": "Beauty",
-          "snippet": "2026's beauty packaging leans into mono-materials, refills and connected labels as sustainability becomes a baseline expectation.",
-          "image": "https://beautymatter.com/uploads/2026/02/seo/z3WrbwuPkDLai6HZyOvfkQlhfI4mFe0QF3z7hXkf.jpg"
         }
       ]
     },
