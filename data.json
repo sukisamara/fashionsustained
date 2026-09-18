@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T00:53:16.939719+00:00",
+  "updated_at": "2026-09-18T14:54:37.237458+00:00",
   "edition": "Morning edition",
   "total": 60,
   "sources": 22,
@@ -26,6 +26,16 @@
       "name": "Global",
       "count": 45,
       "articles": [
+        {
+          "title": "Riga forum targets textile waste cut",
+          "source": "Ecotextile News",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcUs5eUdacFlXWWlqQ2E5RGFlaV9yMjAzczNLLTV4ak42eUdTdFVKS3o1bTdMTUFSTTZITXZsWFpramV2c3F5YmNMUC1ESjM0X3BzOE5DUlphdVBtc1g3bFkwYlZOVHBwdlNyQUpoSXhwMFlheGNTb21KN3JmX0k0SXRJaGxDUzJPU0Q3cw?oc=5",
+          "published": "2026-09-17T15:35:29+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
         {
           "title": "Texhibition exposes textile recycling’s funding gap",
           "source": "Ecotextile News",
@@ -465,16 +475,6 @@
           "industry": "Fragrance",
           "snippet": "From upcycled olive pulp to biotech patchouli, ten next-gen materials are rewriting what sustainable perfumery can smell like.",
           "image": "https://mlctfqvennij.i.optimole.com/w:auto/h:auto/q:mauto/f:best/id:58d08a7440a267d7667283fef3e97a5c/https://www.leparfummagazine.com/THE-FUTURE-OF-FRAGRANCE-10-NEXT-GEN-INGREDIENTS-REDEFINING-PERFUMERY.jpg"
-        },
-        {
-          "title": "New partnership explores textile waste reuse in ceiling panels",
-          "source": "Just Style",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjdnp5M24zU2VWZmp1WUZ4TlkxYlNDSTVrLWN3SGRvdGMyWlhfbVdfVUEyWXR5OEV2LV91SHpQdi1qSjJOT1MwTmxsTnk5MVh0cjUzOWdOTkhaMlBIN0xYQ3ZUa2JBVHhBbDlMNFhCZjBzcTF3aTJWcjktN2o?oc=5",
-          "published": "2026-07-10T07:00:00+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
         }
       ]
     },
