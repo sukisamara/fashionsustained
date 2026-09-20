@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-20T00:29:20.852040+00:00",
+  "updated_at": "2026-09-20T14:38:58.552579+00:00",
   "edition": "Morning edition",
-  "total": 60,
-  "sources": 22,
+  "total": 59,
+  "sources": 21,
   "industries": [
     {
       "name": "Fashion",
@@ -14,7 +14,7 @@
     },
     {
       "name": "Fragrance",
-      "count": 3
+      "count": 2
     },
     {
       "name": "Regulation",
@@ -480,7 +480,7 @@
     },
     {
       "name": "NAM",
-      "count": 7,
+      "count": 6,
       "articles": [
         {
           "title": "Hemp and textile recycling: Dell’Orco e Villani in the circular supply chain",
@@ -541,16 +541,6 @@
           "industry": "Beauty",
           "snippet": "Aveda rolls out AeroFlexx's curbside-recyclable refill packaging globally, a first for the prestige beauty category.",
           "image": "https://media.elcompanies.com/images/e/estee-lauder-companies/global/news-and-media/2026-newsroom/press-releases/feb/aveda-afx-logo-700x400.png"
-        },
-        {
-          "title": "Biotech fragrances move from novelty to sustainable standard",
-          "source": "California Fresh Scent",
-          "url": "https://californiafreshscent.com/biotech-fragrances-2026-sustainable-innovation/",
-          "published": "2026-06-22T09:00:00+00:00",
-          "region": "NAM",
-          "industry": "Fragrance",
-          "snippet": "Lab-cultured aroma molecules give perfumers consistent, high-purity naturals without the environmental strain of extraction.",
-          "image": ""
         }
       ]
     },
