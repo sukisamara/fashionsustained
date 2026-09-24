@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-24T00:57:35.473545+00:00",
-  "edition": "Morning edition",
-  "total": 58,
-  "sources": 20,
+  "updated_at": "2026-09-24T15:47:05.463881+00:00",
+  "edition": "Evening edition",
+  "total": 57,
+  "sources": 19,
   "industries": [
     {
       "name": "Fashion",
@@ -11,10 +11,6 @@
     {
       "name": "Beauty",
       "count": 2
-    },
-    {
-      "name": "Fragrance",
-      "count": 1
     },
     {
       "name": "Regulation",
@@ -26,6 +22,16 @@
       "name": "Global",
       "count": 45,
       "articles": [
+        {
+          "title": "Textile Waste Reduction Act (TWRA) Archives",
+          "source": "Just Style",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WcXJYeVl4d0NPTTliQW9haUd5eVRnYnRtLWFYbkxJUXVhQl8yY0t5SHl2LTYtd3hIeVM0WWpITUE1QTNCRGtwbkhqLTZka0xIN1lXWTVvY24xMHN2MUhxZE12dDFmb2FQUTQ0bnVOUWVsdw?oc=5",
+          "published": "2026-09-23T20:44:20+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
         {
           "title": "US lawmaker introduces ‘first-of-its-kind’ textile waste bill",
           "source": "Just Style",
@@ -465,16 +471,6 @@
           "snippet": "",
           "region": "Global",
           "industry": "Fashion"
-        },
-        {
-          "title": "46 More Sustainable Fashion and Beauty Brands From the UK",
-          "source": "Good On You",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZUE5VzR6Q3gtX0h0bFdJLXprRGVZWEhWS0F5c1htdzFJbW84emtDSzFuR3Z0MjdxYk85UmxWZXBqOVp0WmpOOVRjWk9nY0tLQWNiZ1B1aDJGSnVRMk1XbE9yeVlIZ3hMTm50VHgwQ2NQRGpEOHpEdGhmTEN4SVZ5QQ?oc=5",
-          "published": "2026-07-15T07:00:00+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
         }
       ]
     },
@@ -546,7 +542,7 @@
     },
     {
       "name": "EMEA",
-      "count": 4,
+      "count": 3,
       "articles": [
         {
           "title": "Refill systems take centre stage at London Packaging Week",
@@ -577,16 +573,6 @@
           "industry": "Fashion",
           "snippet": "Brussels' inaugural awards spotlight waterless fibre separation and enzyme-based nylon recovery from blended textile waste.",
           "image": "https://www.globaltextiletimes.com/wp-content/uploads/2026/07/sustainable-textile-innovation.webp"
-        },
-        {
-          "title": "Givaudan and Mane push biotech and upcycled molecules into perfumery",
-          "source": "Scento",
-          "url": "https://www.scento.com/blog/biotech-innovations-fragrance-production",
-          "published": "2026-06-26T09:00:00+00:00",
-          "region": "EMEA",
-          "industry": "Fragrance",
-          "snippet": "Fermentation and upcycled feedstocks let perfumers recreate rare naturals like sandalwood without harvesting a single tree.",
-          "image": "https://assets.seobotai.com/cdn-cgi/image/quality=75,w=1536,h=1024/scento.com/69c1d5921b352ff267cbc34e-1774321862539.jpg"
         }
       ]
     },
