@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-28T01:16:30.327774+00:00",
-  "edition": "Morning edition",
+  "updated_at": "2026-09-28T18:34:16.104824+00:00",
+  "edition": "Evening edition",
   "total": 57,
   "sources": 19,
   "industries": [
@@ -22,6 +22,26 @@
       "name": "Global",
       "count": 45,
       "articles": [
+        {
+          "title": "Major UK retailers launch ‘The Circuit’ to scale textile recycling",
+          "source": "Just Style",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0teUU1b20wNGVFRm1aanBNcHRVaS01MzJrVDk4SEVzaHpJZUhuQ1VGaUdPWk5IOFpEWDNLRVVfYUxsSy1aWWo1ZEw1Sy1MaUVRckhfYUZmVHZfUkNxTktpRjVZaXBtMm1ULUdIeVZ3?oc=5",
+          "published": "2026-09-28T12:54:05+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
+        {
+          "title": "How Archive, the Resale Platform, Is Ramping Up Footwear",
+          "source": "WWD",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWmp4TW9INnowWDh2UHRzUTJ3cVduWlU2VTVXQ21HNG5RNGxMMXJjdjh0MXN1clFReUcwUGROVG5SS2J2Nko4SDRuRlBzVUF4VE1wNDREMFVYdlRfSWhCdjJfX21uRzR3QUtvTmIySWNENW5qM05MVnFJY1pqTFU4cExtUlF2eHlWNWpNbW1SU3JmSEV1cm5YS25PSS1sSVVyLVdDQ0M1YnNPaG8?oc=5",
+          "published": "2026-09-28T11:32:21+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
         {
           "title": "UK council uses textile waste to repair potholes",
           "source": "Ecotextile News",
@@ -447,26 +467,6 @@
           "source": "Ecotextile News",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUTVwSi1yX0oyQVloZHJsdnV5NEV5RWVYRFVRbGx3YVJteUZIa2Q2UjdsT2tJcU5xbEJmTWJCdVd2NS1lWlpvcjAzaE9YT0JPNW00NlRVOVYtUm1ZTTZXbUY5UElZMFBBRXJaTm9ZTzJZVk9ZUmR3aGN5a2dYckFmbm1EY2dzck1JSjdGU0pWSG8xN2ZsV3M0?oc=5",
           "published": "2026-07-22T07:00:00+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "A global franchise will open its first textile recycling facility next year",
-          "source": "Sourcing Journal",
-          "url": "https://wwd.com/sourcing-journal/sustainability/qatar-recycling-powerhouse-used-textile-suhail-1239076634/",
-          "published": "2026-07-21T09:00:00+00:00",
-          "region": "Global",
-          "industry": "Fashion",
-          "snippet": "Recycling Powerhouse plans a global network of plants to industrialise and standardise textile-to-textile recycling, opening its first in Qatar.",
-          "image": ""
-        },
-        {
-          "title": "A Global Franchise Will Have Its First Textile Recycling Facility Next Year",
-          "source": "WWD",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcllxRkVCTDhqT3B5MEpzUzZKTGdtdHpFQ05BNUlFb2w4Z0NTeS0tTUR1MUZldmk2elJKSGlyNWJjUlAyTV9yRWxibmE5ZGh1c3ZBQmRMYk1xczkyMGQ1MlNqM0loR251QlJGVlQ0bVlHSGpHeURyZ2dmSUNHZEVUeVByajdlVmJ6c1dVb1hIamR6cElsb3cwaGVpZ3JfVm03UEVOUElEUldYdw?oc=5",
-          "published": "2026-07-21T07:00:00+00:00",
           "image": "",
           "snippet": "",
           "region": "Global",
