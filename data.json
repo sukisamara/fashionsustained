@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-29T02:22:22.397319+00:00",
-  "edition": "Morning edition",
-  "total": 57,
-  "sources": 19,
+  "updated_at": "2026-09-29T16:51:36.662139+00:00",
+  "edition": "Evening edition",
+  "total": 56,
+  "sources": 18,
   "industries": [
     {
       "name": "Fashion",
@@ -14,7 +14,7 @@
     },
     {
       "name": "Regulation",
-      "count": 6
+      "count": 5
     }
   ],
   "regions": [
@@ -22,6 +22,26 @@
       "name": "Global",
       "count": 45,
       "articles": [
+        {
+          "title": "Primark inks first multi-year textile recycling supply deal with Circ",
+          "source": "Just Style",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoLWRLbC1ucWM1RnlJeURKc1dwR3FTVTJsRkRNRlE5UFFmSnRreHlCX2dkRWIxYjVGWllSdHVxNUlNUkI5UkIxRk8xdzBzM3BsVUM5cURkMzR2YWpLTzgtd2pzdHpydG80VWNKMTNEWGE?oc=5",
+          "published": "2026-09-29T10:27:47+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
+        {
+          "title": "Primark signs multi-year textile recycling deal with Circ",
+          "source": "Apparel Insider",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbXNkQnlZRE1HWUpFeFRjaGk3RDN6VUZDMHZLV3pITkx1Z01RaV9IUjMyVGZUenFHeFcxMHF0NDcwSW8zeHBsTUdJMjVhN0lWR2g2Vm1CODdoQWVfODdjRDlwMWRnRDNXV00tMmhPb3B0TkNtdUtUTWNWRjRvRzZxMnBJT0thcHVLemM5OFd3?oc=5",
+          "published": "2026-09-29T10:20:06+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
         {
           "title": "Major UK retailers launch ‘The Circuit’ to scale textile recycling",
           "source": "Just Style",
@@ -451,26 +471,6 @@
           "snippet": "",
           "region": "Global",
           "industry": "Fashion"
-        },
-        {
-          "title": "California textile EPR faces court test",
-          "source": "Ecotextile News",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY3N3dTNldElNMVc5c1Z4NTZkRHVUNTZ5NmJ5Z0JMT3hKRG9RU0tUWS1sYnJwc01JcTY5TGFHQmZrNjlKT05ibzJfdnpQZFhrY2M1X014UU81MTFzYkxkVzJyUWVHSC1PUjZsZEY0RHRJQTVQV3RaSEZVMTZRVHN2LXJjRzY5ZjJWakVWTXpPbUprRFhsaExuaGkzdXNPUmc?oc=5",
-          "published": "2026-07-22T13:26:45+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Regulation"
-        },
-        {
-          "title": "Circ and H&M launch recycled denim collection",
-          "source": "Ecotextile News",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUTVwSi1yX0oyQVloZHJsdnV5NEV5RWVYRFVRbGx3YVJteUZIa2Q2UjdsT2tJcU5xbEJmTWJCdVd2NS1lWlpvcjAzaE9YT0JPNW00NlRVOVYtUm1ZTTZXbUY5UElZMFBBRXJaTm9ZTzJZVk9ZUmR3aGN5a2dYckFmbm1EY2dzck1JSjdGU0pWSG8xN2ZsV3M0?oc=5",
-          "published": "2026-07-22T07:00:00+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
         }
       ]
     },
@@ -578,7 +578,7 @@
     },
     {
       "name": "APAC",
-      "count": 3,
+      "count": 2,
       "articles": [
         {
           "title": "India's textile-to-textile recycling cluster signals a shift to scale",
@@ -599,16 +599,6 @@
           "industry": "Fashion",
           "snippet": "A blueprint factory targets a 93% cut in emissions for Tier-2 suppliers, aiming to model scalable sustainable manufacturing.",
           "image": "https://www.coherentmarketinsights.com/images/research-%20methodology/sustainable-fashion-market-by-product.webp"
-        },
-        {
-          "title": "Why 2026 is the year sustainable fashion gets serious in Southeast Asia",
-          "source": "The Green Collective SG",
-          "url": "https://www.thegreencollective.sg/blogs/industry-news/why-2026-will-be-the-year-sustainable-fashion-finally-gets-serious",
-          "published": "2026-07-01T09:00:00+00:00",
-          "region": "APAC",
-          "industry": "Fashion",
-          "snippet": "Across Southeast Asia's fast-growing cities, sustainability shifts from a niche concern to a mainstream shopper expectation.",
-          "image": "http://www.thegreencollective.sg/cdn/shop/articles/flare_content_101519_eec2a1b2-86bb-471b-883c-f42a7f63277f.jpg?v=1774022039"
         }
       ]
     }
