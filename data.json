@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-01T01:39:18.712409+00:00",
-  "edition": "Morning edition",
+  "updated_at": "2026-10-01T17:21:02.181508+00:00",
+  "edition": "Evening edition",
   "total": 56,
   "sources": 18,
   "industries": [
@@ -22,6 +22,26 @@
       "name": "Global",
       "count": 45,
       "articles": [
+        {
+          "title": "Zero bids for council textile recycling contract",
+          "source": "Apparel Insider",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQclI5djNWaWFJcG9aanNhZG0zSHphN0RONmV5bl9HY29RdDZFVUVyNmU0cUdHUG03czRfQjRSdGtpbW5sMlJFSEZLaHdDZTVrWFN4VDd3OGlWWXFVdTVuV0M3bXNMb3o2dHVBc09EaFE5MVpwdzN0X3pDTllWSGxrTi13?oc=5",
+          "published": "2026-10-01T10:25:58+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
+        {
+          "title": "Used clothing exports – circularity or textile waste?",
+          "source": "Ecotextile News",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbnBqTmZsczhvdU9yaEh0LVZCbVhLRThmek4zS3JENWIwSXMwQ2dNR0U5cW4yV2Z5RDhNVUVCNGxUZTZxLTI3SVlLeDM2VThBTFF5Sl9Nb1BvUDlLc0c2QkhQdV80LUFSalk4QVNTQzBRX2RvNVZVaHJacVJTSFR2UGs5bGE2d0g1Z2hwX29wT3Z6MXd5OTU5dzVBSTdXTnV4SzVrYWVRRmRQWHZqcHc?oc=5",
+          "published": "2026-10-01T09:41:28+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
         {
           "title": "Primark inks first multi-year textile recycling supply deal with Circ",
           "source": "Just Style",
@@ -57,6 +77,16 @@
           "source": "WWD",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWmp4TW9INnowWDh2UHRzUTJ3cVduWlU2VTVXQ21HNG5RNGxMMXJjdjh0MXN1clFReUcwUGROVG5SS2J2Nko4SDRuRlBzVUF4VE1wNDREMFVYdlRfSWhCdjJfX21uRzR3QUtvTmIySWNENW5qM05MVnFJY1pqTFU4cExtUlF2eHlWNWpNbW1SU3JmSEV1cm5YS25PSS1sSVVyLVdDQ0M1YnNPaG8?oc=5",
           "published": "2026-09-28T11:32:21+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
+        {
+          "title": "EXCLUSIVE: Primark Backs Circ With Long-term Recycled Polyester Deal",
+          "source": "WWD",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbHRfc2dzcHg5Qmo3aTNDMS0zYndVNktyM0xlUHEyWHlnZGFmME5Ia0haak94UVVQY1I2b1F1alNQelFPM044eDR2Z0tnVnBqcW9CTmZqRWx6MGZBNEhYTW5ybllOcE1ZdVp1YkxrREFJcVhsLUNSVERuNW9QeFROQ0NjLWtMOGdlZ3ROSlZ1UjZ0QmtYb1lDZG10Z0NqUXlSN2c?oc=5",
+          "published": "2026-09-28T05:03:06+00:00",
           "image": "",
           "snippet": "",
           "region": "Global",
@@ -441,36 +471,6 @@
           "snippet": "",
           "region": "Global",
           "industry": "Regulation"
-        },
-        {
-          "title": "Is ‘durability’ the key to more sustainable fashion?",
-          "source": "Just Style",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQVRoOXkyUUJVRTRvS1RBbjJUdEN4cWh0aldaS01GRTR3MWFJWXlTNENqQnMwUHZJUWdUVjBNUmhfZElaWnNlR0sxbDJ6bmlXeTd2MmZLTUUwU3dnYTVaek11dG1CMTlOUzdLTWgzbUdaa2lLYzVWdWhzNERvaVlzcUVZZmZHYTgyLVd6QUFsdw?oc=5",
-          "published": "2026-07-23T10:08:43+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "Magnetic filter targets textile wastewater",
-          "source": "Ecotextile News",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVlNXLWxNcmFfazBzSmdWdVgtVDVuS0I0OHcxZVRVQUs3aS1lVHpZTVI0Xzg1b3JPdHNvV0ljMFotdDJZQ2FVbV82SDZlWnB1Q2MzSmRtMktQMV9wTHpVQ29rUExHbkk4cmg2X3lhR2VlaTZXcV9EZi1VZTI3UXllTmdnZWNoOUpQUFNGY3FNelNaYmpxMHNSOUhCWWVkQTFNaWpsLXM1ekJOaUliMHViZnRMRVhjUQ?oc=5",
-          "published": "2026-07-23T09:32:30+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "'Edge of the Tsunami': Pakistan’s EPZ Shakeup Could Disrupt Global Secondhand Clothing Trade",
-          "source": "WWD",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSHVxaW42NWYwZUxNZGlXNUtqdnlnTHdXdHpNcFB5QkpNYnh6VHdhWDJSNFE1VlUxd3pFZ1ZfeEhKNXNIcHpIQ1BDUkJWaFFreEZwczhIUE1aU0FlaG5RdTlJV0FZNVozVDBBSXgxdmFQNTZLR2dwbDNnSm5uM2lSVEoyb1FQZ3JCUXBQRm53aHpVN1czWjZUdHNkRmROam8?oc=5",
-          "published": "2026-07-23T07:00:00+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
         }
       ]
     },
