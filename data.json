@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-10-02T01:52:19.580474+00:00",
-  "edition": "Morning edition",
+  "updated_at": "2026-10-02T16:35:33.794131+00:00",
+  "edition": "Evening edition",
   "total": 56,
   "sources": 18,
   "industries": [
     {
       "name": "Fashion",
-      "count": 49
+      "count": 50
     },
     {
       "name": "Beauty",
-      "count": 2
+      "count": 1
     },
     {
       "name": "Regulation",
@@ -479,6 +479,16 @@
       "count": 6,
       "articles": [
         {
+          "title": "Circular fashion: how to turn a compliance cost into value creation",
+          "source": "fashionunited.uk",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObTh2NEhGNmNFeVQ1YUJ5T3Z2YmQ3bHA3dlVlMzdxRTE0dUZ1QlR0VlpoMVlxZ1lYc3JtakdseWNIbFMyaGJyaHpBc2poejE0REJVQ1IyY2gzQkVxRTZkcS0walYwZ3Z0Q3ZrTkM3R183NkwxMDM3ZkdfanNBVU9BYVRrNGhIUmtRVnRNd0xMUGluSDFPVFhOanpQYXJFa2JLZUpSQ1FUeHdFeGdrVW5BdGZURXV5dXQ0MUxB?oc=5",
+          "published": "2026-10-02T07:05:35+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "NAM",
+          "industry": "Fashion"
+        },
+        {
           "title": "Hemp and textile recycling: Dell’Orco e Villani in the circular supply chain",
           "source": "Lampoon Magazine",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYlVPRjBtLVhLWWtmNmNlSllLLURDYzJVMUF5YmtlbllTR29Yb09VYUU4Tk9pbDhWRF9BbzBIRzdUTE5HVFFVYXVhZWJ0UWFqU1dGaGgxZ25UcjQ5X1FCMlNKdHFhYzROdllHWXNLOWhMMUltdzlQX0h3LUVicDk4Vnp4dlFnMnJNWHlWcU9ySkxHVDduYm1McjItVXM3eENhRGc?oc=5",
@@ -527,16 +537,6 @@
           "industry": "Regulation",
           "snippet": "A trade group petitions the court over who runs California's first textile extended-producer-responsibility scheme under SB 707.",
           "image": ""
-        },
-        {
-          "title": "Aveda becomes first prestige brand to commercialise AeroFlexx refills",
-          "source": "Estée Lauder Companies",
-          "url": "https://www.elcompanies.com/en/news-and-media/newsroom/press-releases/2026/02-26-2026",
-          "published": "2026-07-04T09:00:00+00:00",
-          "region": "NAM",
-          "industry": "Beauty",
-          "snippet": "Aveda rolls out AeroFlexx's curbside-recyclable refill packaging globally, a first for the prestige beauty category.",
-          "image": "https://media.elcompanies.com/images/e/estee-lauder-companies/global/news-and-media/2026-newsroom/press-releases/feb/aveda-afx-logo-700x400.png"
         }
       ]
     },
