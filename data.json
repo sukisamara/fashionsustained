@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-03T01:39:47.623936+00:00",
-  "edition": "Morning edition",
+  "updated_at": "2026-10-03T15:07:31.419227+00:00",
+  "edition": "Evening edition",
   "total": 56,
   "sources": 18,
   "industries": [
     {
       "name": "Fashion",
-      "count": 50
+      "count": 51
     },
     {
       "name": "Beauty",
@@ -14,7 +14,7 @@
     },
     {
       "name": "Regulation",
-      "count": 5
+      "count": 4
     }
   ],
   "regions": [
@@ -37,6 +37,16 @@
           "source": "Ecotextile News",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbnBqTmZsczhvdU9yaEh0LVZCbVhLRThmek4zS3JENWIwSXMwQ2dNR0U5cW4yV2Z5RDhNVUVCNGxUZTZxLTI3SVlLeDM2VThBTFF5Sl9Nb1BvUDlLc0c2QkhQdV80LUFSalk4QVNTQzBRX2RvNVZVaHJacVJTSFR2UGs5bGE2d0g1Z2hwX29wT3Z6MXd5OTU5dzVBSTdXTnV4SzVrYWVRRmRQWHZqcHc?oc=5",
           "published": "2026-10-01T09:41:28+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
+        {
+          "title": "More sustainable fashion brand offers this October 2026",
+          "source": "Good On You",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ONHRRZ0RqSUlnd0p6d0t1cThGUnJ1M19Vb1R6eWJKOVR0TGlPQ080M1Yybld4RmtZS1V6N0RoNkZmSVFNS2JEdFN3MktYdHBO?oc=5",
+          "published": "2026-09-30T07:00:00+00:00",
           "image": "",
           "snippet": "",
           "region": "Global",
@@ -461,16 +471,6 @@
           "industry": "Fashion",
           "snippet": "An industry overview finds textile-to-textile recycling scaling commercially, even as reuse and next-gen materials still fight for funding.",
           "image": ""
-        },
-        {
-          "title": "Latin America eyeing California textile EPR",
-          "source": "Ecotextile News",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYWVGT3RHV0czbmdnUXFuSW1TbEp0bzhFUm1ZRGFyQlItU1lRNWVSNklDTmRpYkhDQXRZVkdNT2lhT2dIaDNiN2xVY0lUQ3RrOVhTSFdPVFNMeFo3ZVJ5TlRlUG9PODg2Tkp6QUt3cEJtUVBTamtOYmcyLS10c0tCZGxKWlcyTjVyMVF5VWVXRUp6akJ0Q09zbktCNk1ldjZ3ZUhMeA?oc=5",
-          "published": "2026-07-23T16:44:55+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Regulation"
         }
       ]
     },
