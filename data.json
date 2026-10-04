@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-04T02:13:10.329170+00:00",
-  "edition": "Morning edition",
-  "total": 56,
-  "sources": 18,
+  "updated_at": "2026-10-04T15:44:08.566347+00:00",
+  "edition": "Evening edition",
+  "total": 55,
+  "sources": 17,
   "industries": [
     {
       "name": "Fashion",
-      "count": 51
+      "count": 50
     },
     {
       "name": "Beauty",
@@ -542,7 +542,7 @@
     },
     {
       "name": "EMEA",
-      "count": 3,
+      "count": 2,
       "articles": [
         {
           "title": "Refill systems take centre stage at London Packaging Week",
@@ -563,16 +563,6 @@
           "industry": "Regulation",
           "snippet": "New Ecodesign rules make it illegal for large brands to destroy unsold clothing and footwear across the EU, putting overproduction in the spotlight.",
           "image": "https://images.unsplash.com/photo-1606053929013-311c13f97b5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fHRleHRpbGUlMjB3YXN0ZXxlbnwwfHx8fDE3ODMwNzkxNzd8MA&ixlib=rb-4.1.0&q=80&w=2000"
-        },
-        {
-          "title": "Textile Recycling Awards honour six circular-economy innovators",
-          "source": "Global Textile Times",
-          "url": "https://www.globaltextiletimes.com/sustainability/innovations-reshaping-the-global-materials-and-textile-sector/",
-          "published": "2026-07-06T09:00:00+00:00",
-          "region": "EMEA",
-          "industry": "Fashion",
-          "snippet": "Brussels' inaugural awards spotlight waterless fibre separation and enzyme-based nylon recovery from blended textile waste.",
-          "image": "https://www.globaltextiletimes.com/wp-content/uploads/2026/07/sustainable-textile-innovation.webp"
         }
       ]
     },
