@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-05T01:22:13.318381+00:00",
-  "edition": "Morning edition",
+  "updated_at": "2026-10-05T19:35:25.916546+00:00",
+  "edition": "Evening edition",
   "total": 55,
   "sources": 16,
   "industries": [
@@ -22,6 +22,16 @@
       "name": "Global",
       "count": 45,
       "articles": [
+        {
+          "title": "12 things to know about in sustainable fashion this October",
+          "source": "Good On You",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oX2dhaXJJSUN0dFBHRkV1NHZFLXVBOGtkQzM3bjdDeXFLdThUZk1NUVdRWXN1R1Zic01UZFhOMmVXcTVpdWJmWGJfU24xU3Y1N3BvNnpQTnA4RTRRemRwSUNPRmVidnl3bFM3WQ?oc=5",
+          "published": "2026-10-05T11:09:40+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
         {
           "title": "Zero bids for council textile recycling contract",
           "source": "Apparel Insider",
@@ -456,16 +466,6 @@
           "title": "Material World: Carbios Validates Technology’s Use Case for Textile Recycling",
           "source": "WWD",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPU1FLR1p1Y0Vad1NiWk1xU3JxTExDeU9PWENrcGJEWWVZNG1rNGpjbFhtYThWcF9sQnJQUmowWmIzejFBSWtrSEdsQVFGVXBraFNmWkVrVTlzU2tOTXd2b1N5M2o3TXRwWURsNGZQdFVGWk5CdUZWNGgwTThRLUstQ2xYa2lwSFZsdW1sMTMyVm12OHJuWnluX3JGdzBCSHI3UlZtT1Z4T0ktZDY4V2k0MVBLRGphRVhJejZoYQ?oc=5",
-          "published": "2026-07-27T07:00:00+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "Lenzing to close famous UK and Austria lyocell plants",
-          "source": "Ecotextile News",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWHBnYlVvelpkRGpQRGRwV08tQVRJZUdrYWlDTXc0MHkwdmJkSWFqbW9uUjBEZlg5c0g5azhxOXhWVkU5cmo1S2RVVXp5Y3EzbWNaR1EzMW1QY1Q3VDEwR2c0Z0o3MU52UTZRRTV5aUpnal93OXFpR3Rqd2dKYUEzNWtWNTduZmVobnl1a0ZzbXhmdEVrNGtXNHhvZ2taZGVOMXNUR0xzRUNraF9zSm1SbGVaZw?oc=5",
           "published": "2026-07-27T07:00:00+00:00",
           "image": "",
           "snippet": "",
