@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-06T02:35:07.239674+00:00",
-  "edition": "Morning edition",
+  "updated_at": "2026-10-06T17:07:30.616361+00:00",
+  "edition": "Evening edition",
   "total": 55,
-  "sources": 16,
+  "sources": 17,
   "industries": [
     {
       "name": "Fashion",
-      "count": 49
+      "count": 50
     },
     {
       "name": "Beauty",
@@ -14,7 +14,7 @@
     },
     {
       "name": "Regulation",
-      "count": 5
+      "count": 4
     }
   ],
   "regions": [
@@ -22,6 +22,66 @@
       "name": "Global",
       "count": 45,
       "articles": [
+        {
+          "title": "Textile recycling growth faces bottlenecks – report",
+          "source": "Ecotextile News",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVFI4MXFPSzNEd2VNYkFZQjVIaDAtdms4Qm4yMFFReFRLak9vRk40N3liZGgwTHJvZ3dJMXpxYm1ZNGhneGlvRGJnX21UMkt0MmtqV2c1WHlDMGVzakxQNFVFbjlISzRpaWp5NHpGVUFtLXhqTVpXT3k0QTRnQUF3MUItQ0NoR2VPdHg2cW5UZmZXb240Q25QRUZneU5sejJSbGZRZWxSdUJRX2dx?oc=5",
+          "published": "2026-10-06T16:15:03+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
+        {
+          "title": "Protected: How Reju plans to tackle the growing problem of post-consumer textile waste",
+          "source": "Textile Exchange",
+          "url": "https://textileexchange.org/how-reju-plans-to-tackle-the-growing-problem-of-post-consumer-textile-waste/",
+          "published": "2026-10-06T15:38:20+00:00",
+          "image": "",
+          "snippet": "There is no excerpt because this is a protected post.\nThe post Protected: How Reju plans to tackle the growing problem of post-consumer textile waste  appeared first on Textile Exchange.",
+          "region": "Global",
+          "industry": "Fashion"
+        },
+        {
+          "title": "Protected: The Implementation Era: Scaling regenerative cotton from field to supply chain",
+          "source": "Textile Exchange",
+          "url": "https://textileexchange.org/the-implementation-era-scaling-regenerative-cotton-from-field-to-supply-chain/",
+          "published": "2026-10-06T15:22:32+00:00",
+          "image": "",
+          "snippet": "There is no excerpt because this is a protected post.\nThe post Protected: The Implementation Era: Scaling regenerative cotton from field to supply chain appeared first on Textile Exchange.",
+          "region": "Global",
+          "industry": "Fashion"
+        },
+        {
+          "title": "Textile recycling trapped in ‘missing middle’ of funding, study finds",
+          "source": "Just Style",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOUJDSG1wbnUyenYwcTZIWE9VdnU1ZXVTSHFhN3dkd2J5Z1ZhbUExQmZBN3VjVHMzQ21ZTUJ4TnpMeUlHTC1SS3R1ZXRMSmVpYnhMWWtNWkRlajlrVHlSeUNjOElnOWR6TkhveUNKSG5Idk00ZFRUUGVXc3JVakV2UQ?oc=5",
+          "published": "2026-10-06T14:00:36+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
+        {
+          "title": "Recycled cotton project targets adoption barriers",
+          "source": "Ecotextile News",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRkZEY1hMbGFERmY0Ymp2Rm5CQTF3aUU2SWJwV1JtWVNINUtjeFdqUkhGNkFmcmVSdFh2Rm9TVWJ3clVocTdIMHJsU2p0STVxelBDN1F3YnRIelEwMnJaaVlfUVN4RHNjbWh0TG1nYVFFbG16XzVSeVR5MlRfb2Q5QjJ4akx0NWdXV0F0ZnZ2bG1RY0lDWDI3bWxfOGh3Q2x1TWdJZFdTWGZweXBj?oc=5",
+          "published": "2026-10-06T09:42:57+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
+        {
+          "title": "Textile recycling report exposes finance gap",
+          "source": "Ecotextile News",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYUtLQmpVMi1lamk2d0M4TGpEbk5SalRYRHh4X2ZuXzZwdE1GUmpJLUFSbHczaVJKMUVWYVdqaF9SQ1JwVVN5OWVNd2tIX0NlbGswUVZvcmJNNWZORmc4QWM4Q3BvcExDYUd1LWNPX1Y3ckxwa3dhQXRiaWhoSWJ2VjJXdlI2T2RRdW1iREpsYnRiMmVHdFBwYWx2NU94engtOEREM1JKY19KOEYwTVl4blYwWks5MEdZ?oc=5",
+          "published": "2026-10-06T06:03:40+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
         {
           "title": "12 things to know about in sustainable fashion this October",
           "source": "Good On You",
@@ -407,66 +467,6 @@
           "source": "WWD",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOXVhb09GdjVNQ0pMMGcySmY4ZDEwR1dhVlNZNGFpNVQ4QjJ3ZW9rdzFKOEsxbk5sYXJYd0lCTGxxNUlsVDZPLVUxMXJTNUVIdUJBX1AxMzRxWDFfZjRZcV9qa2ZBcmtKanpfVl9VeWVwV3V3bkpiNU1Yd0p2R2l2aUZCZVlzQk1VckdNTkJIbVIwTDlIMV9xQ1FaREppaEN1T3RzQllPY0tPb09odFgxWllneWxOQzVZWmsxcWRpcEthWGZ1N210LXRsVm4?oc=5",
           "published": "2026-08-03T07:00:00+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "10 Things to Know in Sustainable Fashion This August",
-          "source": "Good On You",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE00Z1hXTkpQN1RwSUh2YzZfRy0tZHJSZFBfbERmYV9HM1FoQXItRU1fWkd3Ym1UTXpWZFBZd1JLeDM4ejVFSXJEM2h6RG5xRVdYRXBsLW9BUjF3SmxQYnZfWFNBc2tNZWpVYWJn?oc=5",
-          "published": "2026-08-03T07:00:00+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "Campaigners welcome major UFLPA entity expansion",
-          "source": "Ecotextile News",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUXhfWUxaT1dHaFZEa1NjQlRPb01QWC1Lc1kwTDVITlBadlJZNHFneFB2U1VtdTRIbkREWnppSXJ1SHNwZmRMT0h2Rks2VWN6ZGFmZGlzWHJ3aEpWX2JCa1VOSEpwRk9rb0dVUW1mOGhnZ2tjeUJqUFRqUjVGOWx2Nm1OeVo5M0dMdXd4dTREbThiY01uTFdpbVhNeU5UQzVDSWc?oc=5",
-          "published": "2026-08-03T07:00:00+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Regulation"
-        },
-        {
-          "title": "Remade backs new textile recycling push",
-          "source": "Ecotextile News",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX0I0UUlqaUprR0MxTUJaMG9LeEdZY252WUR3d3JCSDFxWGlGVnpYSHRGbjhWY0FoVmNXUmJWdXFJaTF6eFZ0N1RrSWppNnZ0TmdxWTdNU25HazE2TjlGYzd5djN4Z0QtRk1XOFk4dkZnRE8tRjBsLXRQTUtpZkJ5dng5Z3RqTWVUd2lGeTVGdGF1d0lzc1FWaHVhcm5nQnEyLVkxaXZDWlBIb3pPVUZUWUpB?oc=5",
-          "published": "2026-07-29T11:39:58+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "Goodwill turns to Western for textile waste recycling research",
-          "source": "Just Style",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiVmVRYnF4WHM0ZkNBRTlVNVR6SmFBdzRMUXFNeFNPS0laQWVPRVZLZGJGbG9CSFA1VnF6STdIcFdzZGpza3FHSHA4ZGc3NS1rQmItcjFXcVJueWl2T3Brb3JrUVZpRFdwNVI2WUZDZTFNd3AyTmZpSURwWURwUQ?oc=5",
-          "published": "2026-07-28T09:17:26+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "Indian hubs turn textile waste to resource",
-          "source": "Ecotextile News",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUzZiV2xwOWJ1Tk9OLTU5ZWVGNGlISTZhZ216NVRIUDhHV1hhTFgwYktVdHNLZ1AxX1htV1d1akV2Q3ZKM3FYRU5RelR4YWRJcGYyNkZoZ09WWFdDZFlmalg5S3BpdlM3QUF6ak15WlZOaTM1enhNR2VFNklQTkE0YjhzTHg1Z292aEYxTlpJTHN4dUhTUDNfSGJRMW5OWFFtWGt1cUhCcENTS1NGS0NVTHU5Y0hSUQ?oc=5",
-          "published": "2026-07-27T08:47:21+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "Material World: Carbios Validates Technology’s Use Case for Textile Recycling",
-          "source": "WWD",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPU1FLR1p1Y0Vad1NiWk1xU3JxTExDeU9PWENrcGJEWWVZNG1rNGpjbFhtYThWcF9sQnJQUmowWmIzejFBSWtrSEdsQVFGVXBraFNmWkVrVTlzU2tOTXd2b1N5M2o3TXRwWURsNGZQdFVGWk5CdUZWNGgwTThRLUstQ2xYa2lwSFZsdW1sMTMyVm12OHJuWnluX3JGdzBCSHI3UlZtT1Z4T0ktZDY4V2k0MVBLRGphRVhJejZoYQ?oc=5",
-          "published": "2026-07-27T07:00:00+00:00",
           "image": "",
           "snippet": "",
           "region": "Global",
