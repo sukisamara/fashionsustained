@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-06T17:07:30.616361+00:00",
-  "edition": "Evening edition",
+  "updated_at": "2026-10-07T01:53:25.458580+00:00",
+  "edition": "Morning edition",
   "total": 55,
-  "sources": 17,
+  "sources": 18,
   "industries": [
     {
       "name": "Fashion",
@@ -23,10 +23,30 @@
       "count": 45,
       "articles": [
         {
+          "title": "Fashion for Good Launches The Cotton Reloop Matrix Project To Unlock Commercial Scale For Recycled Cotton",
+          "source": "Fashion for Good",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOWdtamRGUVRrUEY1MXFQNEg0WjJabzNKRGE5MTlRYUNVUEt2Tmh3UFA2aTRIdnJieU11MVUyMTNsMjBXQzJUWmw0LUYtUHBsYkVMME1Ea3Z2SVZPY0lBT0x1QWN6eWVKWU1TZFBUdmMtSkd6X2plR1dPSUFLcU9nODFNTmZ6U1FudGVjT21LU0xEVlhWQkd6WkZaNFlQWUNf?oc=5",
+          "published": "2026-10-06T20:38:15+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
+        {
           "title": "Textile recycling growth faces bottlenecks – report",
           "source": "Ecotextile News",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVFI4MXFPSzNEd2VNYkFZQjVIaDAtdms4Qm4yMFFReFRLak9vRk40N3liZGgwTHJvZ3dJMXpxYm1ZNGhneGlvRGJnX21UMkt0MmtqV2c1WHlDMGVzakxQNFVFbjlISzRpaWp5NHpGVUFtLXhqTVpXT3k0QTRnQUF3MUItQ0NoR2VPdHg2cW5UZmZXb240Q25QRUZneU5sejJSbGZRZWxSdUJRX2dx?oc=5",
           "published": "2026-10-06T16:15:03+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
+        {
+          "title": "Textile Recycling’s Biggest Scaling Problem May Not Be the Technology",
+          "source": "WWD",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS1IyakkwRjBMVkxyN25WSlYzbEF6cE50MXZKdXlnejYxaGJjdTF3YURQWVV2bzNNNzZReXlMUDhXelRNV0VnNTkwMEo0NHZNS1BjNzlnMUkyZ3NNb0V1amNoT3VRSW1lMkg0NVVKWnFKYXd1ZjM2RXFSMWQtb1E4NV85ZlFsbUFGM2FZQVY2RHNIeEpURW56WlZvOGhBR2dObjRicUtxaWlIN082cmtwTEpRczM?oc=5",
+          "published": "2026-10-06T16:06:35+00:00",
           "image": "",
           "snippet": "",
           "region": "Global",
@@ -451,26 +471,6 @@
           "snippet": "",
           "region": "Global",
           "industry": "Regulation"
-        },
-        {
-          "title": "Which Countries Are Best at Circularity? New Study Highlights Textile Recycling Leaders",
-          "source": "WWD",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdVBOcWRYcXRhOWhFbjREdFVIbnoxTUhub2NoOVFMZ2dqU3M1YjY5UHEwNklwT2dGNW1ldVdIVXNaUEY3dlFYbDFnOHNWdXN3dmRzSFhZNUJqSXM5OTV1VWJmUmF5QmNFWVJTZWZvd1o2eThrY3RqeTB1UXFkNS0xdW9qTW8zOElQQ0hfLTlydDZnT3ExSWx5NEpYWWI0NEpDMUxqZ1BXcXRZR01vR3c?oc=5",
-          "published": "2026-08-04T07:00:00+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "Op-Ed: Doubling Down on Circular Fashion Requires More Than Regulation",
-          "source": "WWD",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOXVhb09GdjVNQ0pMMGcySmY4ZDEwR1dhVlNZNGFpNVQ4QjJ3ZW9rdzFKOEsxbk5sYXJYd0lCTGxxNUlsVDZPLVUxMXJTNUVIdUJBX1AxMzRxWDFfZjRZcV9qa2ZBcmtKanpfVl9VeWVwV3V3bkpiNU1Yd0p2R2l2aUZCZVlzQk1VckdNTkJIbVIwTDlIMV9xQ1FaREppaEN1T3RzQllPY0tPb09odFgxWllneWxOQzVZWmsxcWRpcEthWGZ1N210LXRsVm4?oc=5",
-          "published": "2026-08-03T07:00:00+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
         }
       ]
     },
