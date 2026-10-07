@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-07T01:53:25.458580+00:00",
-  "edition": "Morning edition",
+  "updated_at": "2026-10-07T17:44:33.280726+00:00",
+  "edition": "Evening edition",
   "total": 55,
-  "sources": 18,
+  "sources": 17,
   "industries": [
     {
       "name": "Fashion",
-      "count": 50
+      "count": 51
     },
     {
       "name": "Beauty",
@@ -14,7 +14,7 @@
     },
     {
       "name": "Regulation",
-      "count": 4
+      "count": 3
     }
   ],
   "regions": [
@@ -22,6 +22,46 @@
       "name": "Global",
       "count": 45,
       "articles": [
+        {
+          "title": "How Reju Plans to Tackle the Growing Problem of Post-Consumer Textile Waste",
+          "source": "Textile Exchange",
+          "url": "https://textileexchange.org/how-reju-plans-to-tackle-the-growing-problem-of-post-consumer-textile-waste/",
+          "published": "2026-10-07T15:30:00+00:00",
+          "image": "https://textileexchange.org/app/uploads/2026/10/TextileExchange-2025-10-16-10h15m43-large-1536x1024.jpeg",
+          "snippet": "As textile fiber production volumes increase annually, and new and upcoming regulations in the EU and US reshape approaches to waste management, Reju is helping to accelerate the transition to […]\nThe post How Reju Plans…",
+          "region": "Global",
+          "industry": "Fashion"
+        },
+        {
+          "title": "Scaling Regenerative Cotton from Field to Supply Chain with COTTON USA™ and the U.S. Cotton Trust Protocol",
+          "source": "Textile Exchange",
+          "url": "https://textileexchange.org/scaling-regenerative-cotton-field-supply-chain-cotton-usa/",
+          "published": "2026-10-07T15:29:00+00:00",
+          "image": "https://s.w.org/images/core/emoji/15.0.3/72x72/2122.png",
+          "snippet": "As certified cotton production continues to grow around the world, the industry is increasingly embedding traceability and environmental considerations into everyday production and supply-chain decisions. In this intervi…",
+          "region": "Global",
+          "industry": "Fashion"
+        },
+        {
+          "title": "Brands launch alliance against microfibre pollution",
+          "source": "Ecotextile News",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVm51cjJrSEN4YUNSRUp1VFFvYVBPQ3FjMGJFM2FpNGlncHpVOTNIck9Wc2NlcDlHNTdsNnJTcktxWjhWSzhrTGRuTllGaWk1dFQzRE55N2xjblBISXlIWmpWY0dMck9KdklxbEY3UjFYYTk2aklCcHo0LU1BSmpaN1JuMS1MU2tCMFpOX1A4UGhsYTl1WEtiSUlSRFdOZnc1R1RaTkNJOUthRWllWHg4?oc=5",
+          "published": "2026-10-07T13:05:49+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
+        {
+          "title": "New project models 2030 textile recycling potential",
+          "source": "Apparel Insider",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9KZ3JTX29Sd2l6R3JHYkRjSDNOV2RPd0tKZ1NCZGpodURZMlg4RXFCUE1kcDdJZjdZMThMSHJnQWZ0VEpmWjRtYXR1WQ?oc=5",
+          "published": "2026-10-07T10:44:44+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
         {
           "title": "Fashion for Good Launches The Cotton Reloop Matrix Project To Unlock Commercial Scale For Recycled Cotton",
           "source": "Fashion for Good",
@@ -57,7 +97,7 @@
           "source": "Textile Exchange",
           "url": "https://textileexchange.org/how-reju-plans-to-tackle-the-growing-problem-of-post-consumer-textile-waste/",
           "published": "2026-10-06T15:38:20+00:00",
-          "image": "",
+          "image": "https://textileexchange.org/app/uploads/2026/10/Reju-2.png",
           "snippet": "There is no excerpt because this is a protected post.\nThe post Protected: How Reju plans to tackle the growing problem of post-consumer textile waste  appeared first on Textile Exchange.",
           "region": "Global",
           "industry": "Fashion"
@@ -431,46 +471,6 @@
           "snippet": "",
           "region": "Global",
           "industry": "Fashion"
-        },
-        {
-          "title": "MIT engineers create recyclable elastic yarn to tackle textile waste",
-          "source": "Just Style",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBETGlFU0VDRHlJeUFEZEVnaUttdGRWOGl6a1UxS2N2TXpMVzhHLUdicFJqdU5mX0ZuVnM3c1NDdjZzWHZfSmZqSGk5M2p1TGZMUDliUG5xMThGMVpHckZYeVd6MmEyeDFOa01NZ2k1Zw?oc=5",
-          "published": "2026-08-12T10:15:14+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "When lyocell’s success closes its factories",
-          "source": "Ecotextile News",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ3haR1NDc0JLMlZPVUg5YjZRVHg2cXA3RXlKNWl2WTBzWFVfTTlRaXhzZ3FJbDE0NkluTFBFUUFlcXg4OXZGNFN4aHN0WkZjNVlDRncyc0N0d3k0NkpoanpxTzNjb2ExcTlXMXQ3NFd0am9VZG5kWkRhRWhBNFdaS01yRGR5b2VycUlDZzhXTU11aVRiVWMw?oc=5",
-          "published": "2026-08-11T10:50:47+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "Hana Towobola Codifies Sustainable Fashion With New Encyclopedia",
-          "source": "WWD",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSExCMXhQUk80Tnd3OUFITTBzY0NtUmhhdFB4dWxLdnpuVEU5SXQ4bWowZmw5ZzF0RmNyZEJHVEFJWU1vdWtUb2sxblNzUHJ1N2FtLWg0d3d3M2RPcFJrVGt3YmNBajdTOWpva0g3d3VOUnY2N2lRLWlxWGdQYXlRQ0NuT1JtNkZMRVdwSG56RjFYNjhGeV9UV2VzbnFEeWlXQU9n?oc=5",
-          "published": "2026-08-06T15:29:59+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "Cosmetic refill packaging: How to choose the right system in the PPWR era",
-          "source": "cosmeticsbusiness.com",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSjN4MUZuYXViOEhYVUZsUkpxaGxuS1ZNZkxBTzZLd25FSXRONFRLaWRleHg5MUdPSGdCUmg0RE0ydjNNNDlac2g1OHdQY1llU0RFMndsSWV6MVNJOEJfQWlsREs1bERMZzk1OXdwNThialpMN29NMy1yaDQ5UldCdjA5OWwxZw?oc=5",
-          "published": "2026-08-05T10:33:11+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Regulation"
         }
       ]
     },
