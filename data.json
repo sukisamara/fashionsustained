@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-09T02:38:24.286336+00:00",
-  "edition": "Morning edition",
+  "updated_at": "2026-10-09T17:25:25.815331+00:00",
+  "edition": "Evening edition",
   "total": 54,
   "sources": 16,
   "industries": [
@@ -22,6 +22,16 @@
       "name": "Global",
       "count": 45,
       "articles": [
+        {
+          "title": "Circ and Huafon Plan Textile Recycling Site in China",
+          "source": "WWD",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaXozOTlIOVRBdkdQT2txclZFMDZiV0tBc1JOZWF1TGFSZzlBZVpxb3poeUVKdHBpUmlQQkpNdGhEM1VBOE9tNkpXZkNva1dJME9oVUhLX0tndFg3ckNuTVhBcm1QRmNtclR3THJ2UFo1aXl3Tm91ODdiMEU2XzBqTDZVUjdIUzFNMVVJQU5hRXVPcTlVNGhqYXpJLS1uV0lKSFpN?oc=5",
+          "published": "2026-10-09T15:32:34+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
         {
           "title": "Commercial barriers hold up recycled denim",
           "source": "Apparel Insider",
@@ -457,16 +467,6 @@
           "source": "Ecotextile News",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU3BrQjllTzF0c3I5OTczaVlpZGEzbU5aRnlObFVHbUdOSmZJS2xWeUxOV2FRZG5SU0ZCRW5uT3ppTndudWtXT19EYVpGekFBTjdRZjU5bElXNEFhZkF3bGk0c2QzQWxZejNBV0Nsb2xVT2g5UDJXTmdzSEdpWEtnLU94Rkt5YVR4eFVsNkdJWkN2dVdoSmlwRlB4UHZTaWxZWUkycmtSb2lpSUhrT3Jn?oc=5",
           "published": "2026-08-25T10:01:48+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "ReFiber tackles India’s textile waste with nationwide recovery drive",
-          "source": "Just Style",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9fSjJpZ0pJTnBzenFuT05rVVM5UVFBRXA2bzdHMGV0amlEdzVTeE9WMnlxOW8yejdWNWczNDRfUkduQzNMMFFWa0VnSVpYNTRoWW9VWlZWN1pTLV9nMnV6MWF4ckdkUHJ5LThiNzJZd3dDMVhrQlZKdHd5TQ?oc=5",
-          "published": "2026-08-24T10:33:42+00:00",
           "image": "",
           "snippet": "",
           "region": "Global",
