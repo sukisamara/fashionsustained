@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-11T01:24:09.468795+00:00",
-  "edition": "Morning edition",
+  "updated_at": "2026-10-11T16:36:58.172472+00:00",
+  "edition": "Evening edition",
   "total": 54,
   "sources": 16,
   "industries": [
@@ -27,6 +27,16 @@
           "source": "WWD",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaXozOTlIOVRBdkdQT2txclZFMDZiV0tBc1JOZWF1TGFSZzlBZVpxb3poeUVKdHBpUmlQQkpNdGhEM1VBOE9tNkpXZkNva1dJME9oVUhLX0tndFg3ckNuTVhBcm1QRmNtclR3THJ2UFo1aXl3Tm91ODdiMEU2XzBqTDZVUjdIUzFNMVVJQU5hRXVPcTlVNGhqYXpJLS1uV0lKSFpN?oc=5",
           "published": "2026-10-09T15:32:34+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
+        {
+          "title": "Garment durability failures threaten brand loyalty",
+          "source": "Ecotextile News",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPT0EyS0l4YVlTLWZPTndWODNTQ01DWGFDUjB4bGg4NzZJcjlIb29PLXAzVkd6aDNOdUR4eE8yNERHd05BMlJ4VHRsVUtSLWNpdFV2bWdobFdKMFdDZ2tudTV6MVpvLUJWTGdfc1BVNnVtcFk2MEFKa1dxUXk3TEV0M205SlJ5akJvalYyb0hUQldLUF9hc1VaSnJWYS1JZ19FRlk5SWVPbjBSMGJ5c2hTMkR3?oc=5",
+          "published": "2026-10-08T13:07:04+00:00",
           "image": "",
           "snippet": "",
           "region": "Global",
@@ -457,16 +467,6 @@
           "source": "WWD",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaExxTXNodUc2R2NrQUxLVzA5S2xFVGZNZl9IcnlldTFCOGRISnFwNVU3Rmh3Nm5WS3h2WmNiZDUweW1zWmVodTVJZGlGNHRqbDBLWFk5cXFsbDBYOUFoMjY2eG9KRkRkYzdWVURnTDMzUU1UMXdMSkxxZ1VfNDVWZFBENFRhNEYxLXhWMTYwMFI0SHNrMktPV2NIR2Y?oc=5",
           "published": "2026-08-28T18:37:39+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "Study raises carbon questions for chemical textile recycling",
-          "source": "Apparel Insider",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DcUh3ejlhamt3QXkyQm5vRjU0bkxUSGNwVTJXT1ZkQUtET21HVTNGVlpWRnRjVHhrSUVXVS1pVFYxMG50LTY2SGFXdw?oc=5",
-          "published": "2026-08-25T16:01:31+00:00",
           "image": "",
           "snippet": "",
           "region": "Global",
