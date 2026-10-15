@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-15T01:02:59.796373+00:00",
-  "edition": "Morning edition",
+  "updated_at": "2026-10-15T15:33:35.992168+00:00",
+  "edition": "Evening edition",
   "total": 52,
   "sources": 14,
   "industries": [
     {
       "name": "Fashion",
-      "count": 49
+      "count": 50
     },
     {
       "name": "Beauty",
@@ -14,7 +14,7 @@
     },
     {
       "name": "Regulation",
-      "count": 2
+      "count": 1
     }
   ],
   "regions": [
@@ -22,6 +22,26 @@
       "name": "Global",
       "count": 45,
       "articles": [
+        {
+          "title": "Textile recycling needs buyers, not promises",
+          "source": "Ecotextile News",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMFZsRk10WXRjYnZlQWl4dXR5UVN0NHc4cnI2UkNEajJYWGR4SFFMb21TOEtMSUd4TVN5MXlnQkduZlFIcWxxeU9EOUI0a0JnUGFXa29XOXZuRFpRUXhsdlFaQ0MtejA4Tjg3dmFReEFDa1hfdHZZTnZjYzlrTlpzWmtOOVVXV2ZTRHJjdkl4V3hzUEhLZV8wRERYb2FoNGk2YUNRdQ?oc=5",
+          "published": "2026-10-15T14:09:02+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
+        {
+          "title": "Circ and Huafon plan textile recycling facility in China",
+          "source": "Just Style",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56YnFZOEJKUGh3MGpueVYxOS1LRENrUE5CaTk1UWpVM19JWHBDenM5QUtBN056ZXc2d285REZJdklqMU1HNDJCd0xRTGpKNkdpRFN6N3hoLTZFNFdPTC1XXy11dHhLMnlzRXc?oc=5",
+          "published": "2026-10-15T08:56:06+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
         {
           "title": "EPR schemes alone will not fix textile waste – panel",
           "source": "Ecotextile News",
@@ -447,26 +467,6 @@
           "source": "Ecotextile News",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTlNPM19CQkNweWRoMG9BN2dTQjBZeGNhalJvaDExR0Vrb0Z1U21QbTVESlB3cURJWkdrR2pWYkxuUUdVa3JpVW05NFFjb3BMdXk2NWdvR3JtWWdPSjRVdDM3WGxuLWlYd1RvY0dZMnZTQW9MMFVNcGdXUVpGU2ktUXltQXN5c1BaM2FjbF9hOE54c05hdEhBc29iSFd2TWZTdHBwOXRB?oc=5",
           "published": "2026-09-03T11:27:23+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "Put a date on it: making textile EPR work in practice",
-          "source": "Apparel Insider",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOalNvZk9PS0VHejZnTVRyMVRQN2hzMjlnY28xcWwySEZEWjBuS1QyNHUzem4xb0Z0NlpSdzg1b1FIQVFjcGFSYXFRRUZwM0lob3FLRlh2ek02bjRqX3VwZE1HREthYVY1eG9Qb0RQT3lGZHpBenJuMlhyQ1VzelBPbkZkXzkta28?oc=5",
-          "published": "2026-09-02T15:44:41+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Regulation"
-        },
-        {
-          "title": "Can Uzbekistan turn textile waste into a competitive edge?",
-          "source": "Just Style",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeFkzUHMzbDRvR0t2NUlnWUtRcGhnYUNtZ3V4VVVmN2thcl96QzlMekNzT0RGdUFCWGE3bjdBZmJYTUF1czNLaE1PVGxrVXdfdXhBWnZ5TGNLNUZWMTEyRDZMWFJvVDFFN1ZIMUhsQnJ0TG9JYXFlWFl0M0wza1pFUEFVU09iR0Z1azF5WFpzbC1oYl9tRXBQZkR3?oc=5",
-          "published": "2026-09-02T10:52:54+00:00",
           "image": "",
           "snippet": "",
           "region": "Global",
