@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-17T00:53:27.153177+00:00",
+  "updated_at": "2026-10-17T14:08:53.609360+00:00",
   "edition": "Morning edition",
-  "total": 52,
-  "sources": 14,
+  "total": 51,
+  "sources": 13,
   "industries": [
     {
       "name": "Fashion",
@@ -10,10 +10,6 @@
     },
     {
       "name": "Beauty",
-      "count": 1
-    },
-    {
-      "name": "Regulation",
       "count": 1
     }
   ],
@@ -157,6 +153,16 @@
           "source": "Apparel Insider",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9KZ3JTX29Sd2l6R3JHYkRjSDNOV2RPd0tKZ1NCZGpodURZMlg4RXFCUE1kcDdJZjdZMThMSHJnQWZ0VEpmWjRtYXR1WQ?oc=5",
           "published": "2026-10-07T10:44:44+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
+        {
+          "title": "China Adds Fish Embryo Test to Textile Wastewater Rules",
+          "source": "WWD",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaEstaC1SZWoxeDVQWXRWcm1PMWNqWXU2elRKMlhFRWJSZVB1dFJ4MlRvNk9ZekRSV0o1NjZ1dHNtR2JCVEFNWF9ONTJVNHdJbTFwWmg0c3BjX2lQVmNFMzJKanlTQUVQSTAwdm9xNFE5d19oNWZQZTRzX2NWVmtDUzdSMFU2VHNSZ2N5aEh1NWJMU2N2SDJjVktXcU1NYTFqbVZsVEh4YWJIclF1dUJuaFl5WQ?oc=5",
+          "published": "2026-10-07T07:00:00+00:00",
           "image": "",
           "snippet": "",
           "region": "Global",
@@ -373,6 +379,16 @@
           "industry": "Fashion"
         },
         {
+          "title": "Marks & Spencer, New Look, Sainsbury’s Unite to Fight Textile Waste in the U.K. Clothing Industry",
+          "source": "WWD",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUTRsNzIwUndiY1N1VUFMamJNM1dSSVB0LXZZMWlVYldTZFlPanZYQkhYRzNBNXVROHlNS2tuQzFjd1hoV1pOUlVXbFU3cThzRnlhQU4wa2RhaDdUSE00MUpmdHFTWE9TTUNENGRJR1JFUUZiWTRSS3ZBOHZ2b3RzZDlwMkNpSFdzTElOWm44TEdUekwwVXlxREFvT0Jfb3VfTE5abkNGczJQZW41RDNWbkFqRQ?oc=5",
+          "published": "2026-09-23T07:00:00+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
+        {
           "title": "New US bill targets textile waste",
           "source": "Ecotextile News",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRTlHWDZJS2oxQi16LV81ZGwzbEk5TklHbnVuMHRGREZBZHBrWE9iN2NfTHlnSUl6THJDcUVxSUhFS2lfbFlHS1FXTkRBZENoSE4xYXFneWZBVGpRWnJydWdmWnVYaEZiVm84WTJrZEMwUmRCYUF1Vk5jLTdYT2VFeGw1TWpKTnVoQy16aDctNWNJN3RXcXdN?oc=5",
@@ -451,26 +467,6 @@
           "snippet": "",
           "region": "Global",
           "industry": "Fashion"
-        },
-        {
-          "title": "Zalando opts for Re&Up recycled cotton fibres",
-          "source": "Ecotextile News",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRjhQUUcyd2lyUy1RQWZMM3F4eF9JbElqcFlxc0lEV2tqbmR1OTRkcVRlZ1lrbmNKNHVNcnI3d3NkWEtRMXNaT3hZYmZtSVZzaUZJSjY1enQtUWNDLWpfSU5wMnhndHhfLXVPdDRjN2ZObW9QdXFDcEdLbk1TaWlPbFZaLWVWZWY0NTRiVTI0cVRnb001UWM3R2EwRFR2TmV0dWI0QWNtNERJUQ?oc=5",
-          "published": "2026-09-08T11:35:20+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "US backs enzymatic PET textile recycling project",
-          "source": "Ecotextile News",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcDh0dUowYTZPbWFjc003bVFMLU14bk96T1JnSTlLR0ZhYVlSRGxtZnBEeUx2UUR3XzdScV9wYl83dU5ZaHhSR0JScW9USVFqa0liWFdZYmNYc0hJYUk2T211VkdDR3JKRnc2WTgyZXpENnQxWDFNa2xLYkhBaXpPU3BJci04MTJLSGVwZTZuVFFEMm5OdEZmNzJiVEYybk1NUllQWGpvc05lbWtGdXNlN3MtWmR0ajJlOW9JNDln?oc=5",
-          "published": "2026-09-03T19:25:56+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
         }
       ]
     },
@@ -532,7 +528,7 @@
     },
     {
       "name": "EMEA",
-      "count": 2,
+      "count": 1,
       "articles": [
         {
           "title": "Refill systems take centre stage at London Packaging Week",
@@ -543,16 +539,6 @@
           "industry": "Beauty",
           "snippet": "Refillable cosmetics move from niche to baseline, as brands tackle the hygiene, cost and perceived-value hurdles that slow adoption.",
           "image": "https://spnews.com/downloads/12603/download/fred.jpg?cb=fda51b13c5b33e20c1d88864ad857ac6&w=1000"
-        },
-        {
-          "title": "EU's ban on destroying unsold clothing takes effect",
-          "source": "Go Circulaire",
-          "url": "https://journal.gocirculaire.com/eu-textile-waste-ban-set-to-reshape-sustainable-fashion-as-unsold-clothing-destruction-outlawed-from-july-2026/",
-          "published": "2026-07-19T09:00:00+00:00",
-          "region": "EMEA",
-          "industry": "Regulation",
-          "snippet": "New Ecodesign rules make it illegal for large brands to destroy unsold clothing and footwear across the EU, putting overproduction in the spotlight.",
-          "image": "https://images.unsplash.com/photo-1606053929013-311c13f97b5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fHRleHRpbGUlMjB3YXN0ZXxlbnwwfHx8fDE3ODMwNzkxNzd8MA&ixlib=rb-4.1.0&q=80&w=2000"
         }
       ]
     }
