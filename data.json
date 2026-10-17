@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-16T15:19:43.563650+00:00",
-  "edition": "Evening edition",
+  "updated_at": "2026-10-17T00:53:27.153177+00:00",
+  "edition": "Morning edition",
   "total": 52,
   "sources": 14,
   "industries": [
@@ -22,6 +22,16 @@
       "name": "Global",
       "count": 45,
       "articles": [
+        {
+          "title": "Recycling Textile Waste Is All About The Chemicals In Your Clothes",
+          "source": "WWD",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ2xVWGY0SDFQeVlzbnU4cHFQRVQtb0lLMllLY2dOSzMtUlBPeS1UaF9BWVRIZVZQR0VLMDZXalVtY1ZaYUEya2llWFpiSXVLOGJVcGtzaFpPc3NxMEJkTkxmd1cxVnJWNHFFZVlORkk3ZVkzb3FLcUd4eVBnSGVZVzVwTFRvTC1ZZm5uY3dIVGcyaVNMODA5QUZ1N0VMWXhqYTNidGRqbmFzUQ?oc=5",
+          "published": "2026-10-16T20:31:29+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
         {
           "title": "Textile recycling needs buyers, not promises",
           "source": "Ecotextile News",
@@ -457,16 +467,6 @@
           "source": "Ecotextile News",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcDh0dUowYTZPbWFjc003bVFMLU14bk96T1JnSTlLR0ZhYVlSRGxtZnBEeUx2UUR3XzdScV9wYl83dU5ZaHhSR0JScW9USVFqa0liWFdZYmNYc0hJYUk2T211VkdDR3JKRnc2WTgyZXpENnQxWDFNa2xLYkhBaXpPU3BJci04MTJLSGVwZTZuVFFEMm5OdEZmNzJiVEYybk1NUllQWGpvc05lbWtGdXNlN3MtWmR0ajJlOW9JNDln?oc=5",
           "published": "2026-09-03T19:25:56+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "Circular fashion progress remains uneven, report",
-          "source": "Ecotextile News",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTlNPM19CQkNweWRoMG9BN2dTQjBZeGNhalJvaDExR0Vrb0Z1U21QbTVESlB3cURJWkdrR2pWYkxuUUdVa3JpVW05NFFjb3BMdXk2NWdvR3JtWWdPSjRVdDM3WGxuLWlYd1RvY0dZMnZTQW9MMFVNcGdXUVpGU2ktUXltQXN5c1BaM2FjbF9hOE54c05hdEhBc29iSFd2TWZTdHBwOXRB?oc=5",
-          "published": "2026-09-03T11:27:23+00:00",
           "image": "",
           "snippet": "",
           "region": "Global",
