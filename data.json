@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-20T01:20:56.172695+00:00",
-  "edition": "Morning edition",
+  "updated_at": "2026-10-20T15:36:55.885435+00:00",
+  "edition": "Evening edition",
   "total": 49,
   "sources": 11,
   "industries": [
@@ -18,6 +18,16 @@
       "name": "Global",
       "count": 45,
       "articles": [
+        {
+          "title": "€8m Italian textile recycling plant targets spinning-grade fibres",
+          "source": "Apparel Insider",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPczFOYUt2NU1sbmw0b1NrY3NWTF92NTJ6Y1k5cTlqNjNmVHBSOXM0aFlYZ0U1LTBRQTZ3QjF3cHhnUkt2b01uZlNhOWROSGtGTGkzQWJlbmpLQ1ZyZDc0dkl2ZzRmZ0JGZHZGYXRtblNXZGdiczNTV2FNSEZZVHRUeTc0OWFjTnhRSEIxcVg3T3o0eWREQkdtRg?oc=5",
+          "published": "2026-10-20T09:20:53+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
         {
           "title": "Recycling Textile Waste Is All About The Chemicals In Your Clothes",
           "source": "WWD",
@@ -453,16 +463,6 @@
           "source": "Ecotextile News",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaDEyT2FzZDhYV2NnWEQ0NWJXeGk4bUZzazVreVhLeHlRZkQ0cTFUeGxVVHJWQTBYQzFrWU0xemxBT0p1Z1d0MXdMQjg2amRpNlVIUEdTVVlWNzNlNC1iNzRfMlRNNk5QcmU5cERtQVFPSmhNVGNHWEpqUks1UG1Pd2VtMzctcUl6QXNqMEk3RHprNUw2Qll1dExEZ0twS2hyMUpjcjJ0SmplTFk?oc=5",
           "published": "2026-09-10T10:37:10+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "Taiwanese Consortium Announces New Recycling Tech For Textile Waste",
-          "source": "WWD",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaUwxSlJiMTlsOE05YnUtNF9pSmMzWUpDSERrdnVFNTMxQ2p5aEdDdzF1UG5PTmYyakQ0TVFvMFVybmJKUi1WQ2RFWnRhbHFfNXFRZjV1dTYxbXM2eGt4VzN5UGJOdGhpbTg0UGE2YVViUHc0REhTd2VtUWlBWHJMNUJNcXVaZHdJR0xVNWRfd3pFNVFiTlc0?oc=5",
-          "published": "2026-09-08T21:03:25+00:00",
           "image": "",
           "snippet": "",
           "region": "Global",
