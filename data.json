@@ -1,16 +1,12 @@
 {
-  "updated_at": "2026-10-21T01:05:25.446169+00:00",
-  "edition": "Morning edition",
-  "total": 49,
+  "updated_at": "2026-10-21T15:54:34.965515+00:00",
+  "edition": "Evening edition",
+  "total": 50,
   "sources": 11,
   "industries": [
     {
       "name": "Fashion",
-      "count": 47
-    },
-    {
-      "name": "Beauty",
-      "count": 1
+      "count": 49
     },
     {
       "name": "Regulation",
@@ -22,6 +18,16 @@
       "name": "Global",
       "count": 45,
       "articles": [
+        {
+          "title": "Clothing repair gains ground but faces scale test",
+          "source": "Ecotextile News",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWDV0b1JIc0RBcFhROFZqYkxnRVZ4MUdCY2hKNkRjZlh1VFdQSDUxaV90elgyWEdBWWZ6UnBESDhtVGppQW1XamhDcDFWTFQzN1ZHekNFYjctb3JxbFBpa0lWaEZzT0dtWld5Z3AzQjJKSE5rUXQ3WXlNLTdSQl96OEZZZ0JPQlpYb3p3dHpOS2VwX0FaajJ2Tm5KWmZNTUVVTExCQXQ3RE5TZEhqNFE?oc=5",
+          "published": "2026-10-21T13:30:08+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
         {
           "title": "€8m Italian textile recycling plant targets spinning-grade fibres",
           "source": "Apparel Insider",
@@ -343,6 +349,16 @@
           "industry": "Fashion"
         },
         {
+          "title": "Circ and Primark partner for recycled polyester",
+          "source": "Ecotextile News",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaWZDUnpYdF9mTkQwbW1VbEl4QVcwc1VXYW8yYzR5OWM1SXlMMmZnUy00ekY2dVpQMU9DMk8wamo1TXp0ZzhOdml6RjB2T285Ml94b3FyZm5vc3Q1OUhQbXJhcGFRRGFtWDBMS2tERDkyNDAzR2tjVmNHWFk3VkJMZEFIYThtMkpQbTcwbU82Xzdibk5rd2dOdGp6VldobHNTOWp3d0U3RTNUd2s?oc=5",
+          "published": "2026-09-29T07:00:00+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
+        {
           "title": "Major UK retailers launch ‘The Circuit’ to scale textile recycling",
           "source": "Just Style",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0teUU1b20wNGVFRm1aanBNcHRVaS01MzJrVDk4SEVzaHpJZUhuQ1VGaUdPWk5IOFpEWDNLRVVfYUxsSy1aWWo1ZEw1Sy1MaUVRckhfYUZmVHZfUkNxTktpRjVZaXBtMm1ULUdIeVZ3?oc=5",
@@ -451,26 +467,6 @@
           "snippet": "",
           "region": "Global",
           "industry": "Fashion"
-        },
-        {
-          "title": "6 Things to Know in Sustainable Fashion This September",
-          "source": "Good On You",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wZXA3WDFySVp2dHBWTlA0TVR3US0tM3lEVFRiajJIVVlPaS1fZ3ViRTlfS1ptdW9Gc1R5V2U3SVBybXZIYjB6Y2hKSWI1amlsYVE4ODdXaHFuZDQ4VjY3V1ZiR3VjX25yWlk0M2R3Yw?oc=5",
-          "published": "2026-09-10T14:42:07+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "Six Things to Know in Sustainable Fashion This September",
-          "source": "Good On You",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wZXA3WDFySVp2dHBWTlA0TVR3US0tM3lEVFRiajJIVVlPaS1fZ3ViRTlfS1ptdW9Gc1R5V2U3SVBybXZIYjB6Y2hKSWI1amlsYVE4ODdXaHFuZDQ4VjY3V1ZiR3VjX25yWlk0M2R3Yw?oc=5",
-          "published": "2026-09-10T14:37:25+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
         }
       ]
     },
@@ -512,17 +508,27 @@
     },
     {
       "name": "EMEA",
-      "count": 1,
+      "count": 2,
       "articles": [
         {
-          "title": "Refill systems take centre stage at London Packaging Week",
-          "source": "Sustainable Packaging News",
-          "url": "https://spnews.com/packaging-waste-challenge/",
-          "published": "2026-07-23T09:00:00+00:00",
+          "title": "Our guide for where to buy secondhand clothing online",
+          "source": "Good On You",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yMTRvclN1SzUwMnBjX0RkODc4Ul9IblUxbmdFSEZGNDhSZTh4Xzh5b0ZNT1pZbEM3RDZfOWdnTXZmdjhIRzJLSEZUalY2WUdYN2RvTjlobGdqc0ktN2pYQTdTUmJZU0U?oc=5",
+          "published": "2026-09-16T07:00:00+00:00",
+          "image": "",
+          "snippet": "",
           "region": "EMEA",
-          "industry": "Beauty",
-          "snippet": "Refillable cosmetics move from niche to baseline, as brands tackle the hygiene, cost and perceived-value hurdles that slow adoption.",
-          "image": "https://spnews.com/downloads/12603/download/fred.jpg?cb=fda51b13c5b33e20c1d88864ad857ac6&w=1000"
+          "industry": "Fashion"
+        },
+        {
+          "title": "Penn State undergrads named hackathon finalists for sustainable fashion app",
+          "source": "The Pennsylvania State University",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVnBXZHpDdDZXN05rUjItcERpclVVRW9jamoyVk5DZExzbklYdlFLMUYtbEFvUERxeXRvOGRicW5aZnJEWlJFUDhnMmN6SzhISTNlcGVIak9PMW5qbXhWa3lqS1BzUzlOX09JaVNsY19QalpHa1k4ek9JemRtYk9YQWtqTm5Mc3hhY2U4R2lqOGVVbjNjV3J1a3RwOEVtaEtfUFhRZ3dyQWlkbzNqTUx3emhvUTg?oc=5",
+          "published": "2026-07-30T07:00:00+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "EMEA",
+          "industry": "Fashion"
         }
       ]
     }
