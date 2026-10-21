@@ -1,15 +1,19 @@
 {
-  "updated_at": "2026-10-20T15:36:55.885435+00:00",
-  "edition": "Evening edition",
+  "updated_at": "2026-10-21T01:05:25.446169+00:00",
+  "edition": "Morning edition",
   "total": 49,
   "sources": 11,
   "industries": [
     {
       "name": "Fashion",
-      "count": 48
+      "count": 47
     },
     {
       "name": "Beauty",
+      "count": 1
+    },
+    {
+      "name": "Regulation",
       "count": 1
     }
   ],
@@ -27,6 +31,16 @@
           "snippet": "",
           "region": "Global",
           "industry": "Fashion"
+        },
+        {
+          "title": "Looted Luxury Goods Surge on Vinted Following Widespread Riots in France",
+          "source": "WWD",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWGt6NzJXeHJVNVJBc3UxelRRdTlzQ2UxUVlqWF9LSDFWUzJyV01VWlpGMzM3Y2xFcWFPNEJZUnBvS0ZycTh1TlQ5bG1jaTh1d3ZFcWtQS2RCRGtFdGg0UGUwcFBoSVBKY2ZETUhuS1JONVlzVHdRSVlZd0xldVB0VVVYN3lXTHp2QkxaNElFcDlQSmJIOVVvTHhTa25SdWZMMTZR?oc=5",
+          "published": "2026-10-19T16:44:31+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Regulation"
         },
         {
           "title": "Recycling Textile Waste Is All About The Chemicals In Your Clothes",
@@ -453,16 +467,6 @@
           "source": "Good On You",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wZXA3WDFySVp2dHBWTlA0TVR3US0tM3lEVFRiajJIVVlPaS1fZ3ViRTlfS1ptdW9Gc1R5V2U3SVBybXZIYjB6Y2hKSWI1amlsYVE4ODdXaHFuZDQ4VjY3V1ZiR3VjX25yWlk0M2R3Yw?oc=5",
           "published": "2026-09-10T14:37:25+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "Textile recycling sector faces scaling barriers",
-          "source": "Ecotextile News",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaDEyT2FzZDhYV2NnWEQ0NWJXeGk4bUZzazVreVhLeHlRZkQ0cTFUeGxVVHJWQTBYQzFrWU0xemxBT0p1Z1d0MXdMQjg2amRpNlVIUEdTVVlWNzNlNC1iNzRfMlRNNk5QcmU5cERtQVFPSmhNVGNHWEpqUks1UG1Pd2VtMzctcUl6QXNqMEk3RHprNUw2Qll1dExEZ0twS2hyMUpjcjJ0SmplTFk?oc=5",
-          "published": "2026-09-10T10:37:10+00:00",
           "image": "",
           "snippet": "",
           "region": "Global",
