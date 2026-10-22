@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-10-22T01:04:02.129979+00:00",
-  "edition": "Morning edition",
-  "total": 50,
-  "sources": 11,
+  "updated_at": "2026-10-22T15:51:03.525243+00:00",
+  "edition": "Evening edition",
+  "total": 49,
+  "sources": 10,
   "industries": [
     {
       "name": "Fashion",
-      "count": 49
+      "count": 47
     },
     {
       "name": "Regulation",
-      "count": 1
+      "count": 2
     }
   ],
   "regions": [
@@ -43,6 +43,16 @@
           "source": "WWD",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWGt6NzJXeHJVNVJBc3UxelRRdTlzQ2UxUVlqWF9LSDFWUzJyV01VWlpGMzM3Y2xFcWFPNEJZUnBvS0ZycTh1TlQ5bG1jaTh1d3ZFcWtQS2RCRGtFdGg0UGUwcFBoSVBKY2ZETUhuS1JONVlzVHdRSVlZd0xldVB0VVVYN3lXTHp2QkxaNElFcDlQSmJIOVVvTHhTa25SdWZMMTZR?oc=5",
           "published": "2026-10-19T16:44:31+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Regulation"
+        },
+        {
+          "title": "ZDHC finds chemical action gap",
+          "source": "Ecotextile News",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYmxiWU9jZHlZYUQweFRBNVVNcGhqU1MteGRmOTlmOUVCVWV5Y3hmekxRaWdKY2xMdHgtQnNfU0Nwa3VhY0xrb0hqR09PcFNkSG1GZ19zbTdtUmwzek9GdTBrRVpYdHZpYVJJN2t5MFp4VHctYXMtX2JQVmYtQ0kwSmJqMzg2aUZlQlhtbU5UV0tILTg?oc=5",
+          "published": "2026-10-19T13:42:26+00:00",
           "image": "",
           "snippet": "",
           "region": "Global",
@@ -457,22 +467,12 @@
           "snippet": "",
           "region": "Global",
           "industry": "Fashion"
-        },
-        {
-          "title": "Cotton textile waste can be turned into biogas, study finds",
-          "source": "Apparel Insider",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNkJSbnVmNTN6OTFISEZLRFBsUGk2VGlUcE42WW5aTHE4NEFCVjlacl9HWnA5M1pzTkNPUmZFR1JMTlhDR3YtbHZFUTlWbGZQeXB0YjV4R0dhM09iSGcxRXpqM3pObDMzUmphZ0x2dHlkT3V3UmcxdGROTTVjTUZsZmUyVVdvRE1UYmVEQmFsSQ?oc=5",
-          "published": "2026-09-11T09:17:53+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
         }
       ]
     },
     {
       "name": "NAM",
-      "count": 3,
+      "count": 2,
       "articles": [
         {
           "title": "Circular fashion: how to turn a compliance cost into value creation",
@@ -489,16 +489,6 @@
           "source": "Lampoon Magazine",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYlVPRjBtLVhLWWtmNmNlSllLLURDYzJVMUF5YmtlbllTR29Yb09VYUU4Tk9pbDhWRF9BbzBIRzdUTE5HVFFVYXVhZWJ0UWFqU1dGaGgxZ25UcjQ5X1FCMlNKdHFhYzROdllHWXNLOWhMMUltdzlQX0h3LUVicDk4Vnp4dlFnMnJNWHlWcU9ySkxHVDduYm1McjItVXM3eENhRGc?oc=5",
           "published": "2026-09-14T15:51:14+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "NAM",
-          "industry": "Fashion"
-        },
-        {
-          "title": "Are multi-way clothes the answer to sustainable fashion - or just another excuse to buy more stuff?",
-          "source": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQkdpaXNxOGs5bXg0dTk3TlB2bEt0RGFCUW03TkpUTmxIVG8zZVhaNGdMSmtFVHplcV9WN1dFNk1rWmhjTzFyZG9haVlqSjNpSmhQMkYxU3ZRN3QxZEZYZ3dNTUxsTnJmWld5R1c3d1JjNUJuM0d4ZG43QVJqU051VjhQdjlmaUwyQVlJRnZQRjhEbEZ3bnVvZkVraXA5MjVYNDJmU1k0TExnU1dObTVZTG4xSTlIRENTRmxqMUJrVTNIUDZGeHhUNVdYYURGYXl2TjdYcDgxRGlaazVv?oc=5",
-          "published": "2026-07-24T06:00:00+00:00",
           "image": "",
           "snippet": "",
           "region": "NAM",
