@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-26T00:49:36.467944+00:00",
-  "edition": "Morning edition",
+  "updated_at": "2026-10-26T17:15:04.015457+00:00",
+  "edition": "Evening edition",
   "total": 50,
   "sources": 11,
   "industries": [
@@ -18,6 +18,26 @@
       "name": "Global",
       "count": 45,
       "articles": [
+        {
+          "title": "South Korea urged to rethink textile recycling",
+          "source": "Ecotextile News",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOW5zSDh4YzFKTDRmQjlZR3BDNmxBbHFOMkFfSHN4V3RaOUcyUncxUjdtTjJxd2ZFSGN3NlI4ZzlWVUt6R2FWdTJjcEh4YVREcGRQR3pkQU9PR1lrWWhmay1NRVhPSkJqYVBiQTNRRVZVVWNqZHlSSm03NVFWYnRrUl9mSmlKTkIzYS1wTTVHaXpmMzZNM3ZPUjMtZlVPbHNvWXY1UmZjVUltZw?oc=5",
+          "published": "2026-10-26T17:05:53+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
+        {
+          "title": "EU clothing repair market grows as brands respond to demand",
+          "source": "Just Style",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfRkp5a19vVlJpR0V0WGJvNktPSmNpUUIySFJRWmY4ZGs5S25VYmV3YWFROEpPbE9yMmNYWG84SUN4dXh3ZDExQVFUak9jV3VmWUJ4T1NoQjlHbmlXQ21oNG5tNmx4VzhPLTVhTzFR?oc=5",
+          "published": "2026-10-26T09:25:28+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
         {
           "title": "Clothing repair gains ground but faces scale test",
           "source": "Ecotextile News",
@@ -443,26 +463,6 @@
           "source": "WWD",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUTRsNzIwUndiY1N1VUFMamJNM1dSSVB0LXZZMWlVYldTZFlPanZYQkhYRzNBNXVROHlNS2tuQzFjd1hoV1pOUlVXbFU3cThzRnlhQU4wa2RhaDdUSE00MUpmdHFTWE9TTUNENGRJR1JFUUZiWTRSS3ZBOHZ2b3RzZDlwMkNpSFdzTElOWm44TEdUekwwVXlxREFvT0Jfb3VfTE5abkNGczJQZW41RDNWbkFqRQ?oc=5",
           "published": "2026-09-23T07:00:00+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "New US bill targets textile waste",
-          "source": "Ecotextile News",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRTlHWDZJS2oxQi16LV81ZGwzbEk5TklHbnVuMHRGREZBZHBrWE9iN2NfTHlnSUl6THJDcUVxSUhFS2lfbFlHS1FXTkRBZENoSE4xYXFneWZBVGpRWnJydWdmWnVYaEZiVm84WTJrZEMwUmRCYUF1Vk5jLTdYT2VFeGw1TWpKTnVoQy16aDctNWNJN3RXcXdN?oc=5",
-          "published": "2026-09-22T09:13:12+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "Riga forum targets textile waste cut",
-          "source": "Ecotextile News",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcUs5eUdacFlXWWlqQ2E5RGFlaV9yMjAzczNLLTV4ak42eUdTdFVKS3o1bTdMTUFSTTZITXZsWFpramV2c3F5YmNMUC1ESjM0X3BzOE5DUlphdVBtc1g3bFkwYlZOVHBwdlNyQUpoSXhwMFlheGNTb21KN3JmX0k0SXRJaGxDUzJPU0Q3cw?oc=5",
-          "published": "2026-09-17T15:35:29+00:00",
           "image": "",
           "snippet": "",
           "region": "Global",
