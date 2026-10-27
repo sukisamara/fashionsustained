@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-26T17:15:04.015457+00:00",
-  "edition": "Evening edition",
+  "updated_at": "2026-10-27T01:40:44.131681+00:00",
+  "edition": "Morning edition",
   "total": 50,
   "sources": 11,
   "industries": [
@@ -19,6 +19,16 @@
       "count": 45,
       "articles": [
         {
+          "title": "How Recommerce Is Redefining Value for Mainstream Shoppers",
+          "source": "WWD",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd29JU3R0SXhpZmZXLVN4LWpqVkNubjRFZS1CMDhyYkF1U1QzQlluNlVvd3R0ZnFxY3phWHdfVDJOdXh2RV9IZldGSUdCQ2IydGNMTVVVMmV4bkt0YnE4RFhuRUFWMWRFMGk4QnlwNEpXUzlKVks5VFdfYW1kSnNqTG9HMGNtQzI5Zy1qTUZFQzV1RU5vN0tVVC1UQ2Y3S3hwM2xEajFfRVVKMEdZU3RzOV9WYw?oc=5",
+          "published": "2026-10-26T19:17:48+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
+        {
           "title": "South Korea urged to rethink textile recycling",
           "source": "Ecotextile News",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOW5zSDh4YzFKTDRmQjlZR3BDNmxBbHFOMkFfSHN4V3RaOUcyUncxUjdtTjJxd2ZFSGN3NlI4ZzlWVUt6R2FWdTJjcEh4YVREcGRQR3pkQU9PR1lrWWhmay1NRVhPSkJqYVBiQTNRRVZVVWNqZHlSSm03NVFWYnRrUl9mSmlKTkIzYS1wTTVHaXpmMzZNM3ZPUjMtZlVPbHNvWXY1UmZjVUltZw?oc=5",
@@ -33,6 +43,16 @@
           "source": "Just Style",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfRkp5a19vVlJpR0V0WGJvNktPSmNpUUIySFJRWmY4ZGs5S25VYmV3YWFROEpPbE9yMmNYWG84SUN4dXh3ZDExQVFUak9jV3VmWUJ4T1NoQjlHbmlXQ21oNG5tNmx4VzhPLTVhTzFR?oc=5",
           "published": "2026-10-26T09:25:28+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
+        {
+          "title": "Queen Letizia’s Dress Highlights Pyratex Recycled Lyocell Fabric",
+          "source": "WWD",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOM3lRc2FUekYzT3pkbnZOdTFaRjNNTU9kblNNQ1M5dmh6ajF1YUpaS2xHcnF3M2tBaW5YRTlFbGRlY29NMFZXRFdLc0ZlVktUTWVEVloxUl9sVkFXU1phcGczZ1VyQ2t5cEppbjl0MUVUbGpSUk1USHFEZ2F2WGtpVzgzM2R0ZDYteGtsTGU0Sk5ET2JFLW8tT2lONGVFbE12U18waFJBVlRMdmRoTkFENGpSUkVVVFo2Zmc?oc=5",
+          "published": "2026-10-23T23:57:56+00:00",
           "image": "",
           "snippet": "",
           "region": "Global",
@@ -443,26 +463,6 @@
           "source": "Just Style",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WcXJYeVl4d0NPTTliQW9haUd5eVRnYnRtLWFYbkxJUXVhQl8yY0t5SHl2LTYtd3hIeVM0WWpITUE1QTNCRGtwbkhqLTZka0xIN1lXWTVvY24xMHN2MUhxZE12dDFmb2FQUTQ0bnVOUWVsdw?oc=5",
           "published": "2026-09-23T20:44:20+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "US lawmaker introduces ‘first-of-its-kind’ textile waste bill",
-          "source": "Just Style",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZlNkcVZCXzNpT0JCS0hnYVVrUWF5VERjS2lobVdWbTJFSm9RczZfZVRpaGQ1ZnowOW5SVXh5RmJ6R1ZkX2VhWTRiVjZWWk9FR1ZJZDVJOWIyZGJ4dVpTWHlxTW9lX2VNRlNNVzlMLWlfdGZuRHJqTFBtRVNadVUxZUh5Rzg3Rm5nTlFwMTY1cUx5N0NVZ1E0?oc=5",
-          "published": "2026-09-23T09:28:34+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "Marks & Spencer, New Look, Sainsbury’s Unite to Fight Textile Waste in the U.K. Clothing Industry",
-          "source": "WWD",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUTRsNzIwUndiY1N1VUFMamJNM1dSSVB0LXZZMWlVYldTZFlPanZYQkhYRzNBNXVROHlNS2tuQzFjd1hoV1pOUlVXbFU3cThzRnlhQU4wa2RhaDdUSE00MUpmdHFTWE9TTUNENGRJR1JFUUZiWTRSS3ZBOHZ2b3RzZDlwMkNpSFdzTElOWm44TEdUekwwVXlxREFvT0Jfb3VfTE5abkNGczJQZW41RDNWbkFqRQ?oc=5",
-          "published": "2026-09-23T07:00:00+00:00",
           "image": "",
           "snippet": "",
           "region": "Global",
