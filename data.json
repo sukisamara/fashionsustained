@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-28T01:53:15.935820+00:00",
-  "edition": "Morning edition",
-  "total": 50,
-  "sources": 11,
+  "updated_at": "2026-10-28T17:04:40.702775+00:00",
+  "edition": "Evening edition",
+  "total": 49,
+  "sources": 10,
   "industries": [
     {
       "name": "Fashion",
-      "count": 48
+      "count": 47
     },
     {
       "name": "Regulation",
@@ -18,6 +18,36 @@
       "name": "Global",
       "count": 45,
       "articles": [
+        {
+          "title": "Researchers track destination of Nordic textile waste",
+          "source": "Apparel Insider",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdm1uV1NXYXVIS0JXYXItT2NjVkUyLWhNQnVwS3YxMUtUaks4SF9IVm9tRjdXbGJneE9fSW0wMkJmNmpDUFFsb1ZFRnNYOEJkeTFRRElwc2ZmY2hGLU44dzFwaTA0Um5Qdkd6cXFrdnZ1WG9EU1RzV3dMc3U2UW02VTd3dy1mUzIyWHc?oc=5",
+          "published": "2026-10-28T11:28:27+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
+        {
+          "title": "Textile waste tracking exposes transparency gaps",
+          "source": "Ecotextile News",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWnhTUjBlcWRYQzNLc3JKanRFQTlCa2c2UVExODlVMy1YV2Q5SDJmemxyTHZWSVIwMy14TUJrRGlFVktVcGxZU2Nxd2FpN2RpWmpQVDB5eVN3VGFrdDBIUncwdGlqSDNhdDIyMl95Z0xZRy1ieUNkMHJHQTNqWmxERjdhWUd0NWJPR25HbTR0ZFluMVhHcDRMN2ozMDJhMjJGWjhvX2lmOHpHT0U?oc=5",
+          "published": "2026-10-28T10:41:02+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
+        {
+          "title": "Recover Pushes Recycled Cotton Adoption with ‘Real’ Campaign",
+          "source": "WWD",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTGRmUGtES2N0LVB5UWFkZXRfeDZPUlZjRlBicjJ6dWJ5bi02SVhLZFNLMVNHZG9UanRzTVpXbXlkZHNLUEZCU0ZqUUEzZDllQkZCYUF4anBKdTZhdF96czJiMkp6QWx5a1Z1QllvZ0NDa0duTE10cmw0c0NZdlNjVS1vUVZuT2RaamV5aUthdzVNYUpkXy1ObWdFNTY?oc=5",
+          "published": "2026-10-27T17:12:39+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
         {
           "title": "Primark joins recycled cotton denim initiative",
           "source": "Ecotextile News",
@@ -437,36 +467,6 @@
           "snippet": "",
           "region": "Global",
           "industry": "Fashion"
-        },
-        {
-          "title": "Major UK retailers launch ‘The Circuit’ to scale textile recycling",
-          "source": "Just Style",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0teUU1b20wNGVFRm1aanBNcHRVaS01MzJrVDk4SEVzaHpJZUhuQ1VGaUdPWk5IOFpEWDNLRVVfYUxsSy1aWWo1ZEw1Sy1MaUVRckhfYUZmVHZfUkNxTktpRjVZaXBtMm1ULUdIeVZ3?oc=5",
-          "published": "2026-09-28T12:54:05+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "How Archive, the Resale Platform, Is Ramping Up Footwear",
-          "source": "WWD",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWmp4TW9INnowWDh2UHRzUTJ3cVduWlU2VTVXQ21HNG5RNGxMMXJjdjh0MXN1clFReUcwUGROVG5SS2J2Nko4SDRuRlBzVUF4VE1wNDREMFVYdlRfSWhCdjJfX21uRzR3QUtvTmIySWNENW5qM05MVnFJY1pqTFU4cExtUlF2eHlWNWpNbW1SU3JmSEV1cm5YS25PSS1sSVVyLVdDQ0M1YnNPaG8?oc=5",
-          "published": "2026-09-28T11:32:21+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "EXCLUSIVE: Primark Backs Circ With Long-term Recycled Polyester Deal",
-          "source": "WWD",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbHRfc2dzcHg5Qmo3aTNDMS0zYndVNktyM0xlUHEyWHlnZGFmME5Ia0haak94UVVQY1I2b1F1alNQelFPM044eDR2Z0tnVnBqcW9CTmZqRWx6MGZBNEhYTW5ybllOcE1ZdVp1YkxrREFJcVhsLUNSVERuNW9QeFROQ0NjLWtMOGdlZ3ROSlZ1UjZ0QmtYb1lDZG10Z0NqUXlSN2c?oc=5",
-          "published": "2026-09-28T05:03:06+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
         }
       ]
     },
@@ -498,7 +498,7 @@
     },
     {
       "name": "EMEA",
-      "count": 3,
+      "count": 2,
       "articles": [
         {
           "title": "Our guide for where to buy secondhand clothing online",
@@ -515,16 +515,6 @@
           "source": "Kearney",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMEtyREJQQmNCejd1TGZBcFJHMVpGNlg4Q2hVM2VLd2NRRWJ5X3A1SUVGSDZtMUtOMTFCa05kOXBzeVl4Qkd5c3ZUREFxOUEwMVVacGJxeWZBY3NIN0RfeWdqbU9IOXcyTVE2TTREdFphOVNsZFd0OVowNXhNU2RaZTln?oc=5",
           "published": "2026-09-02T12:43:47+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "EMEA",
-          "industry": "Fashion"
-        },
-        {
-          "title": "Penn State undergrads named hackathon finalists for sustainable fashion app",
-          "source": "The Pennsylvania State University",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVnBXZHpDdDZXN05rUjItcERpclVVRW9jamoyVk5DZExzbklYdlFLMUYtbEFvUERxeXRvOGRicW5aZnJEWlJFUDhnMmN6SzhISTNlcGVIak9PMW5qbXhWa3lqS1BzUzlOX09JaVNsY19QalpHa1k4ek9JemRtYk9YQWtqTm5Mc3hhY2U4R2lqOGVVbjNjV3J1a3RwOEVtaEtfUFhRZ3dyQWlkbzNqTUx3emhvUTg?oc=5",
-          "published": "2026-07-30T07:00:00+00:00",
           "image": "",
           "snippet": "",
           "region": "EMEA",
