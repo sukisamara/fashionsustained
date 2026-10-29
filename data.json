@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-29T02:00:16.957383+00:00",
-  "edition": "Morning edition",
+  "updated_at": "2026-10-29T17:22:38.587049+00:00",
+  "edition": "Evening edition",
   "total": 49,
   "sources": 10,
   "industries": [
@@ -18,6 +18,16 @@
       "name": "Global",
       "count": 45,
       "articles": [
+        {
+          "title": "German Red Cross shuts clothing banks amid textile recycling crisis",
+          "source": "Apparel Insider",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZ1hCb3VJT0tEcHZ6OVVuMXVTaXlWTkZMTl9zdTBodG10MVgxeDBjV1hxdVlRLU1iYkJuM2hvRDJFa25raWZlQUgzWGdfRldxQy0tUlRfc3Mya0dVUm5reDllb1hVb242US00TGdEQUxpMVFsVHFDRkh0LTJXdkJzUHZUazNwMkJ1cHFpSjJMZ1dLTlczVjgtSXUyTGM1YldqNmc?oc=5",
+          "published": "2026-10-29T10:29:55+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
         {
           "title": "Researchers track destination of Nordic textile waste",
           "source": "Apparel Insider",
@@ -453,16 +463,6 @@
           "source": "Apparel Insider",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbXNkQnlZRE1HWUpFeFRjaGk3RDN6VUZDMHZLV3pITkx1Z01RaV9IUjMyVGZUenFHeFcxMHF0NDcwSW8zeHBsTUdJMjVhN0lWR2g2Vm1CODdoQWVfODdjRDlwMWRnRDNXV00tMmhPb3B0TkNtdUtUTWNWRjRvRzZxMnBJT0thcHVLemM5OFd3?oc=5",
           "published": "2026-09-29T10:20:06+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "Circ and Primark partner for recycled polyester",
-          "source": "Ecotextile News",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaWZDUnpYdF9mTkQwbW1VbEl4QVcwc1VXYW8yYzR5OWM1SXlMMmZnUy00ekY2dVpQMU9DMk8wamo1TXp0ZzhOdml6RjB2T285Ml94b3FyZm5vc3Q1OUhQbXJhcGFRRGFtWDBMS2tERDkyNDAzR2tjVmNHWFk3VkJMZEFIYThtMkpQbTcwbU82Xzdibk5rd2dOdGp6VldobHNTOWp3d0U3RTNUd2s?oc=5",
-          "published": "2026-09-29T07:00:00+00:00",
           "image": "",
           "snippet": "",
           "region": "Global",
