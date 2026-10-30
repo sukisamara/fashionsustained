@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-10-30T02:14:36.423211+00:00",
-  "edition": "Morning edition",
+  "updated_at": "2026-10-30T16:59:25.281486+00:00",
+  "edition": "Evening edition",
   "total": 49,
   "sources": 10,
   "industries": [
     {
       "name": "Fashion",
-      "count": 47
+      "count": 46
     },
     {
       "name": "Regulation",
-      "count": 2
+      "count": 3
     }
   ],
   "regions": [
@@ -18,6 +18,16 @@
       "name": "Global",
       "count": 45,
       "articles": [
+        {
+          "title": "ZDHC tightens MRSL chemical limits",
+          "source": "Ecotextile News",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU0JnQWQyTTNycmFjbE4ySkw5bkpSaUNjVlFTUi1KMEhQZUpMd3VPUEcxa0tDV0picVFYZWFNMk56cEpjNWFITU85akJoVkt1VEVFbHhBNkVkeUlxSXhMcTdtVEZBSzFRSlZ6bG5GQUVkTDJ2VlZURktRWnVTc2dHa2NzRHVWQzRKcGtHMlA0eEEwYlRLNFJRbU9VZUQ?oc=5",
+          "published": "2026-10-30T14:14:42+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Regulation"
+        },
         {
           "title": "German Red Cross shuts clothing banks amid textile recycling crisis",
           "source": "Apparel Insider",
@@ -453,16 +463,6 @@
           "source": "Just Style",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoLWRLbC1ucWM1RnlJeURKc1dwR3FTVTJsRkRNRlE5UFFmSnRreHlCX2dkRWIxYjVGWllSdHVxNUlNUkI5UkIxRk8xdzBzM3BsVUM5cURkMzR2YWpLTzgtd2pzdHpydG80VWNKMTNEWGE?oc=5",
           "published": "2026-09-29T10:27:47+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "Primark signs multi-year textile recycling deal with Circ",
-          "source": "Apparel Insider",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbXNkQnlZRE1HWUpFeFRjaGk3RDN6VUZDMHZLV3pITkx1Z01RaV9IUjMyVGZUenFHeFcxMHF0NDcwSW8zeHBsTUdJMjVhN0lWR2g2Vm1CODdoQWVfODdjRDlwMWRnRDNXV00tMmhPb3B0TkNtdUtUTWNWRjRvRzZxMnBJT0thcHVLemM5OFd3?oc=5",
-          "published": "2026-09-29T10:20:06+00:00",
           "image": "",
           "snippet": "",
           "region": "Global",
