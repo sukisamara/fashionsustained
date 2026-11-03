@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-02T20:43:04.619085+00:00",
-  "edition": "Evening edition",
+  "updated_at": "2026-11-03T03:46:12.354753+00:00",
+  "edition": "Morning edition",
   "total": 49,
   "sources": 10,
   "industries": [
@@ -18,6 +18,16 @@
       "name": "Global",
       "count": 45,
       "articles": [
+        {
+          "title": "11 things to know in sustainable fashion and beauty this November",
+          "source": "Good On You",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8wdzJvVWo2dVpoVmFvb08tTFA4UzJ2OWVIdmVYN0x0eGVYRjY2VDF2WV9abFpYVDZLNUxMX1QyRkdxRlhPTU5HMzVYOHZqbFZ2aFFILVdMWDlsZTNNTDRLQWRDUGtOUzdYZndoYTF5Z0p1RTFaNHVpWEdCdEo?oc=5",
+          "published": "2026-11-02T12:29:17+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
         {
           "title": "ZDHC tightens MRSL chemical limits",
           "source": "Ecotextile News",
@@ -453,16 +463,6 @@
           "source": "Good On You",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ONHRRZ0RqSUlnd0p6d0t1cThGUnJ1M19Vb1R6eWJKOVR0TGlPQ080M1Yybld4RmtZS1V6N0RoNkZmSVFNS2JEdFN3MktYdHBO?oc=5",
           "published": "2026-09-30T07:00:00+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "Primark inks first multi-year textile recycling supply deal with Circ",
-          "source": "Just Style",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoLWRLbC1ucWM1RnlJeURKc1dwR3FTVTJsRkRNRlE5UFFmSnRreHlCX2dkRWIxYjVGWllSdHVxNUlNUkI5UkIxRk8xdzBzM3BsVUM5cURkMzR2YWpLTzgtd2pzdHpydG80VWNKMTNEWGE?oc=5",
-          "published": "2026-09-29T10:27:47+00:00",
           "image": "",
           "snippet": "",
           "region": "Global",
