@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-03T03:46:12.354753+00:00",
-  "edition": "Morning edition",
+  "updated_at": "2026-11-03T18:20:26.233960+00:00",
+  "edition": "Evening edition",
   "total": 49,
   "sources": 10,
   "industries": [
@@ -18,6 +18,16 @@
       "name": "Global",
       "count": 45,
       "articles": [
+        {
+          "title": "Reju Wants to Build a Seawall Against Fashion’s Textile Waste Tsunami",
+          "source": "WWD",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUDU3TkUyUHZDMTBXdXFsdEt4RV9OcHFNWVdYVkhnSWIxcXpJalhqaWxKVFdraWNMc0FaajJmUGtYbDc2WF9FQ2pkYk9tTC1KSTA5Q2ctNUs5T0dOMjlBR1Vzck1sUUFWZXJkb0MxSEVYblRSZnR2WmYwU3Y1aXR3Q3BCaEtadHVOVmVrY1FUdERZQjQ?oc=5",
+          "published": "2026-11-03T14:01:50+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
         {
           "title": "11 things to know in sustainable fashion and beauty this November",
           "source": "Good On You",
@@ -453,16 +463,6 @@
           "source": "Ecotextile News",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbnBqTmZsczhvdU9yaEh0LVZCbVhLRThmek4zS3JENWIwSXMwQ2dNR0U5cW4yV2Z5RDhNVUVCNGxUZTZxLTI3SVlLeDM2VThBTFF5Sl9Nb1BvUDlLc0c2QkhQdV80LUFSalk4QVNTQzBRX2RvNVZVaHJacVJTSFR2UGs5bGE2d0g1Z2hwX29wT3Z6MXd5OTU5dzVBSTdXTnV4SzVrYWVRRmRQWHZqcHc?oc=5",
           "published": "2026-10-01T09:41:28+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "More sustainable fashion brand offers this October 2026",
-          "source": "Good On You",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ONHRRZ0RqSUlnd0p6d0t1cThGUnJ1M19Vb1R6eWJKOVR0TGlPQ080M1Yybld4RmtZS1V6N0RoNkZmSVFNS2JEdFN3MktYdHBO?oc=5",
-          "published": "2026-09-30T07:00:00+00:00",
           "image": "",
           "snippet": "",
           "region": "Global",
