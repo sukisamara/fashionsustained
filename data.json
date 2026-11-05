@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-11-04T18:32:57.722510+00:00",
-  "edition": "Evening edition",
+  "updated_at": "2026-11-05T02:56:51.646592+00:00",
+  "edition": "Morning edition",
   "total": 49,
   "sources": 10,
   "industries": [
     {
       "name": "Fashion",
-      "count": 46
+      "count": 45
     },
     {
       "name": "Regulation",
-      "count": 3
+      "count": 4
     }
   ],
   "regions": [
@@ -18,6 +18,26 @@
       "name": "Global",
       "count": 45,
       "articles": [
+        {
+          "title": "How ‘The Circuit’ hopes to scale textile-to-textile recycling",
+          "source": "Just Style",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR2FMb2k4Z2NTVmI1OUl4bXZCeXM4NUVhYlZRQk5NSk9QVGZzMHM5c2s2WW5PU1U0clNrTDhOUU1KYTVTbG9aME12WFVaYkptd0h3WDdwQ04xQndSMHY0Z3ZlRFJSY0JnNWJZeFRwUHBrMjZjTnRtTnRubGtmdy03ekxnb0tJekdmeEZlZGhaWV9XOXNJbUpWRWV5OGo?oc=5",
+          "published": "2026-11-04T20:30:08+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
+        {
+          "title": "Reju expands mill network for recycled polyester fabrics",
+          "source": "Apparel Insider",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORFNsQ3lQSm9SdWVQRHgxRDl4NUhWUnAyeEpjLXYyZWl5N21JUTcxekdNVmQzN3hvaG5oZndyTU5LRVNSbGV3czRwY2d6NnN3VE1xZDk2VmQtOEpSWE1wSEF6aVJtM2dCX05scmY4SG5vZHpERUt3OEpoU3NhTjVHTkJBOFBKWHZpdDdvcQ?oc=5",
+          "published": "2026-11-04T11:46:59+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
         {
           "title": "Reju Wants to Build a Seawall Against Fashion’s Textile Waste Tsunami",
           "source": "WWD",
@@ -37,6 +57,16 @@
           "snippet": "",
           "region": "Global",
           "industry": "Fashion"
+        },
+        {
+          "title": "ZDHC Updates Restricted Substances Guidelines",
+          "source": "WWD",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaDNXRks0OHVxdVhfQzNWemVoRGxKT25NOTl6cEtUMUs0dUNlSHF5ZjBKZVpmZ2J2RFVOclhTbmNneFlkZ3lTRXBfTUxEM1IwSDZtNElNeWRfUGpGd0F5SUNDcjh4Vm54bjdSVnpxMk01R09aWUNDM1JCTTlUS3BScTA3a3p3MjJBVW9RTEpHR2U1cjVTMHZFU2g4bFlsaDhhUkhHSVdBUmZiNlgxLU0yMVZYa19PZw?oc=5",
+          "published": "2026-11-03T00:56:34+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Regulation"
         },
         {
           "title": "11 things to know in sustainable fashion and beauty this November",
@@ -433,36 +463,6 @@
           "source": "Ecotextile News",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRkZEY1hMbGFERmY0Ymp2Rm5CQTF3aUU2SWJwV1JtWVNINUtjeFdqUkhGNkFmcmVSdFh2Rm9TVWJ3clVocTdIMHJsU2p0STVxelBDN1F3YnRIelEwMnJaaVlfUVN4RHNjbWh0TG1nYVFFbG16XzVSeVR5MlRfb2Q5QjJ4akx0NWdXV0F0ZnZ2bG1RY0lDWDI3bWxfOGh3Q2x1TWdJZFdTWGZweXBj?oc=5",
           "published": "2026-10-06T09:42:57+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "New industry project to test recycled cotton quality",
-          "source": "Apparel Insider",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPV1pfVzJpWE5oSkJsTzU4X0ZnYlI5T2M5VlZ2YUlnbVlBTHZQZEF3V3VJUldCYWdmVWtaSHFwamNEUWUyZ1BVR0xNSk9Cd3BjeXhrMEFuUHdvMUxGOGg4aHVWRTQzbkNqOGVsbnlZR3lpQzJaZV9pSFBJM3MxRzJvcGc3OWZ1Njg?oc=5",
-          "published": "2026-10-06T08:35:16+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "Textile recycling report exposes finance gap",
-          "source": "Ecotextile News",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYUtLQmpVMi1lamk2d0M4TGpEbk5SalRYRHh4X2ZuXzZwdE1GUmpJLUFSbHczaVJKMUVWYVdqaF9SQ1JwVVN5OWVNd2tIX0NlbGswUVZvcmJNNWZORmc4QWM4Q3BvcExDYUd1LWNPX1Y3ckxwa3dhQXRiaWhoSWJ2VjJXdlI2T2RRdW1iREpsYnRiMmVHdFBwYWx2NU94engtOEREM1JKY19KOEYwTVl4blYwWks5MEdZ?oc=5",
-          "published": "2026-10-06T06:03:40+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "12 things to know about in sustainable fashion this October",
-          "source": "Good On You",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oX2dhaXJJSUN0dFBHRkV1NHZFLXVBOGtkQzM3bjdDeXFLdThUZk1NUVdRWXN1R1Zic01UZFhOMmVXcTVpdWJmWGJfU24xU3Y1N3BvNnpQTnA4RTRRemRwSUNPRmVidnl3bFM3WQ?oc=5",
-          "published": "2026-10-05T11:09:40+00:00",
           "image": "",
           "snippet": "",
           "region": "Global",
