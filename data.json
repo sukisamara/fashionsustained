@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-11-05T02:56:51.646592+00:00",
-  "edition": "Morning edition",
+  "updated_at": "2026-11-05T18:38:35.724178+00:00",
+  "edition": "Evening edition",
   "total": 49,
   "sources": 10,
   "industries": [
     {
       "name": "Fashion",
-      "count": 45
+      "count": 44
     },
     {
       "name": "Regulation",
-      "count": 4
+      "count": 5
     }
   ],
   "regions": [
@@ -18,6 +18,26 @@
       "name": "Global",
       "count": 45,
       "articles": [
+        {
+          "title": "ZDHC summit: data holds back circularity",
+          "source": "Ecotextile News",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQa2FMVHBYanlCRm50LXY0OVhYTkR2ZXptS2xOWWZYem04RDNlLXBFVE9FUWtURnRkeHowN05ac1hZUTMwa2QwMFhuMk5MS2NKcUkyRmdidVluWkduTmtTbjhjVjRSaEZVWU1PWE44RWM0WHhyMmNRVjNENE5ja2VOa3M0NzNUQmtNaUVqNW1oYUdMbGdkMHQ0WURHRWwxbldoT2M4?oc=5",
+          "published": "2026-11-05T15:08:22+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Regulation"
+        },
+        {
+          "title": "Deakin University, Salvos Stores team up to turn textile waste into new clothes",
+          "source": "Just Style",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzc0lvdnhseHUxWWhtenFyVnNKcGNlTXVrVkdYU1h6dDlWdzJsdkIwZDZnM2puWXZUa1ZPTkNBX1gxOWpfNTFKWTY4T29OZXN1cVFIaHV2WTFybEFHNXdob3Vpcnh2NktZVTdHTmFrUQ?oc=5",
+          "published": "2026-11-05T14:53:13+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
         {
           "title": "How ‘The Circuit’ hopes to scale textile-to-textile recycling",
           "source": "Just Style",
@@ -67,6 +87,16 @@
           "snippet": "",
           "region": "Global",
           "industry": "Regulation"
+        },
+        {
+          "title": "With Lab-Grown Leather Fit for ‘Kings,’ Qorium Rebrands as Reyva",
+          "source": "WWD",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWWNTcjdGeTR0RTd3R2tyNUlYb21CbUowc01FOGt2NGk1bE5pZGZKakZuTmxMMWhhN2FHbDFLQklMNHRHcGFiUkIxN3h5YzlzOEhBXzc1UUJFZmZ0SlkwcVpGSmJ4WTdSX2FGVUNabEE2N0hCYVpyMDgzODV2SW4wTFE2RC1LTkpvTkNCS01vY2w4cVEtUU56OTdnT0k2SFRvUC1pYjBB?oc=5",
+          "published": "2026-11-02T19:38:25+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
         },
         {
           "title": "11 things to know in sustainable fashion and beauty this November",
@@ -435,36 +465,6 @@
           "published": "2026-10-06T15:38:20+00:00",
           "image": "https://textileexchange.org/app/uploads/2026/10/Reju-2.png",
           "snippet": "There is no excerpt because this is a protected post.\nThe post Protected: How Reju plans to tackle the growing problem of post-consumer textile waste  appeared first on Textile Exchange.",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "Protected: The Implementation Era: Scaling regenerative cotton from field to supply chain",
-          "source": "Textile Exchange",
-          "url": "https://textileexchange.org/the-implementation-era-scaling-regenerative-cotton-from-field-to-supply-chain/",
-          "published": "2026-10-06T15:22:32+00:00",
-          "image": "",
-          "snippet": "There is no excerpt because this is a protected post.\nThe post Protected: The Implementation Era: Scaling regenerative cotton from field to supply chain appeared first on Textile Exchange.",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "Textile recycling trapped in ‘missing middle’ of funding, study finds",
-          "source": "Just Style",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOUJDSG1wbnUyenYwcTZIWE9VdnU1ZXVTSHFhN3dkd2J5Z1ZhbUExQmZBN3VjVHMzQ21ZTUJ4TnpMeUlHTC1SS3R1ZXRMSmVpYnhMWWtNWkRlajlrVHlSeUNjOElnOWR6TkhveUNKSG5Idk00ZFRUUGVXc3JVakV2UQ?oc=5",
-          "published": "2026-10-06T14:00:36+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "Recycled cotton project targets adoption barriers",
-          "source": "Ecotextile News",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRkZEY1hMbGFERmY0Ymp2Rm5CQTF3aUU2SWJwV1JtWVNINUtjeFdqUkhGNkFmcmVSdFh2Rm9TVWJ3clVocTdIMHJsU2p0STVxelBDN1F3YnRIelEwMnJaaVlfUVN4RHNjbWh0TG1nYVFFbG16XzVSeVR5MlRfb2Q5QjJ4akx0NWdXV0F0ZnZ2bG1RY0lDWDI3bWxfOGh3Q2x1TWdJZFdTWGZweXBj?oc=5",
-          "published": "2026-10-06T09:42:57+00:00",
-          "image": "",
-          "snippet": "",
           "region": "Global",
           "industry": "Fashion"
         }
