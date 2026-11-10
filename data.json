@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-10T04:24:19.548323+00:00",
-  "edition": "Morning edition",
+  "updated_at": "2026-11-10T18:33:49.319394+00:00",
+  "edition": "Evening edition",
   "total": 49,
   "sources": 10,
   "industries": [
@@ -18,6 +18,26 @@
       "name": "Global",
       "count": 45,
       "articles": [
+        {
+          "title": "Circulose Appoints Interim CEO as Textile Recycling Plant Restarts",
+          "source": "The Business of Fashion",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWGdFQ0lYYk1HZEpFUjFOZWVXUkZ4cElUYWw3Q0RTbHdIY0V0R04xaWQ0dDkyVHc1SEVON1FuUXRqNXoxRUMwYldnb2tVWWZzYmd3RjhKWDAzb3ZrVTlwVmdnclJtcVlOUHJLZTFLYVROdzd3T0p2QVlNZXI1S2lFQXJpTkE2dGZnejU4YWtkcGhsUG5ta2hEY3lrMjFnWnQt?oc=5",
+          "published": "2026-11-10T15:25:22+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
+        {
+          "title": "Circulose restarts textile recycling plant after two-year shutdown",
+          "source": "Apparel Insider",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNTJMQlJkR0xUdUlvWDhlREhIRkRzZXh1UjlsbGpnZnl4eHdQTl9XWEtrN004SG1WYl9xMG94bG1PV3NZR0tDWE5aYzcxT29LM2haQS1sbnBHNzFhMVlhbGItMk16SDhOSGlENGNCb25zMnM2a2ZUREhfYVJMRHlldXphQTFNOXdhaFZGZWgwSTZLSEtENUxMQXRR?oc=5",
+          "published": "2026-11-10T10:07:38+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
         {
           "title": "Mixed textile waste yields high-purity monomer",
           "source": "Ecotextile News",
@@ -445,26 +465,6 @@
           "published": "2026-10-07T15:29:00+00:00",
           "image": "https://s.w.org/images/core/emoji/15.0.3/72x72/2122.png",
           "snippet": "As certified cotton production continues to grow around the world, the industry is increasingly embedding traceability and environmental considerations into everyday production and supply-chain decisions. In this intervi…",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "Brands launch alliance against microfibre pollution",
-          "source": "Ecotextile News",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVm51cjJrSEN4YUNSRUp1VFFvYVBPQ3FjMGJFM2FpNGlncHpVOTNIck9Wc2NlcDlHNTdsNnJTcktxWjhWSzhrTGRuTllGaWk1dFQzRE55N2xjblBISXlIWmpWY0dMck9KdklxbEY3UjFYYTk2aklCcHo0LU1BSmpaN1JuMS1MU2tCMFpOX1A4UGhsYTl1WEtiSUlSRFdOZnc1R1RaTkNJOUthRWllWHg4?oc=5",
-          "published": "2026-10-07T13:05:49+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "New project models 2030 textile recycling potential",
-          "source": "Apparel Insider",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9KZ3JTX29Sd2l6R3JHYkRjSDNOV2RPd0tKZ1NCZGpodURZMlg4RXFCUE1kcDdJZjdZMThMSHJnQWZ0VEpmWjRtYXR1WQ?oc=5",
-          "published": "2026-10-07T10:44:44+00:00",
-          "image": "",
-          "snippet": "",
           "region": "Global",
           "industry": "Fashion"
         }
