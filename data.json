@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-11-11T02:20:47.756730+00:00",
-  "edition": "Morning edition",
+  "updated_at": "2026-11-11T18:31:09.834383+00:00",
+  "edition": "Evening edition",
   "total": 49,
-  "sources": 10,
+  "sources": 9,
   "industries": [
     {
       "name": "Fashion",
-      "count": 43
+      "count": 42
     },
     {
       "name": "Regulation",
-      "count": 6
+      "count": 7
     }
   ],
   "regions": [
@@ -18,6 +18,16 @@
       "name": "Global",
       "count": 45,
       "articles": [
+        {
+          "title": "Lululemon Brings Enzymatically Recycled Polyester to Running Shorts",
+          "source": "WWD",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNzdNNW9wYm5TMlBMcDJzd094Y1JpMGF1QVVqRkpldXdCUmJ1VV93cDJzWWRYam9ad2tnR2o5RlN3ek1YX2Fhc0JDcjI5SWNZMDRrLWZtTloxcDBMaWdKbGZwY0tpWGo1U2VGR18xN2pQT1llSC0tcnRsdm9EOTNhZHhhWnlGTE1IZmJvV1Z4dGdITHdIQkR5QndFd29SNjhzTHJReWpVZ29iZ1lncmZtc3VOMklaY2xXbXNn?oc=5",
+          "published": "2026-11-11T18:18:21+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
         {
           "title": "New Cotton Initiatives Target Farm Data, Textile Waste",
           "source": "WWD",
@@ -47,6 +57,16 @@
           "snippet": "",
           "region": "Global",
           "industry": "Fashion"
+        },
+        {
+          "title": "EU abandons landmark Green Claims Directive",
+          "source": "Apparel Insider",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0zMXlZd2hEOWhyY0V0ZWJyOHZ1QUVtSi1hSjVHanB3MXo2SWtxQWxCU0JONXZncWFHUy1QMUdjVTFnRElzdjlUMHUwNWxCbE5LMkNCSUdsQW1ORFNDN1F2Mk51czh3dG9RZzFuSmR0bHVSbHFQMHA3Yzhacw?oc=5",
+          "published": "2026-11-10T09:54:59+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Regulation"
         },
         {
           "title": "Mixed textile waste yields high-purity monomer",
@@ -445,26 +465,6 @@
           "published": "2026-10-08T08:37:04+00:00",
           "image": "",
           "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "Soaring costs impacting organic cotton",
-          "source": "Ecotextile News",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUTBEdzd5TEVibDJaM2hHWEk0M1pYRkhCeE5ha0o0dnA0MGl2SzJrQlJOUFV4T0Y3WXhNbWZVdEEyU1JzSURHUzBMSFVLM0wtcHU0X0ZJazdKMG1OTGlyNUlaSkpJZi1tS2hDOWRTWHBQODhJUzBFY2h6WENjWVFjbVRkMjFvT1R5d3Y4bDgzTHVzdFFFRldGMmpNN3JHUQ?oc=5",
-          "published": "2026-10-07T22:05:31+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "How Reju Plans to Tackle the Growing Problem of Post-Consumer Textile Waste",
-          "source": "Textile Exchange",
-          "url": "https://textileexchange.org/how-reju-plans-to-tackle-the-growing-problem-of-post-consumer-textile-waste/",
-          "published": "2026-10-07T15:30:00+00:00",
-          "image": "https://textileexchange.org/app/uploads/2026/10/TextileExchange-2025-10-16-10h15m43-large-1536x1024.jpeg",
-          "snippet": "As textile fiber production volumes increase annually, and new and upcoming regulations in the EU and US reshape approaches to waste management, Reju is helping to accelerate the transition to […]\nThe post How Reju Plans…",
           "region": "Global",
           "industry": "Fashion"
         }
