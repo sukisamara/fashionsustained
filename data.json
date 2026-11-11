@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-10T18:33:49.319394+00:00",
-  "edition": "Evening edition",
+  "updated_at": "2026-11-11T02:20:47.756730+00:00",
+  "edition": "Morning edition",
   "total": 49,
   "sources": 10,
   "industries": [
@@ -18,6 +18,16 @@
       "name": "Global",
       "count": 45,
       "articles": [
+        {
+          "title": "New Cotton Initiatives Target Farm Data, Textile Waste",
+          "source": "WWD",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLXpGcUROTjREWE5PNmhTbU9WYnlReFRFdHhRRUZzbjNoZWEwbWg5YjZveFNOWlZyMnZIYzZ0VkVjZ253dkstU0dxVlEyMUt5Q2k3bEQxNzlxM0R4NEFxSnJwUThpa2QtaWNwME9hTEhVd04tYlViZjJDaVM3V0JfSmZzWEJwajdoMG4xS2NBZUZOVVVDenpCMm54dmRLS1c5bVlvd0VKRV90Zw?oc=5",
+          "published": "2026-11-10T20:08:24+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
         {
           "title": "Circulose Appoints Interim CEO as Textile Recycling Plant Restarts",
           "source": "The Business of Fashion",
@@ -455,16 +465,6 @@
           "published": "2026-10-07T15:30:00+00:00",
           "image": "https://textileexchange.org/app/uploads/2026/10/TextileExchange-2025-10-16-10h15m43-large-1536x1024.jpeg",
           "snippet": "As textile fiber production volumes increase annually, and new and upcoming regulations in the EU and US reshape approaches to waste management, Reju is helping to accelerate the transition to […]\nThe post How Reju Plans…",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "Scaling Regenerative Cotton from Field to Supply Chain with COTTON USA™ and the U.S. Cotton Trust Protocol",
-          "source": "Textile Exchange",
-          "url": "https://textileexchange.org/scaling-regenerative-cotton-field-supply-chain-cotton-usa/",
-          "published": "2026-10-07T15:29:00+00:00",
-          "image": "https://s.w.org/images/core/emoji/15.0.3/72x72/2122.png",
-          "snippet": "As certified cotton production continues to grow around the world, the industry is increasingly embedding traceability and environmental considerations into everyday production and supply-chain decisions. In this intervi…",
           "region": "Global",
           "industry": "Fashion"
         }
