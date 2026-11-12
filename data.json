@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-12T03:28:39.956352+00:00",
-  "edition": "Morning edition",
+  "updated_at": "2026-11-12T18:46:38.770459+00:00",
+  "edition": "Evening edition",
   "total": 49,
   "sources": 9,
   "industries": [
@@ -18,6 +18,16 @@
       "name": "Global",
       "count": 45,
       "articles": [
+        {
+          "title": "Valencia approves 50,000-tonne textile recycling plant",
+          "source": "Apparel Insider",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYW42RzJPYmpqT195M1hnX05KLWlzcVN2TFlpQk9oMFV2bVNRQ0hWckE1RzVFRllMUThtYkFtUmdGeTVRMWIwNzNLWlFJUUV4d1pIdE1UV1Y2cVZrcWtXQTBFYXVUaUR2ZnY1UmVyOVlXRUx3WEp6VlR5bzdzTk9uSGg4d1o?oc=5",
+          "published": "2026-11-11T21:21:44+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
         {
           "title": "Lululemon Brings Enzymatically Recycled Polyester to Running Shorts",
           "source": "WWD",
@@ -453,16 +463,6 @@
           "source": "Ecotextile News",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPT0EyS0l4YVlTLWZPTndWODNTQ01DWGFDUjB4bGg4NzZJcjlIb29PLXAzVkd6aDNOdUR4eE8yNERHd05BMlJ4VHRsVUtSLWNpdFV2bWdobFdKMFdDZ2tudTV6MVpvLUJWTGdfc1BVNnVtcFk2MEFKa1dxUXk3TEV0M205SlJ5akJvalYyb0hUQldLUF9hc1VaSnJWYS1JZ19FRlk5SWVPbjBSMGJ5c2hTMkR3?oc=5",
           "published": "2026-10-08T13:07:04+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "Commercial barriers hold up recycled denim",
-          "source": "Apparel Insider",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBBYW1SUlhJZ3lrX2sxNFpXSlJXNERXTUp1V2g2Q041bXpJOHg3Qzd4V3pSWU9GVWZ5NDEybF9iNFRyOXdLdFNJMll0TQ?oc=5",
-          "published": "2026-10-08T08:37:04+00:00",
           "image": "",
           "snippet": "",
           "region": "Global",
