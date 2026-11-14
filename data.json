@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-14T02:47:15.547594+00:00",
-  "edition": "Morning edition",
+  "updated_at": "2026-11-14T16:55:48.978570+00:00",
+  "edition": "Evening edition",
   "total": 49,
   "sources": 9,
   "industries": [
@@ -18,6 +18,16 @@
       "name": "Global",
       "count": 45,
       "articles": [
+        {
+          "title": "EU: 2.3m tonnes of textile waste generated in 2024",
+          "source": "Ecotextile News",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbGhOV1hCT2UycDl0UnZNT2ZyeHhmOW9fa1FDeU1KcENzbERoREsxdFRvRGtDQ0xZbk5STHlfRHZSdUVDTzlDa3pDYy1nLWR3dGQ2aG5IREwxMG1sYk5DZWRqX3I3ZTBNVXBlVE42M3FCYXAxZE5qai04eHRVRnZKY2k5ZF9zZzlkaEZNS0UxNE1KYlNRNXgxZlVNUEY0QQ?oc=5",
+          "published": "2026-11-13T22:25:40+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
         {
           "title": "Valencia approves 50,000-tonne textile recycling plant",
           "source": "Apparel Insider",
@@ -453,16 +463,6 @@
           "source": "WWD",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaXozOTlIOVRBdkdQT2txclZFMDZiV0tBc1JOZWF1TGFSZzlBZVpxb3poeUVKdHBpUmlQQkpNdGhEM1VBOE9tNkpXZkNva1dJME9oVUhLX0tndFg3ckNuTVhBcm1QRmNtclR3THJ2UFo1aXl3Tm91ODdiMEU2XzBqTDZVUjdIUzFNMVVJQU5hRXVPcTlVNGhqYXpJLS1uV0lKSFpN?oc=5",
           "published": "2026-10-09T15:32:34+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "Garment durability failures threaten brand loyalty",
-          "source": "Ecotextile News",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPT0EyS0l4YVlTLWZPTndWODNTQ01DWGFDUjB4bGg4NzZJcjlIb29PLXAzVkd6aDNOdUR4eE8yNERHd05BMlJ4VHRsVUtSLWNpdFV2bWdobFdKMFdDZ2tudTV6MVpvLUJWTGdfc1BVNnVtcFk2MEFKa1dxUXk3TEV0M205SlJ5akJvalYyb0hUQldLUF9hc1VaSnJWYS1JZ19FRlk5SWVPbjBSMGJ5c2hTMkR3?oc=5",
-          "published": "2026-10-08T13:07:04+00:00",
           "image": "",
           "snippet": "",
           "region": "Global",
