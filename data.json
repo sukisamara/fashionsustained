@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-17T19:43:44.700494+00:00",
-  "edition": "Evening edition",
+  "updated_at": "2026-11-18T03:56:27.479999+00:00",
+  "edition": "Morning edition",
   "total": 49,
   "sources": 9,
   "industries": [
@@ -18,6 +18,16 @@
       "name": "Global",
       "count": 45,
       "articles": [
+        {
+          "title": "EU Records 2.3M Metric Tons of Textile Waste",
+          "source": "WWD",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbmYyOE1JeHVLNEU0M3YtcUE4MEhVR0ZtTWowb2hvc1hvUW9TbXZWbXBCRnpyVlI0ankyWnNLNGhaRmpoa3h6MGF6NVM1M0k3b2JVNjNVOGpPc1ZQS2g2RWpMajZUeXNDcmpQUlRhR3R4LTg2eDY3ZVdoZVpFSjVsSjY2MVJkS19vM0tJdlE0TThYX1RZ?oc=5",
+          "published": "2026-11-18T03:44:05+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
         {
           "title": "Ireland tops fast fashion waste index",
           "source": "Ecotextile News",
@@ -453,16 +463,6 @@
           "source": "WWD",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ2xVWGY0SDFQeVlzbnU4cHFQRVQtb0lLMllLY2dOSzMtUlBPeS1UaF9BWVRIZVZQR0VLMDZXalVtY1ZaYUEya2llWFpiSXVLOGJVcGtzaFpPc3NxMEJkTkxmd1cxVnJWNHFFZVlORkk3ZVkzb3FLcUd4eVBnSGVZVzVwTFRvTC1ZZm5uY3dIVGcyaVNMODA5QUZ1N0VMWXhqYTNidGRqbmFzUQ?oc=5",
           "published": "2026-10-16T20:31:29+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "Textile recycling needs buyers, not promises",
-          "source": "Ecotextile News",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMFZsRk10WXRjYnZlQWl4dXR5UVN0NHc4cnI2UkNEajJYWGR4SFFMb21TOEtMSUd4TVN5MXlnQkduZlFIcWxxeU9EOUI0a0JnUGFXa29XOXZuRFpRUXhsdlFaQ0MtejA4Tjg3dmFReEFDa1hfdHZZTnZjYzlrTlpzWmtOOVVXV2ZTRHJjdkl4V3hzUEhLZV8wRERYb2FoNGk2YUNRdQ?oc=5",
-          "published": "2026-10-15T14:09:02+00:00",
           "image": "",
           "snippet": "",
           "region": "Global",
