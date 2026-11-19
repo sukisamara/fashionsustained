@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-11-19T04:04:03.385238+00:00",
-  "edition": "Morning edition",
+  "updated_at": "2026-11-19T19:27:02.682583+00:00",
+  "edition": "Evening edition",
   "total": 50,
   "sources": 10,
   "industries": [
     {
       "name": "Fashion",
-      "count": 43
+      "count": 44
     },
     {
       "name": "Regulation",
-      "count": 7
+      "count": 6
     }
   ],
   "regions": [
@@ -18,6 +18,16 @@
       "name": "Global",
       "count": 45,
       "articles": [
+        {
+          "title": "Circ to focus on factory waste at French textile recycling plant",
+          "source": "Apparel Insider",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcmg1TXYtZzQzNERPcHZpWno5YUQ4ZGxxNzBRSHpWU2dDM0s2ZlduWDE3VlZ3ME5WdVRDckR1UkFFb2N5SDFYX0E5Tm85cDlKczBRZ1hVNHJXbm9BTzdpcmFkeUZFZkNxTzJmbmozb3ltVWJ0S2w0eFBFUXdQeUViT3o3OS1TbmU5aW9ZT2F5ZXNOaC1lbV9r?oc=5",
+          "published": "2026-11-19T08:35:48+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
         {
           "title": "Where does textile waste exported from the Nordics go?",
           "source": "Just Style",
@@ -453,16 +463,6 @@
           "source": "WWD",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWGt6NzJXeHJVNVJBc3UxelRRdTlzQ2UxUVlqWF9LSDFWUzJyV01VWlpGMzM3Y2xFcWFPNEJZUnBvS0ZycTh1TlQ5bG1jaTh1d3ZFcWtQS2RCRGtFdGg0UGUwcFBoSVBKY2ZETUhuS1JONVlzVHdRSVlZd0xldVB0VVVYN3lXTHp2QkxaNElFcDlQSmJIOVVvTHhTa25SdWZMMTZR?oc=5",
           "published": "2026-10-19T16:44:31+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Regulation"
-        },
-        {
-          "title": "ZDHC finds chemical action gap",
-          "source": "Ecotextile News",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYmxiWU9jZHlZYUQweFRBNVVNcGhqU1MteGRmOTlmOUVCVWV5Y3hmekxRaWdKY2xMdHgtQnNfU0Nwa3VhY0xrb0hqR09PcFNkSG1GZ19zbTdtUmwzek9GdTBrRVpYdHZpYVJJN2t5MFp4VHctYXMtX2JQVmYtQ0kwSmJqMzg2aUZlQlhtbU5UV0tILTg?oc=5",
-          "published": "2026-10-19T13:42:26+00:00",
           "image": "",
           "snippet": "",
           "region": "Global",
