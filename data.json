@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-11-20T03:47:15.558126+00:00",
-  "edition": "Morning edition",
+  "updated_at": "2026-11-20T19:02:15.281285+00:00",
+  "edition": "Evening edition",
   "total": 50,
   "sources": 10,
   "industries": [
     {
       "name": "Fashion",
-      "count": 45
+      "count": 44
     },
     {
       "name": "Regulation",
-      "count": 5
+      "count": 6
     }
   ],
   "regions": [
@@ -18,6 +18,16 @@
       "name": "Global",
       "count": 45,
       "articles": [
+        {
+          "title": "ZDHC launches V4 of its Manufacturing Restricted Substances List",
+          "source": "Just Style",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb0lzaVFKRlFXazBONUFqOWx3cGx6MGxrMm5FSkZCM0N2V3ZjZ0FYRTRhYlFjNTNqVFpUbTFzTnpyOXhDZ2cyQjFBU0RvdGJGTnp1eWZaeDVVaDdnT1JpWUFPYm93TWtieFhEWWNjdjAwcTJQRFgtN2tRS2t4WUdYNUYyMFczMG5hNHZYajZuaGdEVF9PUElqaGZkMnFpUQ?oc=5",
+          "published": "2026-11-20T10:53:27+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Regulation"
+        },
         {
           "title": "Material World: Traceable Cotton, Biobased Soles",
           "source": "WWD",
@@ -453,16 +463,6 @@
           "source": "Ecotextile News",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWDV0b1JIc0RBcFhROFZqYkxnRVZ4MUdCY2hKNkRjZlh1VFdQSDUxaV90elgyWEdBWWZ6UnBESDhtVGppQW1XamhDcDFWTFQzN1ZHekNFYjctb3JxbFBpa0lWaEZzT0dtWld5Z3AzQjJKSE5rUXQ3WXlNLTdSQl96OEZZZ0JPQlpYb3p3dHpOS2VwX0FaajJ2Tm5KWmZNTUVVTExCQXQ3RE5TZEhqNFE?oc=5",
           "published": "2026-10-21T13:30:08+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "€8m Italian textile recycling plant targets spinning-grade fibres",
-          "source": "Apparel Insider",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPczFOYUt2NU1sbmw0b1NrY3NWTF92NTJ6Y1k5cTlqNjNmVHBSOXM0aFlYZ0U1LTBRQTZ3QjF3cHhnUkt2b01uZlNhOWROSGtGTGkzQWJlbmpLQ1ZyZDc0dkl2ZzRmZ0JGZHZGYXRtblNXZGdiczNTV2FNSEZZVHRUeTc0OWFjTnhRSEIxcVg3T3o0eWREQkdtRg?oc=5",
-          "published": "2026-10-20T09:20:53+00:00",
           "image": "",
           "snippet": "",
           "region": "Global",
