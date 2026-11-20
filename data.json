@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-11-19T19:27:02.682583+00:00",
-  "edition": "Evening edition",
+  "updated_at": "2026-11-20T03:47:15.558126+00:00",
+  "edition": "Morning edition",
   "total": 50,
   "sources": 10,
   "industries": [
     {
       "name": "Fashion",
-      "count": 44
+      "count": 45
     },
     {
       "name": "Regulation",
-      "count": 6
+      "count": 5
     }
   ],
   "regions": [
@@ -18,6 +18,16 @@
       "name": "Global",
       "count": 45,
       "articles": [
+        {
+          "title": "Material World: Traceable Cotton, Biobased Soles",
+          "source": "WWD",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPanlhRElmaGpfUnJ3TXB6NTJLZEVhaWtHRDMyRDBwSFprMHBLNkFad19MZV9QWGR0dXF3YVJKTV9xYWREWDhWbjdjalFGUUtUMVNjRnd5T0JNWXAwLWJBcFFHeTVkMFlVVENSSWgzeDYtZUJhWEZaVkVzeWFpTVEtMGVSQ05tNWJJRXNKYXgydmZiRWlWUVBCZDBoZy01Y010amtMNUV4cXI2NkU?oc=5",
+          "published": "2026-11-19T20:03:15+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
         {
           "title": "Circ to focus on factory waste at French textile recycling plant",
           "source": "Apparel Insider",
@@ -457,16 +467,6 @@
           "snippet": "",
           "region": "Global",
           "industry": "Fashion"
-        },
-        {
-          "title": "Looted Luxury Goods Surge on Vinted Following Widespread Riots in France",
-          "source": "WWD",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWGt6NzJXeHJVNVJBc3UxelRRdTlzQ2UxUVlqWF9LSDFWUzJyV01VWlpGMzM3Y2xFcWFPNEJZUnBvS0ZycTh1TlQ5bG1jaTh1d3ZFcWtQS2RCRGtFdGg0UGUwcFBoSVBKY2ZETUhuS1JONVlzVHdRSVlZd0xldVB0VVVYN3lXTHp2QkxaNElFcDlQSmJIOVVvTHhTa25SdWZMMTZR?oc=5",
-          "published": "2026-10-19T16:44:31+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Regulation"
         }
       ]
     },
