@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-23T03:19:26.728533+00:00",
-  "edition": "Morning edition",
+  "updated_at": "2026-11-23T22:31:01.335380+00:00",
+  "edition": "Evening edition",
   "total": 50,
   "sources": 10,
   "industries": [
@@ -18,6 +18,16 @@
       "name": "Global",
       "count": 45,
       "articles": [
+        {
+          "title": "AAFA study highlights textile-to-textile recycling potential in CAFTA-DR",
+          "source": "Just Style",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBRZkQtcXRCQW9HSXQ1S2RBdjBCZnNRQmZQTG1tTUd3d05OM3B2SGdHTjg2VEszS1ktSFVUMXR4S2xEWTZVYW9MckphNG94TzV0aFRFSlN6blZ2YlJSZFJNSzRkdzNWUGhHR1BWblM5QkpsZw?oc=5",
+          "published": "2026-11-23T11:15:45+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
         {
           "title": "ZDHC launches V4 of its Manufacturing Restricted Substances List",
           "source": "Just Style",
@@ -453,16 +463,6 @@
           "source": "WWD",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOM3lRc2FUekYzT3pkbnZOdTFaRjNNTU9kblNNQ1M5dmh6ajF1YUpaS2xHcnF3M2tBaW5YRTlFbGRlY29NMFZXRFdLc0ZlVktUTWVEVloxUl9sVkFXU1phcGczZ1VyQ2t5cEppbjl0MUVUbGpSUk1USHFEZ2F2WGtpVzgzM2R0ZDYteGtsTGU0Sk5ET2JFLW8tT2lONGVFbE12U18waFJBVlRMdmRoTkFENGpSUkVVVFo2Zmc?oc=5",
           "published": "2026-10-23T23:57:56+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "Clothing repair gains ground but faces scale test",
-          "source": "Ecotextile News",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWDV0b1JIc0RBcFhROFZqYkxnRVZ4MUdCY2hKNkRjZlh1VFdQSDUxaV90elgyWEdBWWZ6UnBESDhtVGppQW1XamhDcDFWTFQzN1ZHekNFYjctb3JxbFBpa0lWaEZzT0dtWld5Z3AzQjJKSE5rUXQ3WXlNLTdSQl96OEZZZ0JPQlpYb3p3dHpOS2VwX0FaajJ2Tm5KWmZNTUVVTExCQXQ3RE5TZEhqNFE?oc=5",
-          "published": "2026-10-21T13:30:08+00:00",
           "image": "",
           "snippet": "",
           "region": "Global",
