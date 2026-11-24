@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-24T06:33:43.917965+00:00",
-  "edition": "Morning edition",
-  "total": 50,
-  "sources": 10,
+  "updated_at": "2026-11-24T21:04:06.801260+00:00",
+  "edition": "Evening edition",
+  "total": 51,
+  "sources": 12,
   "industries": [
     {
       "name": "Fashion",
-      "count": 44
+      "count": 45
     },
     {
       "name": "Regulation",
@@ -329,6 +329,16 @@
           "industry": "Fashion"
         },
         {
+          "title": "How Reju Plans to Tackle the Growing Problem of Post-Consumer Textile Waste",
+          "source": "Textile Exchange",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR0dpam9YTEIwdUliZG92TkVKVm1hMDZlN0JtOXNYUUVtT0xzR1NrWkg4TWZjaDJlZlB3cVZVb3lKTHhmQVR1M2NpTE9GN3o2ME5ZMmdnRGlpVmhfQjRmZklHWnphUW1LU2pndzJBSkhjeDJDYXBxSWNPNnk5Yld0NTdOeGloUlFNU1QxeEZhMkdDMmdMX3pyWkp1Wkt4VGVQZnlSb0J2aw?oc=5",
+          "published": "2026-11-03T08:08:38+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
+        {
           "title": "ZDHC Updates Restricted Substances Guidelines",
           "source": "WWD",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaDNXRks0OHVxdVhfQzNWemVoRGxKT25NOTl6cEtUMUs0dUNlSHF5ZjBKZVpmZ2J2RFVOclhTbmNneFlkZ3lTRXBfTUxEM1IwSDZtNElNeWRfUGpGd0F5SUNDcjh4Vm54bjdSVnpxMk01R09aWUNDM1JCTTlUS3BScTA3a3p3MjJBVW9RTEpHR2U1cjVTMHZFU2g4bFlsaDhhUkhHSVdBUmZiNlgxLU0yMVZYa19PZw?oc=5",
@@ -457,16 +467,6 @@
           "snippet": "",
           "region": "Global",
           "industry": "Fashion"
-        },
-        {
-          "title": "EU clothing repair market grows as brands respond to demand",
-          "source": "Just Style",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfRkp5a19vVlJpR0V0WGJvNktPSmNpUUIySFJRWmY4ZGs5S25VYmV3YWFROEpPbE9yMmNYWG84SUN4dXh3ZDExQVFUak9jV3VmWUJ4T1NoQjlHbmlXQ21oNG5tNmx4VzhPLTVhTzFR?oc=5",
-          "published": "2026-10-26T09:25:28+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
         }
       ]
     },
@@ -498,8 +498,18 @@
     },
     {
       "name": "EMEA",
-      "count": 3,
+      "count": 4,
       "articles": [
+        {
+          "title": "Miss Diva 2026: Nelson Jaffrey Shares Insights on Fabric Innovation and Sustainable Fashion",
+          "source": "Femina India",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbmt0WnE5T1BwOVRuVHZmaDg1RjlOZS1ieW51bkVlWWRyTWxLdkE3VG1NZ1VnV0tqOUQ5RlctRXljdmpVdUZjNTNTcTdhRU1jZTNDMG1QQVlwQkMxcnNPaXFpdV9OSTkzLVJWTFNFSU5TWDkzenluWE1aVGQ2YU1uSENSczJTVG8wRlJ1UlQxdjlpRTdFdXVsZEVFSDNHQlpUOHFKWFJDazYwQkw0SXdxLThYa0owSm9SYWZheWlpbV96RlVqMENlR2pIcm13Ykg4WVhFbXRNalZuOGhueVdJMTN0TWhUUU1naHVjWWxzX1NIcndVa05N0gH8AUFVX3lxTE0tUXpRUHI3R3Y0OXREZzE2d0d2T2xDdlNuaXRCTVNqbHBSTmozODdzRFl3d3dPOGJJNmc3dV9tWkxnZ2htX3RQRHNVaDJ6d0RxT05tYXJyWm1BeV9fNmNOaWVQVWhoMDdSUWs2Z2ZpMWlKX1R3VzJ2ZzM1RXg2MlZCelVzbG41NGJxeGxoa1JsZHN0SEFZN1JjVGE2RzdOWkVmWmRLSEEycFFMQS1yZXEwQUZRUEZYMkd0ZG5QSEdUWHcyMlRuMElrRVlqck9KVUVFMmNLN1gxTEtIQ2dZUTdyRnRhTFpnRDJQclB6aHNaWkF1MUtYWjhsZmM2SQ?oc=5",
+          "published": "2026-11-24T18:33:43+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "EMEA",
+          "industry": "Fashion"
+        },
         {
           "title": "Building the Textile‑to‑Textile Circularity Ecosystem: Regional Partners Add New Equipment to Ultimately Reduce Textile Waste",
           "source": "Textile World",
