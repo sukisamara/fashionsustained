@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-25T05:08:28.588624+00:00",
-  "edition": "Morning edition",
-  "total": 51,
-  "sources": 12,
+  "updated_at": "2026-11-25T20:25:41.587634+00:00",
+  "edition": "Evening edition",
+  "total": 52,
+  "sources": 13,
   "industries": [
     {
       "name": "Fashion",
-      "count": 45
+      "count": 46
     },
     {
       "name": "Regulation",
@@ -472,8 +472,18 @@
     },
     {
       "name": "NAM",
-      "count": 2,
+      "count": 3,
       "articles": [
+        {
+          "title": "North Carolina regional partners to build textile-to-textile recycling ecosystem",
+          "source": "Specialty Fabrics Review",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE91emhlcFAxVFdidXp4OVFDMXZTWk1IMVJGdDhmNUJJNGhxTXBtQ0R4WG84MkdVeVQ4WGNMY01nejFpejl6SjMwakZaQlVJMTlPS192aWNLRQ?oc=5",
+          "published": "2026-11-25T19:51:22+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "NAM",
+          "industry": "Fashion"
+        },
         {
           "title": "Circular fashion: how to turn a compliance cost into value creation",
           "source": "fashionunited.uk",
