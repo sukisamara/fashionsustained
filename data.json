@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-27T04:38:52.232847+00:00",
-  "edition": "Morning edition",
+  "updated_at": "2026-11-27T19:52:13.611919+00:00",
+  "edition": "Evening edition",
   "total": 52,
   "sources": 13,
   "industries": [
@@ -18,6 +18,16 @@
       "name": "Global",
       "count": 45,
       "articles": [
+        {
+          "title": "Better Cotton partners with Uzbek university",
+          "source": "Ecotextile News",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNVpHM21HTHdSRUhBOW5QTERzbnlkWi1EZlZrTWNQeWRlcXA3OTAzQnlTUVpaQmdlMU9BMkJJLWNERkdLQ2FhV3VrdTRZV2JlMktaaktxUW5wUGQ2cGZFV0JEbl9wYzB6dTJULXVoa25yZngyX1RZMXAwVnlGLUwyU2xOVmMtQWI0MHBybnJSWlVfTEdzbmo0?oc=5",
+          "published": "2026-11-27T14:39:18+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
         {
           "title": "54 more affordable sustainable fashion brands",
           "source": "Good On You",
@@ -453,16 +463,6 @@
           "source": "WWD",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd29JU3R0SXhpZmZXLVN4LWpqVkNubjRFZS1CMDhyYkF1U1QzQlluNlVvd3R0ZnFxY3phWHdfVDJOdXh2RV9IZldGSUdCQ2IydGNMTVVVMmV4bkt0YnE4RFhuRUFWMWRFMGk4QnlwNEpXUzlKVks5VFdfYW1kSnNqTG9HMGNtQzI5Zy1qTUZFQzV1RU5vN0tVVC1UQ2Y3S3hwM2xEajFfRVVKMEdZU3RzOV9WYw?oc=5",
           "published": "2026-10-26T19:17:48+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "South Korea urged to rethink textile recycling",
-          "source": "Ecotextile News",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOW5zSDh4YzFKTDRmQjlZR3BDNmxBbHFOMkFfSHN4V3RaOUcyUncxUjdtTjJxd2ZFSGN3NlI4ZzlWVUt6R2FWdTJjcEh4YVREcGRQR3pkQU9PR1lrWWhmay1NRVhPSkJqYVBiQTNRRVZVVWNqZHlSSm03NVFWYnRrUl9mSmlKTkIzYS1wTTVHaXpmMzZNM3ZPUjMtZlVPbHNvWXY1UmZjVUltZw?oc=5",
-          "published": "2026-10-26T17:05:53+00:00",
           "image": "",
           "snippet": "",
           "region": "Global",
