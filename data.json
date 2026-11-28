@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-27T19:52:13.611919+00:00",
-  "edition": "Evening edition",
+  "updated_at": "2026-11-28T04:23:25.890139+00:00",
+  "edition": "Morning edition",
   "total": 52,
   "sources": 13,
   "industries": [
@@ -18,6 +18,16 @@
       "name": "Global",
       "count": 45,
       "articles": [
+        {
+          "title": "DITF opens textile recycling centre",
+          "source": "Ecotextile News",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYnh4X1JEcENTZzQ4UWpBR1N4X3ZyMld5eEVQTzlHOGxsMVQ0dC1kU0NTbHBKWWEtYU5WTENMYVVBYkxMVlRpVHVsdUtCQW1xdERQNjM1aFM2bHJJUGxOVW9JUUo1UFM5WDh3dks0U1VxTndNYlBhU1AyMGhUcFdEQmhLM2FySTZZX2QweVhjbzJHX0xfeTlVLWJGcDBwaXhwSlgxYkkxU2ZBLUZU?oc=5",
+          "published": "2026-11-27T21:41:42+00:00",
+          "image": "",
+          "snippet": "",
+          "region": "Global",
+          "industry": "Fashion"
+        },
         {
           "title": "Better Cotton partners with Uzbek university",
           "source": "Ecotextile News",
@@ -453,16 +463,6 @@
           "source": "Ecotextile News",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSkFFVF9ialBVWGZYclZMTWpOQ0I2Xy1QVHpSYVdtSkQydVZQN2RjY2lRRVhwOFlxWmJuMF9INGtjUHMxVXNzTE5UTmx3VzlWNVZURER1NGNzQUQ1MEpLMjJhRHVVTWRpeHpxZ19RZ1k5djBJZHVrNFhVT3ltYjl4MHZIdGswM203d092UFBaTjNrMG1nLXZreEJzMFRtQ0MxbDhnelNTWmdIQTJPUTBCcHNXdDBLTXhMeURxcg?oc=5",
           "published": "2026-10-27T10:13:24+00:00",
-          "image": "",
-          "snippet": "",
-          "region": "Global",
-          "industry": "Fashion"
-        },
-        {
-          "title": "How Recommerce Is Redefining Value for Mainstream Shoppers",
-          "source": "WWD",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd29JU3R0SXhpZmZXLVN4LWpqVkNubjRFZS1CMDhyYkF1U1QzQlluNlVvd3R0ZnFxY3phWHdfVDJOdXh2RV9IZldGSUdCQ2IydGNMTVVVMmV4bkt0YnE4RFhuRUFWMWRFMGk4QnlwNEpXUzlKVks5VFdfYW1kSnNqTG9HMGNtQzI5Zy1qTUZFQzV1RU5vN0tVVC1UQ2Y3S3hwM2xEajFfRVVKMEdZU3RzOV9WYw?oc=5",
-          "published": "2026-10-26T19:17:48+00:00",
           "image": "",
           "snippet": "",
           "region": "Global",
